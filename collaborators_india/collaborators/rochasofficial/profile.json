@@ -1,0 +1,973 @@
+{
+    "inputUrl": "https://www.instagram.com/rochasofficial",
+    "id": "1636913469",
+    "username": "rochasofficial",
+    "url": "https://www.instagram.com/rochasofficial",
+    "fullName": "Rochas Paris",
+    "biography": "Established in 1925. \nThe official Instagram account of #Rochas Paris.",
+    "externalUrls": [
+        {
+            "title": "",
+            "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.rochas.com%2F&e=AT1IAxTHXr5nG-10y3TCFUJMXPipNBB3wa4GQOc9a9gNcDP4GpFSHh1jTzF9g4uFo5qE3xHr5vSYn29BFr85RqLMj6oG2BwI",
+            "url": "https://www.rochas.com",
+            "link_type": "external"
+        }
+    ],
+    "externalUrl": "https://www.rochas.com/",
+    "externalUrlShimmed": "https://l.instagram.com/?u=https%3A%2F%2Fwww.rochas.com%2F&e=AT1MOySCzwbyBe0DTnEZQ9MFLiBfYEq9v7JRViDrsOYmyRM9nTG7vpO9EA5A3z033j9X92x5WsN3exGTLqLZwWHRjlULjiGV",
+    "followersCount": 457321,
+    "followsCount": 1,
+    "hasChannel": false,
+    "highlightReelCount": 9,
+    "isBusinessAccount": true,
+    "joinedRecently": false,
+    "businessCategoryName": "Home Services",
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/12816919_1131379433553065_1407402532_a.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=w1KJTiax9DMQ7kNvwHQ5i45&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMAv9qrlRbtdGHVpCHCME7CciSlUe-ehUqrXi1m8k9Bhw&oe=68492118&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/12816919_1131379433553065_1407402532_a.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=w1KJTiax9DMQ7kNvwHQ5i45&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP4bPb9zOISk55QxJWzNW6UE5h6IdSCqS0SFee69wKRuw&oe=68492118&_nc_sid=8b3546",
+    "igtvVideoCount": 0,
+    "relatedProfiles": [
+        {
+            "id": "292700320",
+            "full_name": "TAMMY & BENJAMIN",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/434662998_739332604987331_5250471133114124277_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=SxTxXqsj98AQ7kNvwHRPViC&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNPEgeYIeynz_92TNsclZ1yyPAXd2NDw8GOFP00FJjQ_g&oe=68492D8A&_nc_sid=8b3546",
+            "username": "tammyandbenjamin"
+        },
+        {
+            "id": "4858149097",
+            "full_name": "ROWEN ROSE",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/357474430_1629610264118302_690714649432232281_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=iGqwI0OS_aAQ7kNvwFXiNQy&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPveFx5Ts17CdvPkc3qIunHn0b1Yi3QuOleSNM2xSFJ_Q&oe=684918C0&_nc_sid=8b3546",
+            "username": "rowenroseofficial"
+        },
+        {
+            "id": "5531816335",
+            "full_name": "Cristo\u0301bal Balenciaga Museoa",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/54247420_397328687745733_2706378001242652672_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=XvelpkZTcxoQ7kNvwHdssJl&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN54a7GwKu44cts3zBHfOzb-lmZvvHxe_v-PLZ6uPyAMg&oe=68492A45&_nc_sid=8b3546",
+            "username": "cristobalbalenciagamuseoa"
+        },
+        {
+            "id": "1682600000",
+            "full_name": "LE KASHA 1918",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/308024109_501541291346279_1258378557932299946_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=6b4HRD4sOooQ7kNvwH98Qmy&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNOtlACfDC6LDQ-AR6skV6ibiX9Ols7slft4fiDhOAl3A&oe=6849060E&_nc_sid=8b3546",
+            "username": "lekasha1918"
+        },
+        {
+            "id": "55117407039",
+            "full_name": "Balmain Beauty",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/454426275_8147276155330590_1558013402770681881_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=fev3J2cVAnsQ7kNvwH6_pms&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMKt4P7cR9yLTifIzeF61vKQbL-zd0onstZVT_eG_Md_w&oe=6849163E&_nc_sid=8b3546",
+            "username": "balmainbeauty"
+        },
+        {
+            "id": "3112685472",
+            "full_name": "JENNIFER CHAMANDI",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/434587201_1825237761273463_4887379187284633563_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=ADD6iyDbCEEQ7kNvwF_-kV5&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPp3wTtJV4-hJgXyQ-Lr1qZr_N_1m7rMfAxQRZkNOZnvw&oe=6848F9A8&_nc_sid=8b3546",
+            "username": "jenniferchamandi"
+        },
+        {
+            "id": "22026890875",
+            "full_name": "Lesage",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/70911724_400440003934822_4104029761737588736_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=i1woKhUikEoQ7kNvwFsFoO9&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPVc-nVRu-0rY29WUm40ZGH_QNIc41Mrc4M5uVlHmWdbA&oe=684917E6&_nc_sid=8b3546",
+            "username": "lesage"
+        },
+        {
+            "id": "9912343",
+            "full_name": "Mark Cross",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/434422254_442599798327291_8733058885132766934_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=2K9bCaseG-IQ7kNvwFrKeIw&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMuMV7pYfAM2sekuj4lnWogaWch247w-kNjh6HIinnuBA&oe=684900C9&_nc_sid=8b3546",
+            "username": "markcross"
+        },
+        {
+            "id": "9500481213",
+            "full_name": "E E\u0301 R A",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/47585211_213432296276117_5455229677104791552_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=TAD0IAT8tKkQ7kNvwGQkcLC&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPw1XYvarYLYEdSlJ7mNn2KqcMaJ81uzE-63E4FYJ3Uag&oe=68491D85&_nc_sid=8b3546",
+            "username": "eera"
+        },
+        {
+            "id": "267279130",
+            "full_name": "Rupert Sanderson London",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/27878067_171049633514829_3137602428682108928_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=f17PQAYj7ocQ7kNvwG7ftk1&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMiIMSDEzYEz6HilEpVLItBYrel9gJgV_4v1lXvGIo54g&oe=68490D6A&_nc_sid=8b3546",
+            "username": "rupertsanderson"
+        },
+        {
+            "id": "10991158947",
+            "full_name": "Carine Roitfeld Paris",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/277406737_1043206316231044_2118069382203258359_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=qtS8DqHOtL8Q7kNvwH7rKqr&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNusFbwoxDg6q0pxZFK1ZmPhleu6tL1LvC5jzPbAnApXw&oe=68491B26&_nc_sid=8b3546",
+            "username": "carineroitfeldparis"
+        },
+        {
+            "id": "8573627130",
+            "full_name": "L'Officiel des spectacles",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/40412860_2178896682382471_8969204676960452608_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=S1_Am5V65VkQ7kNvwHc3kkk&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPQ1gMEMD3TWmhMIO67PaMSTaGW4PKx2jm1pRfZxFPcWg&oe=68491D2A&_nc_sid=8b3546",
+            "username": "lofficieldesspectacles"
+        },
+        {
+            "id": "2060515781",
+            "full_name": "MI-R\u00ca I Pro-Age Active Make-Up",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/451106953_1016889433154801_600767769288085773_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=hxDhKvFoeVgQ7kNvwH9iG63&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOA8fS7sDMUHpQCux5nR7xb7M8Sa1WUKUSzCsrGAt76vA&oe=68490059&_nc_sid=8b3546",
+            "username": "mirecosmetics"
+        },
+        {
+            "id": "547207443",
+            "full_name": "Byblos Official",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/36761778_2410955709130687_3440848409932595200_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=unFuZXi3SrsQ7kNvwEynN5U&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOuE5gWVgcFCWYu_tFMx-DogdAlnl0Kg04VcOLrCQc4-g&oe=68490C0A&_nc_sid=8b3546",
+            "username": "byblos_official"
+        },
+        {
+            "id": "2894119392",
+            "full_name": "Helena Rubinstein",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/334562687_584066943740292_5094407529883215321_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=5aJgXBXjO-MQ7kNvwGbiP3f&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMe11SyNcxwSxkvMob46-XEfLh1kjduPnwPn6ZEBQu7oA&oe=684915D0&_nc_sid=8b3546",
+            "username": "helenarubinstein"
+        },
+        {
+            "id": "10679154193",
+            "full_name": "REFINE",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/53695714_301124730550307_5596590270725488640_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=vjY693OfFGcQ7kNvwGOJxIz&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMDDRJj5d5aBeodLQqGEr9vNg5Xtm1WiizLwVq8GGPueQ&oe=68492DAE&_nc_sid=8b3546",
+            "username": "refine_mood"
+        },
+        {
+            "id": "812128916",
+            "full_name": "Laurence Dacade",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/346370740_225148856915960_8132951220627145534_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=_1g-e042mDoQ7kNvwGtsG-1&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPWUEQRmgIwuGTBV5PbAF4UOFMLqDclgyky8EONKhbjtQ&oe=68490FE8&_nc_sid=8b3546",
+            "username": "laurencedacadeparis"
+        },
+        {
+            "id": "1574579569",
+            "full_name": "Pertegaz",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/249146403_205828075023262_3497202333671384189_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=gCDoZEbyZTUQ7kNvwE7iTdZ&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPFpebNsnEkG6Ule8w_Sw2lQ6eMiQ6PnhOKh6UnHYDWvg&oe=6848FCE8&_nc_sid=8b3546",
+            "username": "pertegaz"
+        },
+        {
+            "id": "8801233317",
+            "full_name": "Valentino Archive",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/43739411_2683076218584599_6527644261721047040_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=SjwhERDkeAsQ7kNvwFzIOOp&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMgpuBAJcflKcCJ3UU-BoR_U8jCTeI1szK3JOIE8gA6jQ&oe=6849151F&_nc_sid=8b3546",
+            "username": "valentino_altamoda_archive"
+        },
+        {
+            "id": "2897760374",
+            "full_name": "Maison Lemarie\u0301",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/386920718_864382848544168_1363660934601410667_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=vAdsWajN7asQ7kNvwFlhnpW&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMuvzCs_ws8Lpkp11hIRG7dUvrCom74LRqA3vxZWuNEHA&oe=684929BE&_nc_sid=8b3546",
+            "username": "maison_lemarie"
+        },
+        {
+            "id": "1536393426",
+            "full_name": "PALLAS PARIS",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/456511521_1047855443442912_2647145444689764469_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=vLT3u3WCNh8Q7kNvwF8gsWE&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPLs-bG-Qq140NcNBiveKnKXscxdsFdoI2qRE8GnRfdUw&oe=68490528&_nc_sid=8b3546",
+            "username": "pallasparis"
+        },
+        {
+            "id": "1573355479",
+            "full_name": "CARON",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/412658557_1402200523731497_982145038566139572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=sQXlOyAb_lIQ7kNvwF82jeS&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO7DuN0tzzLvxU0Gj4OZd6UxdEWqB5aGJmEbX2xzqdP9w&oe=68490609&_nc_sid=8b3546",
+            "username": "caronparfums"
+        },
+        {
+            "id": "322409534",
+            "full_name": "ELLE INTERNATIONAL",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/394263414_650385083846390_8063934805717307463_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=VIl2EsAqQMIQ7kNvwFRLkpR&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPsOusgdisE3LoAQOFiwpK_4_0BIRf5S6WadxaJud46OA&oe=6849296C&_nc_sid=8b3546",
+            "username": "elleinternational"
+        },
+        {
+            "id": "2008401525",
+            "full_name": "Houbigant Paris",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/273945743_985749415652192_1271959836488403471_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=sJiFIfPi2RUQ7kNvwE5xqXd&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMq0RUbEEJaQS1uoj6lMm_txXNDILwzKvmMhVoAFXiYZA&oe=68491A0E&_nc_sid=8b3546",
+            "username": "houbigant_paris"
+        },
+        {
+            "id": "2096446088",
+            "full_name": "Ulric De Varens France",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/125327431_121518372902330_2815529672651951859_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=50wAJxawXxQQ7kNvwEmn4M6&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPZ8waUhNjT_ljVsC2LrYSW2RoPWpRNqJ6xjj-KtKq6jQ&oe=6848FFC4&_nc_sid=8b3546",
+            "username": "ulricdevarens"
+        },
+        {
+            "id": "1169692590",
+            "full_name": "PARIS ART CLUB",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/446604188_432857649678750_8901300179073795752_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=Df4xZELz75sQ7kNvwF3WBME&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM1WqVXGLLujT8nYI2-yhBpuViAH7ijq0vsbnV4-2U-XA&oe=68492127&_nc_sid=8b3546",
+            "username": "parisartclubgallery"
+        },
+        {
+            "id": "238440876",
+            "full_name": "Cacharel",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/305795131_421290973224334_2437982791368548422_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=mh96VKB30KoQ7kNvwHH32VS&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPeEXej8pxZwuk6WHQ233h6he-ikQ7sMcta0yD-0AGUFw&oe=6849133E&_nc_sid=8b3546",
+            "username": "cacharel"
+        },
+        {
+            "id": "54820589",
+            "full_name": "EACH OTHER",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/384798120_670940718516661_4332834148127188080_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=4bN6kVTdF1kQ7kNvwE2Jlrz&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPeITR97H1xJ_-vyDEInykdQqul-vgsJQq1-y633B_gaw&oe=68490F48&_nc_sid=8b3546",
+            "username": "eachxother"
+        },
+        {
+            "id": "9392891775",
+            "full_name": "La Collection Community",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/449139832_7676548549087856_4252535144376996288_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=_Pyr3tuUGv4Q7kNvwGXfAbq&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNaOSWAu2CDLyCuWwQA_8EdK1IkFkVDDmok5259mpvsew&oe=6848F7FE&_nc_sid=8b3546",
+            "username": "lacollection.community"
+        },
+        {
+            "id": "1207674916",
+            "full_name": "Talika",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/120743998_976558026162674_965534215436441027_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=JfhfapuM57wQ7kNvwGxcqQS&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOiEy3cgCc7xyZDiu-WXkVJ6aTOMp638Gu64xAUSdukFg&oe=684908B9&_nc_sid=8b3546",
+            "username": "talika_paris"
+        },
+        {
+            "id": "560300381",
+            "full_name": "Carita Paris",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/272073725_978985356333649_3853498306693353263_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=FlxR-Mb6aKYQ7kNvwE3nIgN&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPTHoQ41G6XupoAfSyoIf6-4ZHIrDY1DqjylInzqJUecA&oe=684900EA&_nc_sid=8b3546",
+            "username": "caritaparis"
+        },
+        {
+            "id": "4238199520",
+            "full_name": "ICICLE",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/319050287_144295821432933_3420262100175205174_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=-MsE_tossGoQ7kNvwHUKYiP&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNLm2cIyIAE0eGWhMptroJUctyEp9-ZIYm4V0eDDXZoeg&oe=6849094F&_nc_sid=8b3546",
+            "username": "icicle__official"
+        },
+        {
+            "id": "425947198",
+            "full_name": "C L E R G E R I E",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/21576883_172371719986232_7293068534072999936_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=7f2bcdbXoUEQ7kNvwHRfj19&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNEoCInkre5XwtbL83KAmpQmUuLK2EctQryKqBJjq8cRQ&oe=6848FA3A&_nc_sid=8b3546",
+            "username": "clergerie"
+        },
+        {
+            "id": "4327238554",
+            "full_name": "Colville",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/269614222_315423607116903_6642678690133940259_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=hmV9wdsUKZwQ7kNvwGaIMzI&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPnGFwsK3wSp9-DOf5nppC-6u0y8eF0oaszCqoJuHGSzA&oe=6848F897&_nc_sid=8b3546",
+            "username": "colville_official"
+        },
+        {
+            "id": "1166777478",
+            "full_name": "Caprabo",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/83940719_1415850841911193_4662010541076643840_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=yxTz2JgsIhQQ7kNvwEIwit7&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOYwcFrqYN9LjH4RSBWDnAAG5JAlwbC4yHWUShMEtbfiA&oe=684912BC&_nc_sid=8b3546",
+            "username": "caprabo_supermercats"
+        },
+        {
+            "id": "4064496151",
+            "full_name": "Ecole Lesage",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/17663646_1473425869395543_195007251998572544_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=q-UdktK0MasQ7kNvwHV6GRw&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNPm4Xzjj47QjyNQqCQp2TkgEFshfY9eiBShdpoH0hn0Q&oe=68492B53&_nc_sid=8b3546",
+            "username": "ecolelesage"
+        },
+        {
+            "id": "24809924814",
+            "full_name": "Galliano Archive",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/75341373_515502142632566_6483734423052222464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=aakOEZgMBN8Q7kNvwFAc7Gu&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOl-6BE4lDigVA0mhJg19vZkIZj2p937d11PfHo8MjQgg&oe=68490599&_nc_sid=8b3546",
+            "username": "gallianoarchive"
+        },
+        {
+            "id": "1703463096",
+            "full_name": "RACIL",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/355271472_511367174464052_5126017386376395009_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=Pyaz9w22dUoQ7kNvwFPjKrV&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNuZXvL8uzufW6doDfnZXfRwZmixnX2tZkSypd8k_eOPQ&oe=684922ED&_nc_sid=8b3546",
+            "username": "racil"
+        },
+        {
+            "id": "5559429035",
+            "full_name": "Kiehl\u2019s Portugal",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/18812666_136108413614239_8193307839821774848_a.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=Gx27FA3FNcsQ7kNvwFz2FMY&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNgFDspfxBIkcSeLFCZ4mo5i6k3ppKWXm0IEuY_6IRpjQ&oe=68492E65&_nc_sid=8b3546",
+            "username": "kiehlsportugal"
+        },
+        {
+            "id": "1091539715",
+            "full_name": "SOPHIE HALLETTE",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/411993051_886651843011648_1331234017048550151_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=sHpRgfW8JzkQ7kNvwGwlmuV&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMct3cmFtb7BZpvaacoTXbK04ATq3CxQuQ-dOf9ZVN0MA&oe=684907DB&_nc_sid=8b3546",
+            "username": "sophiehalletteofficial"
+        }
+    ],
+    "latestIgtvVideos": [],
+    "postsCount": 223,
+    "latestPosts": [
+        {
+            "id": "3640364127339171822",
+            "type": "Sidecar",
+            "shortCode": "DKFK-LnIE_u",
+            "caption": "ROCHAS Press Highlight\n\nCollection SS25 Look#11\n\nIn @galafr #May Issue \n\nStyled by Emilie Gaudin @emgaudin \n\nPhotographed by Romin Favre @rominfavre",
+            "hashtags": [
+                "11",
+                "May"
+            ],
+            "mentions": [
+                "galafr",
+                "emgaudin",
+                "rominfavre"
+            ],
+            "url": "https://www.instagram.com/p/DKFK-LnIE_u/",
+            "commentsCount": 2,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499902884_18508942654049470_8523104814124405646_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=LNMxzisGO9AQ7kNvwE0bjvh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4NjM3OTI2NTY3OTAxMQ%3D%3D.3-ccb7-5&oh=00_AfNxjJFTs-CKRqhe_WtMPTOlhEtFaIryRHFw-keXpG-29g&oe=684924D4&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499902884_18508942654049470_8523104814124405646_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=LNMxzisGO9AQ7kNvwE0bjvh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4NjM3OTI2NTY3OTAxMQ%3D%3D.3-ccb7-5&oh=00_AfNxjJFTs-CKRqhe_WtMPTOlhEtFaIryRHFw-keXpG-29g&oe=684924D4&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499963212_18508942663049470_1300336252994953340_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=45Fc7meA-_QQ7kNvwFklpXM&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4NjM3OTYwOTU3MDcwMg%3D%3D.3-ccb7-5&oh=00_AfPmPTMM18b5Kbn4PaUqG4ggiZJ-ZdTpk8PTHD7n3is1BQ&oe=68490872&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 25, 2025. May be an image of 1 person.",
+            "likesCount": 139,
+            "timestamp": "2025-05-25T15:00:00.000Z",
+            "childPosts": [
+                {
+                    "id": "3638886379265679011",
+                    "type": "Image",
+                    "shortCode": "DJ_6-HeI16j",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_6-HeI16j/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499902884_18508942654049470_8523104814124405646_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=LNMxzisGO9AQ7kNvwE0bjvh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4NjM3OTI2NTY3OTAxMQ%3D%3D.3-ccb7-5&oh=00_AfNxjJFTs-CKRqhe_WtMPTOlhEtFaIryRHFw-keXpG-29g&oe=684924D4&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 25, 2025. May be an image of 1 person.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3638886379609570702",
+                    "type": "Image",
+                    "shortCode": "DJ_6-Hyor2O",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_6-Hyor2O/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499963212_18508942663049470_1300336252994953340_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=45Fc7meA-_QQ7kNvwFklpXM&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4NjM3OTYwOTU3MDcwMg%3D%3D.3-ccb7-5&oh=00_AfPmPTMM18b5Kbn4PaUqG4ggiZJ-ZdTpk8PTHD7n3is1BQ&oe=68490872&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 25, 2025. May be an image of 1 person, blonde hair and text that says 'Gala EXCLUSIF ESCAPADE AMOUREUSE DUREUSE AMO EN ECOSSE EBOULEVERSANT T\u00c9MOIGNAGE DE SON MARI STAR ACADEMY DANS SCOULI COULISSES LISSES ETOURNEE TRIOMPHALE TOM CRUISE MISSION SUR LA CROISETTE Prof p CELIBATAIRE LOUANE L'EUROVISION,U UNE AFFAIRE FAMILLE MODE BEAUT\u00c9 SPECIAL F\u00c9TE DESMERES DES B CATE SHEILA \"L\u00c2CHEZ-MOI AVEC LES AVECLESMECS!\" MECS!' www.Gaka/r Gekafi'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3639669374016697501",
+            "type": "Sidecar",
+            "shortCode": "DKCtAMKIjSd",
+            "caption": "Genevieve O\u2019Reilly wears ROCHAS\n\nCollection SS25 Look#25\n\nFor @vanityfair and @latimes \n\nStyled by Grace Richemond @graceirichmond \n\nPhotographed by Kaylee Galvin @kylegalvin_",
+            "hashtags": [
+                "25"
+            ],
+            "mentions": [
+                "vanityfair",
+                "latimes",
+                "graceirichmond",
+                "kylegalvin_"
+            ],
+            "url": "https://www.instagram.com/p/DKCtAMKIjSd/",
+            "commentsCount": 3,
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/500207502_18508939549049470_8574451283603521057_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=q3zjnAPUMPkQ7kNvwGJRl3_&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4MjY3ODQyMTM4NjI2NA%3D%3D.3-ccb7-5&oh=00_AfMqHTwiFUhly5BD92I_WhmDh7DnSsA_rI0kw6qNsuM6aQ&oe=684903DD&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/500207502_18508939549049470_8574451283603521057_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=q3zjnAPUMPkQ7kNvwGJRl3_&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4MjY3ODQyMTM4NjI2NA%3D%3D.3-ccb7-5&oh=00_AfMqHTwiFUhly5BD92I_WhmDh7DnSsA_rI0kw6qNsuM6aQ&oe=684903DD&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499937733_18508939558049470_8927488109241675167_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=mzbRcp5ZDikQ7kNvwFzDhBg&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4MjY3ODQxMjk0NzE4Mg%3D%3D.3-ccb7-5&oh=00_AfNrhRpo2fkfBd2ZVoDeQCQzyrthKlWWjII00JEBnH8zew&oe=68490CF8&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 24, 2025. May be an image of 1 person and suit.",
+            "likesCount": 175,
+            "timestamp": "2025-05-24T16:00:00.000Z",
+            "childPosts": [
+                {
+                    "id": "3638882678421386264",
+                    "type": "Image",
+                    "shortCode": "DJ_6IQyoPQY",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_6IQyoPQY/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1350,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/500207502_18508939549049470_8574451283603521057_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=q3zjnAPUMPkQ7kNvwGJRl3_&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4MjY3ODQyMTM4NjI2NA%3D%3D.3-ccb7-5&oh=00_AfMqHTwiFUhly5BD92I_WhmDh7DnSsA_rI0kw6qNsuM6aQ&oe=684903DD&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 24, 2025. May be an image of 1 person and suit.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3638882678412947182",
+                    "type": "Image",
+                    "shortCode": "DJ_6IQyIC7u",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_6IQyIC7u/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1350,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499937733_18508939558049470_8927488109241675167_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=mzbRcp5ZDikQ7kNvwFzDhBg&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg4MjY3ODQxMjk0NzE4Mg%3D%3D.3-ccb7-5&oh=00_AfNrhRpo2fkfBd2ZVoDeQCQzyrthKlWWjII00JEBnH8zew&oe=68490CF8&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 24, 2025. May be an image of 1 person and blonde hair.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3638876569384106512",
+            "type": "Sidecar",
+            "shortCode": "DJ_4vXToboQ",
+            "caption": "ROCHAS Press Highlight\n\nCollection SS25 Look#1\n\nIn @tankmagazine #April Issue\n\nStyled by Simone Konu-Rae @simonekonu \n\nPhotographed by Melissa Schriek @melissaschriek",
+            "hashtags": [
+                "1",
+                "April"
+            ],
+            "mentions": [
+                "tankmagazine",
+                "simonekonu",
+                "melissaschriek"
+            ],
+            "url": "https://www.instagram.com/p/DJ_4vXToboQ/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499868180_18508938907049470_1845689568087106215_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=in6syOEzPDsQ7kNvwEukgAM&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg3NjU1NjQ5MDcwNTk2MA%3D%3D.3-ccb7-5&oh=00_AfMs6mAyoZZdzRKWmvNeVLOdWMncl_HtQ1Ssjo8X9InsIg&oe=68490D14&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499868180_18508938907049470_1845689568087106215_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=in6syOEzPDsQ7kNvwEukgAM&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg3NjU1NjQ5MDcwNTk2MA%3D%3D.3-ccb7-5&oh=00_AfMs6mAyoZZdzRKWmvNeVLOdWMncl_HtQ1Ssjo8X9InsIg&oe=68490D14&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499645685_18508938916049470_746179263477283920_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=ruFMzKpggBYQ7kNvwF85m5T&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg3NjU1NjQ4MjQ2MTMyMA%3D%3D.3-ccb7-5&oh=00_AfPm0lV7OnhhlrXO-xhLn-GW_An9W5sH69W8eXdV7Ry0fw&oe=684912E8&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 23, 2025. May be an image of 1 person, dancing and pants.",
+            "likesCount": 99,
+            "timestamp": "2025-05-23T13:45:12.000Z",
+            "childPosts": [
+                {
+                    "id": "3638876556490705960",
+                    "type": "Image",
+                    "shortCode": "DJ_4vLTIAwo",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_4vLTIAwo/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499868180_18508938907049470_1845689568087106215_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=in6syOEzPDsQ7kNvwEukgAM&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg3NjU1NjQ5MDcwNTk2MA%3D%3D.3-ccb7-5&oh=00_AfMs6mAyoZZdzRKWmvNeVLOdWMncl_HtQ1Ssjo8X9InsIg&oe=68490D14&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 23, 2025. May be an image of 1 person, dancing and pants.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3638876556482461320",
+                    "type": "Image",
+                    "shortCode": "DJ_4vLSoj6I",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJ_4vLSoj6I/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/499645685_18508938916049470_746179263477283920_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=ruFMzKpggBYQ7kNvwF85m5T&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzODg3NjU1NjQ4MjQ2MTMyMA%3D%3D.3-ccb7-5&oh=00_AfPm0lV7OnhhlrXO-xhLn-GW_An9W5sH69W8eXdV7Ry0fw&oe=684912E8&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 23, 2025. May be an image of 1 person and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3635318290020067691",
+            "type": "Video",
+            "shortCode": "DJzPrlaIGlr",
+            "caption": "\u201cDecoration As Autobiography\u201d\nStriped off-the-shoulder chemise des echoing a breezy allure.\nDiscover the new Rochas RESORT 2025.\nDesigned by Alessandro Vigilante.\n\n#Rochas #RochasParis\n#RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJzPrlaIGlr/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/495809403_18506031847049470_5353672824380648492_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=D91K9OtgzS8Q7kNvwEe-eZl&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOsmHgmvVWBos2UnZ-LPW9yuSrtwhCUZL8xdc3RrrIQsA&oe=684922DF&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m86/AQOXvQuhm48og2WqlMdmmkXJTWtZjsOjj7r-Nlw2u5AqnCV_vAF7Mvpkbkz05V9SRScmUpe-iCvoPCQmTotEMoTdDI3gya6Fc8Lgpgs.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=978161880809470_1735238001&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QzQ1NjZGQjIwNkUyNEQ1MTMxQTJGRjY4QjZCRDFBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ2JydHgwLUhhOWFaRjBDQUpOVnN3VUNhcEliYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJuqJv7Dcn6RAFQIoAkMzLBdAJeuFHrhR7BgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNv6i0my6MPwFZ5ocp5R_9_5Rw5o0heedAplnLPGNrHfQ&oe=68450D0B&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 96,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-18T15:55:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3633899009889821769",
+            "type": "Image",
+            "shortCode": "DJuM-VyIGRJ",
+            "caption": "\u201cDecoration As Autobiography\u201d\nA dynamic wardrobe that calls for days and nights of sanctuary and celebration.\nDiscover the new Rochas RESORT 2025.\nDesigned by Alessandro Vigilante.\n\n#Rochas #RochasParis\n#RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJuM-VyIGRJ/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496041233_18506029930049470_5993945107221110450_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=tJwJjBUlFvAQ7kNvwFxwoUD&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzMzg5OTAwOTg4OTgyMTc2OQ%3D%3D.3-ccb7-5&oh=00_AfPGgzH7yq6gInMU0bBKepvzWMLo9ijPCHKh_sjVnWMSaA&oe=684908D9&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo by Rochas Paris on May 16, 2025. May be an image of 1 person.",
+            "likesCount": 80,
+            "timestamp": "2025-05-16T16:55:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3632361183092280523",
+            "type": "Video",
+            "shortCode": "DJovUA-IgzL",
+            "caption": "\u201cDecoration As Autobiography\u201d\nDaffodil color embracing a soft hourglass line. \nDiscover the new Rochas RESORT 2025.\nDesigned by Alessandro Vigilante. \n\n#Rochas #RochasParis\n#RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJovUA-IgzL/",
+            "commentsCount": 5,
+            "dimensionsHeight": 1915,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/495981956_18506029675049470_1163381166932008741_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=OO02vMjpcuQQ7kNvwHhOKsq&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOBm4CLTryp0mSBlTS-lcR1QrwpzpEqSBMezNDtp1PW8w&oe=68491EEF&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m86/AQOx3PqH13FLHuVeKg5RI3D3m2flVf4jN6ADUbog7T6QjCug4w7LmxS9F0T_N9gkt8BjvZqxNZOAUuFrEuJQBOKHJz5H8UZiQshNplc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=612006641894033_3949543999&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MzQ1QjJCMzgyQUU1N0E4QjkyMDA3MUMzNTFCMTBCNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS3lqangzTDhlT0VNM01DQUpoUkRzSlR5V3hhYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJuiM9t%2BXg5hAFQIoAkMzLBdALeuFHrhR7BgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPm8BpsQu0Ib43F28nydvjWc8Xsi1eQ-M-np_XJQllhFg&oe=6845237C&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 114,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-14T14:00:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3630788304210906632",
+            "type": "Sidecar",
+            "shortCode": "DJjJrnXIk4I",
+            "caption": "ROCHAS Press Highlight \n\nCollection RESORT 25 Look#7\n\nIn @amicamagazine #April Issue \n\nStyled by Adavide Brambilla @davebramby \n\nPhotographed by Jane Rugland @jannerugland",
+            "hashtags": [
+                "7",
+                "April"
+            ],
+            "mentions": [
+                "amicamagazine",
+                "davebramby",
+                "jannerugland"
+            ],
+            "url": "https://www.instagram.com/p/DJjJrnXIk4I/",
+            "commentsCount": 0,
+            "dimensionsHeight": 750,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496209347_18506027923049470_5480645173506192419_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=BfmGC-WPPdMQ7kNvwEqDY30&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMzMTUxMzI0NjUzODQwNA%3D%3D.3-ccb7-5&oh=00_AfM7ZtbYe7PatX5Hr8vESUB4v5imw1i2XhBwpY3MBm_S6A&oe=68491485&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496209347_18506027923049470_5480645173506192419_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=BfmGC-WPPdMQ7kNvwEqDY30&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMzMTUxMzI0NjUzODQwNA%3D%3D.3-ccb7-5&oh=00_AfM7ZtbYe7PatX5Hr8vESUB4v5imw1i2XhBwpY3MBm_S6A&oe=68491485&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496428230_18506027935049470_1669934804869917228_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=gaI4fhYBR_QQ7kNvwE2NgC8&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMzMTUxMzQwNTg4MzY5NA%3D%3D.3-ccb7-5&oh=00_AfNsznbOccQ7ssntG9Oy44kXQj2tIm6W1Q24sLa70uWncQ&oe=684915D0&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 12, 2025. May be an image of 1 person.",
+            "likesCount": 97,
+            "timestamp": "2025-05-12T09:55:00.000Z",
+            "childPosts": [
+                {
+                    "id": "3627331513246538404",
+                    "type": "Image",
+                    "shortCode": "DJW3sr5o9qk",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW3sr5o9qk/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 750,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496209347_18506027923049470_5480645173506192419_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=BfmGC-WPPdMQ7kNvwEqDY30&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMzMTUxMzI0NjUzODQwNA%3D%3D.3-ccb7-5&oh=00_AfM7ZtbYe7PatX5Hr8vESUB4v5imw1i2XhBwpY3MBm_S6A&oe=68491485&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 12, 2025. May be an image of 1 person.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3627331513405883694",
+                    "type": "Image",
+                    "shortCode": "DJW3ssDI0Uu",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW3ssDI0Uu/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 640,
+                    "dimensionsWidth": 640,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496428230_18506027935049470_1669934804869917228_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=gaI4fhYBR_QQ7kNvwE2NgC8&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMzMTUxMzQwNTg4MzY5NA%3D%3D.3-ccb7-5&oh=00_AfNsznbOccQ7ssntG9Oy44kXQj2tIm6W1Q24sLa70uWncQ&oe=684915D0&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 12, 2025. May be an image of 1 person and text that says 'THE ART ISSUE MARINELLASENATORE MARINE ASENATORE INTERPRETA COPERTINADIAMICA OPER AMICA NACINE KIILOVS KOMLOVA'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3630269866283520095",
+            "type": "Sidecar",
+            "shortCode": "DJhTzWaolBf",
+            "caption": "ROCHAS Press Highlight \n\nCollection SPRING SUMMER 25 Look#13\n\nIn @voguegreece #April Issue \n\nStyled by George Karapetis @ohmygeorges \n\nPhotographed by Panos Davios @panosdavios",
+            "hashtags": [
+                "13",
+                "April"
+            ],
+            "mentions": [
+                "voguegreece",
+                "ohmygeorges",
+                "panosdavios"
+            ],
+            "url": "https://www.instagram.com/p/DJhTzWaolBf/",
+            "commentsCount": 3,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496219157_18506027065049470_5755895795377529502_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=3xnBJwDpCfcQ7kNvwEoMJBh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyOTQ3ODgzMjgxNTY1Mg%3D%3D.3-ccb7-5&oh=00_AfNXLy-botI0TTvDn0U7AnXrnKp-pkTt8zKqj_tc76FHqA&oe=6849094F&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496219157_18506027065049470_5755895795377529502_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=3xnBJwDpCfcQ7kNvwEoMJBh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyOTQ3ODgzMjgxNTY1Mg%3D%3D.3-ccb7-5&oh=00_AfNXLy-botI0TTvDn0U7AnXrnKp-pkTt8zKqj_tc76FHqA&oe=6849094F&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496404569_18506027068049470_784175669982768550_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=OpxoqWicyXQQ7kNvwGANYXU&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyOTQ3ODg0MTI0Njk2Nw%3D%3D.3-ccb7-5&oh=00_AfOE4LYWIftsd6GHAgKFXNvcRGZdjSRT-d2PzAvCMSMr3w&oe=684925B6&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 11, 2025. May be an image of 1 person and grass.",
+            "likesCount": 84,
+            "timestamp": "2025-05-11T16:45:00.000Z",
+            "childPosts": [
+                {
+                    "id": "3627329478832815652",
+                    "type": "Image",
+                    "shortCode": "DJW3PFNIf4k",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW3PFNIf4k/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496219157_18506027065049470_5755895795377529502_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=3xnBJwDpCfcQ7kNvwEoMJBh&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyOTQ3ODgzMjgxNTY1Mg%3D%3D.3-ccb7-5&oh=00_AfNXLy-botI0TTvDn0U7AnXrnKp-pkTt8zKqj_tc76FHqA&oe=6849094F&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 11, 2025. May be an image of 1 person and grass.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3627329478841246967",
+                    "type": "Image",
+                    "shortCode": "DJW3PFNoqT3",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW3PFNoqT3/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496404569_18506027068049470_784175669982768550_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=OpxoqWicyXQQ7kNvwGANYXU&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyOTQ3ODg0MTI0Njk2Nw%3D%3D.3-ccb7-5&oh=00_AfOE4LYWIftsd6GHAgKFXNvcRGZdjSRT-d2PzAvCMSMr3w&oe=684925B6&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 11, 2025. May be an image of 1 person and text that says 'NOGOI GREECE \u0398\u0391\u03a1\u03a1\u039f\u03a3 IOANNA P\u0391 ALIOSPIROU IOANNAPALIOSPIROUBYANNADA B ANNA DA DA'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3629519890578160305",
+            "type": "Sidecar",
+            "shortCode": "DJepRxHIDqx",
+            "caption": "ROCHAS Press Highlight \n\nCollection SPRING SUMMER 25 Look#1 & #23\n\nIn @milk_magazine #Spring Issue \n\nStyled by Elissa Castelbou @elissacastelbouloiret \n\nPhotographed by Lisa Boostani @lisaboostani",
+            "hashtags": [
+                "1",
+                "23",
+                "Spring"
+            ],
+            "mentions": [
+                "milk_magazine",
+                "elissacastelbouloiret",
+                "lisaboostani"
+            ],
+            "url": "https://www.instagram.com/p/DJepRxHIDqx/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496639831_18506025577049470_814766777459761862_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=fGKFcj2qXN0Q7kNvwGk7FSn&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyNTQxODg4OTEwOTE5OQ%3D%3D.3-ccb7-5&oh=00_AfMt6EuCQ6_kV0aBVv2aAuf_PfV0ggk27AUJY77AMG0XiA&oe=6848FB34&_nc_sid=8b3546",
+            "images": [
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496639831_18506025577049470_814766777459761862_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=fGKFcj2qXN0Q7kNvwGk7FSn&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyNTQxODg4OTEwOTE5OQ%3D%3D.3-ccb7-5&oh=00_AfMt6EuCQ6_kV0aBVv2aAuf_PfV0ggk27AUJY77AMG0XiA&oe=6848FB34&_nc_sid=8b3546",
+                "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/495513063_18506025586049470_7736374415999899610_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=DTWi-uJP5WcQ7kNvwFTbhLX&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyNTQxODg4OTA4Mzk5Mg%3D%3D.3-ccb7-5&oh=00_AfP8eJS3v-KSPV3XApoyZyFcyackh3fKWnZ91Zp-tB2Maw&oe=6848FD4C&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Rochas Paris on May 10, 2025. May be an image of 3 people and people dancing.",
+            "likesCount": 132,
+            "timestamp": "2025-05-10T15:55:00.000Z",
+            "childPosts": [
+                {
+                    "id": "3627325418889109199",
+                    "type": "Image",
+                    "shortCode": "DJW2UAFoV7P",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW2UAFoV7P/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/496639831_18506025577049470_814766777459761862_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=fGKFcj2qXN0Q7kNvwGk7FSn&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyNTQxODg4OTEwOTE5OQ%3D%3D.3-ccb7-5&oh=00_AfMt6EuCQ6_kV0aBVv2aAuf_PfV0ggk27AUJY77AMG0XiA&oe=6848FB34&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 10, 2025. May be an image of 3 people and people dancing.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                },
+                {
+                    "id": "3627325418889083992",
+                    "type": "Image",
+                    "shortCode": "DJW2UAFoPxY",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DJW2UAFoPxY/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/495513063_18506025586049470_7736374415999899610_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=DTWi-uJP5WcQ7kNvwFTbhLX&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzMyNTQxODg4OTA4Mzk5Mg%3D%3D.3-ccb7-5&oh=00_AfP8eJS3v-KSPV3XApoyZyFcyackh3fKWnZ91Zp-tB2Maw&oe=6848FD4C&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Rochas Paris on May 10, 2025. May be an image of 2 people and text that says 'Milk Bonton une collab' teint\u00e9e de teint\u00e9edestyle de style MilK MAGAZINE FASHION. ACMOC.UELT.L.ER LIFESTYLE. TRAVEL. EXPERIENCES FOR ODERN FAMILIES. With English lexts'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "rochasofficial",
+                    "ownerId": "1636913469"
+                }
+            ],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3627921843473722090",
+            "type": "Image",
+            "shortCode": "DJY97HxIarq",
+            "caption": "\u201cDecoration As Autobiography\u201d\nFit and flare midi-dress caught by leather waist clinchers for a silhouette of elegance.\nDiscover the new Rochas RESORT 2025.\nDesigned by Alessandro Vigilante.\n\n#Rochas #RochasParis\n#RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJY97HxIarq/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/495915049_18506022169049470_6841744458195033976_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=vvCsrdmB5q0Q7kNvwGlD5bO&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzkyMTg0MzQ3MzcyMjA5MA%3D%3D.3-ccb7-5&oh=00_AfMgueaXSsQyISvy5326xsIZBiTyKf-vpq9T3scg1mQqdA&oe=68492E32&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo by Rochas Paris on May 08, 2025. May be an image of 1 person.",
+            "likesCount": 104,
+            "timestamp": "2025-05-08T11:00:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3627105824182139733",
+            "type": "Image",
+            "shortCode": "DJWEYelIHtV",
+            "caption": "\u201cDecoration As Autobiography\u201d\nMarcel Rochas\u2019 graphic \u2018R\u2019 as a rhinestone buckle on suede belts. \nDiscover the new Rochas RESORT 2025.\nDesigned by Alessandro Vigilante.\n\n#Rochas #RochasParis #RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJWEYelIHtV/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/491447740_18505971259049470_2826072263956875266_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=8-onj7BkfkcQ7kNvwGoZ4JY&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYyNzEwNTgyNDE4MjEzOTczMw%3D%3D.3-ccb7-5&oh=00_AfNtY0YayWnuu7z7l0Ppn2bOIATdcrMiQ28q8b9sLTgkCg&oe=6848FB81&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo by Rochas Paris on May 07, 2025. May be an image of leather.",
+            "likesCount": 70,
+            "timestamp": "2025-05-07T07:58:50.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3624932266945460298",
+            "type": "Video",
+            "shortCode": "DJOWLDqIrhK",
+            "caption": "\u201cDecoration as Autobiography\u201d\nLayers of urban sophistication unfurl into effortless gestures of sensual dressing. \nDiscover the new Rochas RESORT 2025. \nDesigned by Alessandro Vigilante.\n\n#Rochas #RochasParis \n#RochasResort25",
+            "hashtags": [
+                "Rochas",
+                "RochasParis",
+                "RochasResort25"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJOWLDqIrhK/",
+            "commentsCount": 6,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/491444396_18504558427049470_1939924174081546142_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QExEWGiKhr5uYFYxRghqGVyl8QLXA0hve7MRx2mYc8i-i_G-rEH7_HdVSHOtmJ7Mfc&_nc_ohc=uSf3PE6LCa0Q7kNvwHihv5v&_nc_gid=Pu7pBJKo1PfDpvHyEl11YA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO0p2cYFP3R6VpF6fXIrqzpkuo0qgokXU8AhJbBsau-DA&oe=68491257&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m86/AQPGlOprLyGLwbjDyquZy25YruwV0NsWL8ZFiiOp2fsG_CXo7Q9u1OWunYfZK3NbdqB2BrDcBGyhONMLGTBlfFjBOB0VU4u006x54iw.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=105&vs=710264031665643_1757760028&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yODQ3RTU0QzM3NTlFMEYzMTMyOTdFQzZCMjFBREU4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSVM2bngxQnQ0eloxOWNpQU5adW5WQmdMbWxNYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJprLt%2FeMmqJAFQIoAkMzLBdAIcKPXCj1wxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPAsKeLov2iU26SzOEaNAUe9CiJiLJdV8Z-rPIcLRoDFQ&oe=68452A01&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 128,
+            "videoViewCount": 432,
+            "timestamp": "2025-05-04T08:00:00.000Z",
+            "childPosts": [],
+            "ownerUsername": "rochasofficial",
+            "ownerId": "1636913469",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        }
+    ],
+    "fbid": "17841401484095576"
+}

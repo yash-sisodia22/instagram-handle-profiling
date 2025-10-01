@@ -1,0 +1,1512 @@
+{
+    "inputUrl": "https://www.instagram.com/marirrodrigs",
+    "id": "302767041",
+    "username": "marirrodrigs",
+    "url": "https://www.instagram.com/marirrodrigs",
+    "fullName": "Mariana Rodrigues \ud83c\udf1e",
+    "biography": "Dicas de beleza e viv\u00eancias \nLoira de nascen\u00e7a e Biondina \n\ud83d\udc8c: marirodrigues@jacobscom.com.br\n\u2022 Assessoria: @jacobscomunicacao",
+    "externalUrls": [],
+    "followersCount": 70126,
+    "followsCount": 1888,
+    "hasChannel": false,
+    "highlightReelCount": 4,
+    "isBusinessAccount": false,
+    "joinedRecently": false,
+    "businessCategoryName": "Digital creator",
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/486642463_9795512010480642_4486315099444399926_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8cxngu0Y93gQ7kNvwGczXKR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfODM3Y05M7dHzbWBZr6sKdMXGRkRmbtbfXRtCZR2FaekQ&oe=684F9EF5&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/486642463_9795512010480642_4486315099444399926_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8cxngu0Y93gQ7kNvwGczXKR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNTui32GP6OZJ7cGeI0OJEHpNr7wMzUVW2SM8QQr6sk_A&oe=684F9EF5&_nc_sid=8b3546",
+    "igtvVideoCount": 0,
+    "relatedProfiles": [
+        {
+            "id": "14518141",
+            "full_name": "Julia Rodrigues",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/449693519_1870082370173117_7507045196834427782_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=S_jD-8RJSkEQ7kNvwECkghd&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPYFpwGrxSA-B76X6jNUAJS9Jt82OkJZ24bkqqZH9boAg&oe=684FB07B&_nc_sid=8b3546",
+            "username": "juliarodrigues"
+        },
+        {
+            "id": "260407876",
+            "full_name": "Paola Cassa\u00f1o",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/434779904_391935093730557_6188274670021988321_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=KmWYgUh9sP4Q7kNvwG0WvN0&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNzeNyuhN29mQsiOrpdObLKqWVZnbYMt-5KzPe6vDSDvQ&oe=684FAFFF&_nc_sid=8b3546",
+            "username": "paolacassano_"
+        },
+        {
+            "id": "3249735904",
+            "full_name": "Polly \u27b0",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/500214436_18403536706111905_5677512434400842586_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=fh3MpK0h1JUQ7kNvwE8JBM5&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPu0cszBr0URh8L3ldA6N4_Jkh6zE680TiPwp2AU9Crsg&oe=684FA2C1&_nc_sid=8b3546",
+            "username": "paulianne"
+        },
+        {
+            "id": "45844712080",
+            "full_name": "Wemily Ferreira",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/469224813_1070434028162912_5814050869119464422_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=d5lNMAEdqMYQ7kNvwGoZQY_&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMUt8uPX6CZukwE9J_8NQBjd9Qy6G_a02pXGW_6YPujIw&oe=684F9F0A&_nc_sid=8b3546",
+            "username": "weemilyferreira"
+        },
+        {
+            "id": "546006422",
+            "full_name": "N\u00edvea Cavalcante",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/475293195_928073462847170_6978695534121388463_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=exX4c7CJhgEQ7kNvwEMg6sC&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPDdBEv2BGD2vNbfdhdCW6jcOlmqMayJ5z0kFbda9vDww&oe=684F9B08&_nc_sid=8b3546",
+            "username": "niveacavalcannte"
+        },
+        {
+            "id": "61347722299",
+            "full_name": "gia",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/450793992_1185571926230300_2782545209004268161_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=a089dq3l7R0Q7kNvwGhhzqc&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNd9zSfMQPNRZ6uoxLrophlTTyk2AkTlrhM5ZepyEFoGg&oe=684FCC78&_nc_sid=8b3546",
+            "username": "__giali"
+        },
+        {
+            "id": "317026299",
+            "full_name": "Kathleen Sales",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/504438142_18514470106034300_7889961544282950522_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=WlTs0eEBtGIQ7kNvwFzUOF1&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN7jaAckD-qnN2bhLqbxctf_hEZ2gWud54DEsIO3yZBXw&oe=684FA4A4&_nc_sid=8b3546",
+            "username": "kathsaless"
+        },
+        {
+            "id": "2080715861",
+            "full_name": "Obvious",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/233906255_1342310922833537_7755716713587096000_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=TJjDiL16sswQ7kNvwEhdvFL&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPqEx-nYaAKbRxgCjfdkILRQgn4m36HSpRIPJ4MOxpzkA&oe=684F9AF9&_nc_sid=8b3546",
+            "username": "obvious.cc"
+        },
+        {
+            "id": "1601950797",
+            "full_name": "Dhenifer Gomes",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/488024051_703666498881040_4224501153931916891_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=f7azZr7g0B8Q7kNvwE9bvFO&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO6RxzBXeQ8vfkqeKSEhJIABSTg9qnVhJVhGDu73ucSog&oe=684FA981&_nc_sid=8b3546",
+            "username": "_falamana"
+        },
+        {
+            "id": "182856744",
+            "full_name": "BELLA CAMPOS",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/470944748_557096527231395_2124212386651941538_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=uS4CMSZynV4Q7kNvwF-douJ&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNiRShjXCo6WcFl1rw0JnNDWWnW-pAKveMZO9-WB28OCQ&oe=684FC041&_nc_sid=8b3546",
+            "username": "bellacampox"
+        },
+        {
+            "id": "607800732",
+            "full_name": "Sa\ud83e\uddf8",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/473816706_8873084412812402_466364766910303940_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=EB1w2InA1ooQ7kNvwF6z_mB&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP4Q1VunAv0CWNrEMvgbzWjyU5-FoOhqpLqwk8QT18nmQ&oe=684F9BB1&_nc_sid=8b3546",
+            "username": "samaralcntara"
+        },
+        {
+            "id": "8042350843",
+            "full_name": "saquinho de lixo",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/469948283_1292712385250377_7733971632387404593_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=NnHa0Rx0tQUQ7kNvwHlOuh4&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNc0SciHoCiC-8nUmkcfn7zHDlKUBbXHt6XNBvY0FeICg&oe=684FAC7E&_nc_sid=8b3546",
+            "username": "saquinhodelixo"
+        },
+        {
+            "id": "2669817591",
+            "full_name": "Eliziane Berberian",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-5.fna.fbcdn.net/v/t51.2885-19/472958001_538230212557380_7571512681889788003_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-5.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=n50g43XID2sQ7kNvwEFqiuo&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMauqz7OAtR_DK8npNuOTDqW1fgkMBj-NCe6RNN6irQVA&oe=684FC684&_nc_sid=8b3546",
+            "username": "elizianeberberian"
+        },
+        {
+            "id": "561972171",
+            "full_name": "Glenda Hingrid",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/412086075_690771473170479_2067400326565126935_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=t3dOccAV8yIQ7kNvwFoahJ4&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNEr5AlHz_y250l6tRNKiL6uF6lBGS9acUjlDDyyPQzvg&oe=684F9A39&_nc_sid=8b3546",
+            "username": "glenhingrid"
+        },
+        {
+            "id": "5573300984",
+            "full_name": "B AO QUADRADO | BRECH\u00d3 EM BRAS\u00cdLIA",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-3.fna.fbcdn.net/v/t51.2885-19/363943960_1038331217114147_7774543202484650948_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=vevKOBhyIv8Q7kNvwF2u9MR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPyH0JU7uy9e6L5PvBSsByX9yF65vu4xt-zk5jceopOOw&oe=684FD126&_nc_sid=8b3546",
+            "username": "baoquadrado_"
+        },
+        {
+            "id": "24370781",
+            "full_name": "laura martins",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/497330629_18505777792050782_5422464198900161016_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=wWRZSARMKXAQ7kNvwF9lQYC&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMDBV4giAK1ELo_pUs3ifcUCk8FZBb6GCKrhyewZxuCQQ&oe=684FC639&_nc_sid=8b3546",
+            "username": "lauragmartins"
+        },
+        {
+            "id": "1536875331",
+            "full_name": "Daniela Santos",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/447918140_1175921936868632_5131303225196779285_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=MvsHriAdX38Q7kNvwHzJrBc&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPp6u5Yj25Snm1fAbBYbR4Jqd0MLymzkvBQwyQ6QtZmwQ&oe=684FCFCB&_nc_sid=8b3546",
+            "username": "daanielasantos_"
+        },
+        {
+            "id": "238501642",
+            "full_name": "BIANCA BOCA ROSA",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/486289778_614868905041486_5099461719842931873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=6sVqn2Hzh1AQ7kNvwGxgCM3&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMEwXgS8xpY0mVfo60OvE5hQw-6DIFOPfpUCA8bsf6hcA&oe=684FC4B5&_nc_sid=8b3546",
+            "username": "bianca"
+        },
+        {
+            "id": "13484632025",
+            "full_name": "julia vieira",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-2.fna.fbcdn.net/v/t51.2885-19/452244676_987171989853817_5010619153010616001_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=C52c6rfhu2YQ7kNvwED1IrS&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMBU7yAr_l22ZzU5v5x2b-wRqcTvjruYJwVMSF1s1ABSA&oe=684F9F53&_nc_sid=8b3546",
+            "username": "juliavieira"
+        },
+        {
+            "id": "221030977",
+            "full_name": "Gabriel Magela",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/470946776_915556700554496_8853759856978806878_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=2QALzXWhXoQQ7kNvwFD5JFM&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPL9RsRF4VJB1w3MwLN8iCeMvb1dTaLWujhMu5l2kyzHw&oe=684FABFF&_nc_sid=8b3546",
+            "username": "gabrielmagela_"
+        },
+        {
+            "id": "1680318279",
+            "full_name": "Orleide Nunes\ud83d\udcab",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/488040259_9614766501945927_4969935395262071730_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ipvW91SrM7oQ7kNvwHzbeBg&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPMQSJSiO_EEJwZ5EipiJYnryi7jYr5fcyUUT3WThzL8Q&oe=684FA0E7&_nc_sid=8b3546",
+            "username": "euorleidenunes"
+        },
+        {
+            "id": "3120956731",
+            "full_name": "Maria Eduarda",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/473798902_632580399438242_86343338275474465_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=BdAZcFMTl2wQ7kNvwEM0t0B&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPEJxUHxWk5Ct_6yrAsNSPmQD2bUAlWlWPuM6HdOvEkdQ&oe=684FCE75&_nc_sid=8b3546",
+            "username": "eududasilva"
+        },
+        {
+            "id": "368112778",
+            "full_name": "Je\u0301ssica Gomes",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/335936523_212878198071856_1970359116217533553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=cwBGcluYgvAQ7kNvwFLrFNu&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMPgCR5b_G0Y3EImoWVe9QEwJXSUm9gIwA7mQ6261_SdQ&oe=684FD083&_nc_sid=8b3546",
+            "username": "_gomesjessicaa"
+        },
+        {
+            "id": "30280012716",
+            "full_name": "Bia Ben",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/449725142_820960380101280_1341140475474848514_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=kLOAMSL4AWcQ7kNvwFc8_on&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMJpgVETmFcp3IYWpYpj0L0ElgI1j07ONjCkHf3Htsljg&oe=684FA81C&_nc_sid=8b3546",
+            "username": "biaben"
+        },
+        {
+            "id": "242959931",
+            "full_name": "JULIA AQUINO",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/488643261_445072005330737_4871462208570988817_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Nh4hbN7lvbUQ7kNvwHQDvr6&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNOWmHSYnBOLLIfUJD5AoniZ7eu7z7bUCDshq6ToUBK8A&oe=684F9AAC&_nc_sid=8b3546",
+            "username": "__juliaquino"
+        },
+        {
+            "id": "605402910",
+            "full_name": "Ana Paix\u00e3o \ud83d\udc8b",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/459008079_1445030652879775_7214823366349857044_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=B8gbUE1IwRsQ7kNvwF5E33Y&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPaylcAIDOR6Bpfv49Xhd1EfPq7pnnhvmXgMFJZm_w6XQ&oe=684FC558&_nc_sid=8b3546",
+            "username": "anapaixa.o"
+        },
+        {
+            "id": "37634619389",
+            "full_name": "liv .\ud81a\udd54 \u0741 \u02d6",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/487056799_1168514937784957_2137102951325986104_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=f2BGF_wAFpwQ7kNvwFUy1X1&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMxkIwe-rs0amrikJODxJ38RG_jsunugQsSFKG_ZFBCBQ&oe=684FC68B&_nc_sid=8b3546",
+            "username": "livresenhas"
+        },
+        {
+            "id": "263331183",
+            "full_name": "Linda Lis",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/503044292_18510030358035184_2879172783908455239_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Rb5hfk11kfgQ7kNvwGkRU7u&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPZvGtOFOJ37I9M3TIgsmGgr41Jex_-Bin1OnWrI3eTcg&oe=684FBC46&_nc_sid=8b3546",
+            "username": "lindalisav"
+        },
+        {
+            "id": "7053048645",
+            "full_name": "Bianca Hulmann",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/504053245_18317926915232646_1994238332250731819_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ETy47B8yNN0Q7kNvwH2-PP8&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMuNGpUc0KixQKSPzwkVEdQhVAiExqWQC8EQZZ6L0Dqfg&oe=684FB34E&_nc_sid=8b3546",
+            "username": "biahulmann"
+        },
+        {
+            "id": "1084945",
+            "full_name": "Hugo Gloss",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/73268242_400599524157787_7139243829395193856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=O-gXcet67RYQ7kNvwEznIXF&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMCNKIBdQg2d3YSONgSYPT_upz4t1kzOZdSD0ZRgp_EhA&oe=684FB904&_nc_sid=8b3546",
+            "username": "hugogloss"
+        },
+        {
+            "id": "314201634",
+            "full_name": "Agatha S\u00e1",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/472138789_604962022223849_4488734417494597159_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=5GmUh5e9Pg8Q7kNvwG2hl6D&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNhDSjP6KohJCyyyUw27VVw1xO3tVIPNNBsRanF8U6FHg&oe=684FCA8D&_nc_sid=8b3546",
+            "username": "agathasa"
+        },
+        {
+            "id": "15423591",
+            "full_name": "Mari Maria",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/499882859_18517038829063592_2049782773428799746_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=gM68MPgzSEsQ7kNvwGonD92&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN0K57jm3xoZWPzwSliwFFhT6AhFa5lDwxrhvWNXy5-VQ&oe=684FA22F&_nc_sid=8b3546",
+            "username": "marimaria"
+        },
+        {
+            "id": "5499163284",
+            "full_name": "Stenio Girardelli",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/474608255_1164137155430158_6370978387267788801_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=dm2u2jt6B-YQ7kNvwGiHS-_&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPil9uSJK1CAlmlUpdrBFkgShQ_bI0povfINkR2RtVyAw&oe=684FB143&_nc_sid=8b3546",
+            "username": "lacteameufii"
+        },
+        {
+            "id": "287535969",
+            "full_name": "Laura Brito",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/504536514_18519609250047970_1158097909759502803_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=WV-ILY9k36MQ7kNvwFWsXVR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO6bNXdmWBQJzgWdj-eScjy7Ink-dJ4QRdqa4LyniNzvw&oe=684F9CBD&_nc_sid=8b3546",
+            "username": "laurabrito"
+        },
+        {
+            "id": "1638252528",
+            "full_name": "IZA",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/470912318_1376611993306450_6812867288368148980_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=wgy6eemntSkQ7kNvwHoUn3y&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM7VDVqW6-HIMqZIszdYI749CmRCXZ8C-IUkqil95B_QQ&oe=684FC9C9&_nc_sid=8b3546",
+            "username": "iza"
+        },
+        {
+            "id": "2241709771",
+            "full_name": "LINIKER",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/491445125_2888483674658156_8354641439591850794_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=R5e0MrkgnC8Q7kNvwGZbqRu&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN9_3zCApVdEfpvORIBOxtR5J03ufTzGstPV7r9h4npAg&oe=684FC941&_nc_sid=8b3546",
+            "username": "linikeroficial"
+        },
+        {
+            "id": "20870593",
+            "full_name": "Bruna Tai Lopes",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-3.fna.fbcdn.net/v/t51.2885-19/484560626_1334091277715999_2757373392823609027_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=7oGmFE1TQowQ7kNvwGhMO8e&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPV71W-5lpAQnxBn0fcy9MfOuXTz7XTZq2v1B4Kve1Kag&oe=684F9A8D&_nc_sid=8b3546",
+            "username": "brutailopes"
+        },
+        {
+            "id": "24944496",
+            "full_name": "MALU BORGES",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/351280271_826276295049470_3930067606534843130_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=yp2kUxUGWhUQ7kNvwEfkFZr&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPwgDO5D3bmLLOwB-28zFstZ-0_xdUbqqsSt-szF7gqnQ&oe=684FC40D&_nc_sid=8b3546",
+            "username": "maluborgesm"
+        },
+        {
+            "id": "12517958110",
+            "full_name": "Coisas Para Ver Ch4p4d0",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/58453889_2110449522336708_3128983537420599296_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ltLp1SDxJQ4Q7kNvwGHNEfu&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOYMVswNUNKfyUNtadAAg273gcFrfLRHOJwdpfIu0J1Hg&oe=684FA141&_nc_sid=8b3546",
+            "username": "coisaspvchapado"
+        },
+        {
+            "id": "42511908363",
+            "full_name": "Felipe Bressanim",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/363820915_3523585647879860_4786981363376927536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=wwrFWfM9Kv4Q7kNvwFljomH&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNLHf6fNOfqdxoq7FNicUl4jvHQC1Ay-zLmMieIfLzS6w&oe=684FB559&_nc_sid=8b3546",
+            "username": "felca0"
+        },
+        {
+            "id": "11091584410",
+            "full_name": "Greengo Dictionary",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/452287553_473642488711541_2465374883556591962_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=cZlXIhZOuTgQ7kNvwGR-jj5&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMjfweUKjhwqI1-De7ln6NbmJJz9x2aCsApumBPotR1IA&oe=684FBC53&_nc_sid=8b3546",
+            "username": "greengodictionary"
+        },
+        {
+            "id": "281426180",
+            "full_name": "MEL MAIA",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/500579430_18513168040018181_1586353861950751457_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=FrGKdk9mTesQ7kNvwHBDAlt&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMShKuM4wgWVD6lpomKRjaGPaVz_SFG_qowVfsU4QlUKA&oe=684FAA1A&_nc_sid=8b3546",
+            "username": "melissamelmaia"
+        },
+        {
+            "id": "44591142956",
+            "full_name": "Ester Lima | Cachos",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/316973400_147465314699359_4093450062404173542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=JcsesEVRZJYQ7kNvwEgHsAE&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNn9l-YIVZ9HvpUkPjbte_PT41U-nrw7H0tN80psHJevQ&oe=684FB2A2&_nc_sid=8b3546",
+            "username": "byesterlima"
+        },
+        {
+            "id": "1572484418",
+            "full_name": "Duda Reis",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/501450929_18518078221004419_797597375510758617_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=oBJBJjSqThYQ7kNvwFK0InO&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN6kY241Wdz37TvKeaEomG3QPaMtHdQpiDM13B6CWFSVA&oe=684F9A55&_nc_sid=8b3546",
+            "username": "dudareisb"
+        },
+        {
+            "id": "779869664",
+            "full_name": "Zabela/Izabela Severo",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/491454300_18502078954029665_8634306407456624181_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=u8ZhJkRquV4Q7kNvwHAbUHG&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM-GLgfg_ElIjAl4KhzLEn_ZE9u8qiYtGRgLwj9Vwjcbw&oe=684FAE2E&_nc_sid=8b3546",
+            "username": "yorkbela"
+        },
+        {
+            "id": "895572719",
+            "full_name": "Isabella Scherer",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/361094161_274973655130608_5522478025488530464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=JOOEEvWbEwcQ7kNvwGwX04J&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNzPEpFl23Gdl_CvMfJMXfUqnqqBV7DGt1KlD0hQijw4A&oe=684FB77A&_nc_sid=8b3546",
+            "username": "isascherer"
+        },
+        {
+            "id": "266439562",
+            "full_name": "Virginia Fonseca Serr\u00e3o Costa",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/501535079_18523795729007563_2037055134746143039_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=qq9G1IQdkD4Q7kNvwGySD2z&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM7nnUnTwsbWsWA-q0WK6BPKu_9OlGUKwCtLFkZdqcqbg&oe=684FB777&_nc_sid=8b3546",
+            "username": "virginia"
+        },
+        {
+            "id": "20739271",
+            "full_name": "Tata Estaniecki Cocielo",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/490792747_1403652343994613_1426544495791647390_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ezDV9LGprvcQ7kNvwGAlsg3&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNtcp0cfvuKGJYQGVn1PfBo2Vi-XxY1St03a1dYHDYJiA&oe=684FA587&_nc_sid=8b3546",
+            "username": "tata"
+        },
+        {
+            "id": "3562124477",
+            "full_name": "Kamilly Caroline",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/473124644_918224210460911_4469019688892690123_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=BcBauZ4MazYQ7kNvwGeyFpl&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNLeriBVM6UqBJzYmF7Zzp2JK3AOefpQdlIQZo7wQpBkw&oe=684FB4FC&_nc_sid=8b3546",
+            "username": "kamillycaroline_"
+        },
+        {
+            "id": "54034602656",
+            "full_name": "Manuela Cit",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/501991902_17996205809802657_7106112945705561804_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ieMOE1uxmkQQ7kNvwFXmkxH&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNgFtLdkA2Fyy5t5UOCYH-ukpXbcGeJ6auhkENAq8k3cw&oe=684FA28E&_nc_sid=8b3546",
+            "username": "manuelacit"
+        },
+        {
+            "id": "10884141",
+            "full_name": "Vogue Brasil",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/474024053_2049415215532123_3072601001990875373_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=0r4UiW8ZJPsQ7kNvwHlqCcn&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNqGuEpmZGPRQCfjxrp-agv-iH1yTtUF6TQYLAbGFlRWQ&oe=684FA89F&_nc_sid=8b3546",
+            "username": "voguebrasil"
+        },
+        {
+            "id": "6860189",
+            "full_name": "Justin Bieber",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/487438105_1197012132023245_6255044247705759321_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=KYDisYEmACYQ7kNvwE4Tbgl&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP6JuqaPvqsEnrBgD5oASsaID19b0_7UXJLIVbWK2hq2Q&oe=684FBA58&_nc_sid=8b3546",
+            "username": "justinbieber"
+        },
+        {
+            "id": "66010148682",
+            "full_name": "Lipe",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/480900059_1304972984132289_6854194589957128756_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Y8o25E8Nz_IQ7kNvwGY-4pd&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO1A4DzadXzaB6bC3IiONpLzOf8WFhSTZcDEzlZh7QCJw&oe=684FD0A3&_nc_sid=8b3546",
+            "username": "llipe.daily"
+        },
+        {
+            "id": "717023023",
+            "full_name": "Nathalia Bueno Dias",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/503215170_18522385474031024_2983746254532409462_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=hUMX-0JrVA4Q7kNvwHI2k22&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOTOsGNTR7JmzC36lsRtT101qXR8wno_lS2wbZqgs-NJg&oe=684FBA55&_nc_sid=8b3546",
+            "username": "naabueno_"
+        },
+        {
+            "id": "21115210",
+            "full_name": "Bruna Bonaldi Tavares - A Bruna de BT \ud83d\udc99",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/505166717_18511994143059211_8350178056629901334_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=-KJnAWDXRksQ7kNvwF_z-58&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPJ3we-BoeA0JAbLRdGDoLTUrirudpaAYzFxmWjkmY7mA&oe=684FBD0D&_nc_sid=8b3546",
+            "username": "brunatavares"
+        },
+        {
+            "id": "519463184",
+            "full_name": "Valentina Bandeira",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/491459816_18497133412039185_58920267299175127_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=DKwf1OXxWqoQ7kNvwEFqGbk&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMFWOHEFrpgdvp-P2oJl4X6CcW5TI7H9CGSVrzax_u08Q&oe=684FC933&_nc_sid=8b3546",
+            "username": "valenbandeira"
+        },
+        {
+            "id": "1742252411",
+            "full_name": "Thalita Massoto",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/465753005_1069778384857302_3761465852944566797_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Ue7dbcjhYVEQ7kNvwHTB_bH&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMxc2c80S6wqnbNI1_-45bE-PPgMIdYXeM-qh8hcSTevA&oe=684FCBEF&_nc_sid=8b3546",
+            "username": "thalitamassoto"
+        },
+        {
+            "id": "14372437",
+            "full_name": "YASMIN CASTILHO",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/452445763_1544038572867486_3264149230410393862_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8VIb13AR3N0Q7kNvwHQ26gK&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO6AntcRC2bFdPkyQjlezkSzjq0J7Pq7f2RH9ZoPh28aQ&oe=684FAE0F&_nc_sid=8b3546",
+            "username": "yasmincastilho"
+        },
+        {
+            "id": "315025747",
+            "full_name": "brino",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/346584775_779625320201918_8587175727735518147_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=tKCeXBMGpJsQ7kNvwFs1Zu5&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOQ6GsKzyWG2Ic9dhTc62Yv8FSI4dWfbsYPRBdaOnxr-A&oe=684F9CFB&_nc_sid=8b3546",
+            "username": "brino"
+        },
+        {
+            "id": "1556401637",
+            "full_name": "XAMA\u0303 \u274c",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/497682153_18507686101049638_8381056951803551946_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=hxPz2meoTwcQ7kNvwFw2oyT&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNDuBUkwMI6h9mxm6v0JFWW3GinPg5dGHX28InD4SZIGQ&oe=684FA321&_nc_sid=8b3546",
+            "username": "euxama"
+        },
+        {
+            "id": "7219059229",
+            "full_name": "O Meditante",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/230655686_2707823702842962_3632352379977159520_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=qPKjcd2oY9UQ7kNvwG4eCEh&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPlqWUarqQ5p9qz-4S5zaM1VLqS21T5-78kbfb1arSWEQ&oe=684FD0CD&_nc_sid=8b3546",
+            "username": "omeditante"
+        },
+        {
+            "id": "5602207",
+            "full_name": "Chay",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/474590048_1276063956844242_6793735677864598448_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=eWtVBztsjgAQ7kNvwFxAo2l&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPZ55rKy2x7vHV_FmiHAS6dpuc52lVoetit5dKVP3oTNQ&oe=684FCF90&_nc_sid=8b3546",
+            "username": "chay"
+        },
+        {
+            "id": "1969026654",
+            "full_name": "Rafaela Santana",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/461793855_553237133770366_3609727593125547573_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=LI9VqQanBykQ7kNvwEPfVhQ&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOph6ppPxJ04txtyT-vwzRQ7hS2T3urRUGQ_8XkrmMvnw&oe=684FB601&_nc_sid=8b3546",
+            "username": "santxrafa"
+        },
+        {
+            "id": "183660174",
+            "full_name": "BBC News | Brasil",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/445545436_482707117657397_1032471373066569698_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=XsQ2NULpTVoQ7kNvwHh1uKU&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOavdBujyUNAPxKnG7pRYBH1V1rvulKljEOmkJ76dLDAA&oe=684FCEF3&_nc_sid=8b3546",
+            "username": "bbcbrasil"
+        },
+        {
+            "id": "16892843",
+            "full_name": "NICOLE PRAZERES",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/482875545_1777987389725692_938390928718269397_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=tN9kJNT1518Q7kNvwFAme1_&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMCzdE-pCSMAtIV691bmIW8VWwNIn3TEr_yNBIjQ4HEug&oe=684FB044&_nc_sid=8b3546",
+            "username": "nicoleprazeres"
+        },
+        {
+            "id": "367528",
+            "full_name": "Alice Wegmann",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/487472507_2057373198109572_3946055430332449335_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Z_qv3PIKplAQ7kNvwG-kfvw&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMXPq0Tu3bXREfzBoEyqatRpTfUhw7hvnV5b7K0zH54jg&oe=684FBBA7&_nc_sid=8b3546",
+            "username": "alicewegmann"
+        },
+        {
+            "id": "145472557",
+            "full_name": "Bomtalv\u00e3o",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/503741322_18514088866000558_919315539714454941_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=tfbfglFkxa8Q7kNvwHsJktT&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPSsqmGGCM-f6V2TTaKfNGKQfSUt30H3pzhXZ3ua4XlsA&oe=684F9A89&_nc_sid=8b3546",
+            "username": "bomtalvao"
+        },
+        {
+            "id": "319226642",
+            "full_name": "Rayza Nic\u00e1cio",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-3.fna.fbcdn.net/v/t51.2885-19/420114710_1052189222667659_4599576015817273050_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=z5tIJ_w3excQ7kNvwEayM2r&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNbz-7mP1IJckCs_hBPp19TVIWA__L4K0zOt1PsbxBvHA&oe=684FBAFB&_nc_sid=8b3546",
+            "username": "rayza"
+        },
+        {
+            "id": "32046143373",
+            "full_name": "Helen",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/91228215_2474400879538569_2712062356099170304_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=43zGHZFQrm8Q7kNvwGDV2NL&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPGNvZXD2cPtuKkvDYzYSPu2jQCZQLB8Cc0Icgm2f8nCA&oe=684FCDF6&_nc_sid=8b3546",
+            "username": "frizzynoodles_"
+        },
+        {
+            "id": "5718419427",
+            "full_name": "LETICIA ROBERTO",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/499478428_18386872354187428_7677292720317492459_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=qz_j07o6bWQQ7kNvwEohGu-&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMoa9o4XL-dMUhzTz2XXBh5laid5dAdHgcpEarVxwhJYw&oe=684FC814&_nc_sid=8b3546",
+            "username": "leeticiaroberto"
+        },
+        {
+            "id": "700133379",
+            "full_name": "Driele Braga",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/497907855_18505319395037380_3746863118028561250_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=aXO7Z7PdWeAQ7kNvwFaRTP5&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOn77gvKlP-zqabt36vGAikPH7hLRF4wrpviGRmfwP8EQ&oe=684FC73A&_nc_sid=8b3546",
+            "username": "drielebr"
+        },
+        {
+            "id": "287741239",
+            "full_name": "L\u00edvia Souza Pinho",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/481682574_1684653265479386_1204479900919114357_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=dbQgz44SEJUQ7kNvwFrYfWb&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN55zDinxpYwRARp9cHDjICEwqwS2fpH8FzCb43Qyl86A&oe=684FCB44&_nc_sid=8b3546",
+            "username": "liviaspinho"
+        },
+        {
+            "id": "261228014",
+            "full_name": "\ud835\udc0b\ud835\udc1a\ud835\udc2b\ud835\udc22\ud835\udc2c\ud835\udc2c\ud835\udc1a",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/434443486_7575426925830102_1130223901902960661_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=3rD4PuxB240Q7kNvwHlv79T&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNI7wCKm1CwY40F-GIwG0Py55i5wNNCb56P1INKnTDD9g&oe=684FCCBC&_nc_sid=8b3546",
+            "username": "lrssleite"
+        },
+        {
+            "id": "10399948767",
+            "full_name": "Que Beleza! \u2737",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/470305027_1280536532991955_8337140439717104952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=MdZGlsig4i4Q7kNvwFJ-1Ab&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMYQ9pLv3X3o0ZXQrMUISBZpKU8PlOQYjDrUgbV1uV7sA&oe=684FA711&_nc_sid=8b3546",
+            "username": "uhuhuhquebeleza"
+        },
+        {
+            "id": "1663355647",
+            "full_name": "Raylena Linhares",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/486383949_2252832105179942_1260361356269844154_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=GdCGZYr8sHUQ7kNvwHNlSW9&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPykU_LVbPY0zPDqwMGTTLk763mZkAlodzGIEBCDOuZuA&oe=684FCA51&_nc_sid=8b3546",
+            "username": "raylenali"
+        },
+        {
+            "id": "1480460922",
+            "full_name": "Myllena Barc\u0327al",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/505463739_18500208226012923_5195806408939555911_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=LAERQoi9eXIQ7kNvwF3oJRM&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP5STcm0XDpIZFoMVk3ot2pT4q23f0Mq0oR51nXf9XlCA&oe=684FABFD&_nc_sid=8b3546",
+            "username": "myllenabarcal"
+        },
+        {
+            "id": "1541048907",
+            "full_name": "Karen Santos\ud83e\udd8b",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/496975901_18505243129056908_7355388708237701335_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=W6s84PsPqk0Q7kNvwGWEGit&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOkbY4QUXUU5SvuyVyeRtNGCuaP3l0Ld663uCxaush5ww&oe=684FB5AB&_nc_sid=8b3546",
+            "username": "karensantos"
+        },
+        {
+            "id": "186712316",
+            "full_name": "Bruno Cavalcanti",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/424489732_937296187728377_8397290243964058689_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=O3qr1VuT1JEQ7kNvwH01zXR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP-1PCRdp59B2fODTmrqV6YPM-qWuziq9RLUzgGyHlKQg&oe=684FB1E3&_nc_sid=8b3546",
+            "username": "brunocavaalcanti"
+        },
+        {
+            "id": "46105267",
+            "full_name": "Luiza Braga",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/449608041_489271366931491_8876310526427589195_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=2_Ai7sD2vTAQ7kNvwGYfBOj&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPWnk14KHtzUlDPOZYZ-HgzpNuWGxfl5QqXlPuY_COD7w&oe=684FA5B1&_nc_sid=8b3546",
+            "username": "luizabragam"
+        },
+        {
+            "id": "290179611",
+            "full_name": "Patri\u0301cia Ramos",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/501313206_18506697634003612_606674916360862856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=COy5jCqPoEwQ7kNvwHwSXCo&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNFSDd7Ba_Wd8CwsfJEdeL7oWp3fK8Hfo0DtSeo9Uyy4g&oe=684FBD57&_nc_sid=8b3546",
+            "username": "patriciaramos"
+        }
+    ],
+    "latestIgtvVideos": [],
+    "postsCount": 578,
+    "latestPosts": [
+        {
+            "id": "3652685840133818468",
+            "type": "Video",
+            "shortCode": "DKw8ms5Rohk",
+            "caption": "Minha finaliza\u00e7\u00e3o de inverno: tratamento no banho com a linha completa Phytomanga da @widicare (a Butter Oil \u00e9 tudo!) e finaliza\u00e7\u00e3o com a Gelatina Ultra Nutritiva pra segurar os cachos mesmo nos dias \u00famidos. \u2728\n\nCabelo nutrido, definido e com menos frizz \ud83d\udc9b\n \nPublicidade | #widicare #haircare #hair #phytomanga #phyto #curlyhair #cacheada #cachos",
+            "hashtags": [
+                "widicare",
+                "haircare",
+                "hair",
+                "phytomanga",
+                "phyto",
+                "curlyhair",
+                "cacheada",
+                "cachos"
+            ],
+            "mentions": [
+                "widicare"
+            ],
+            "url": "https://www.instagram.com/p/DKw8ms5Rohk/",
+            "commentsCount": 41,
+            "dimensionsHeight": 854,
+            "dimensionsWidth": 480,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505404792_18510731740047834_2310059162102048263_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=kSd5OxOHEOEQ7kNvwFetEaY&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMinDlG1zX6EN3-q_Hduw273Xj0Y9JmgS2ZKMLmZRuy-g&oe=684FCCDC&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-3.fna.fbcdn.net/o1/v/t16/f2/m86/AQPZLvIBw3LMYSEYHSr0t14Yfeszshg7FKJOAVQ9W3G1fpX-dz21j79PfJqqsl17GPeBM8fEBjCTCXHXVvtPJupmtawGy9s6obSekZc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=1448537509896667_3352565934&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QTQzRkZFRDMxNTJDRENEM0Y1NTI1Q0MzM0QxMkRBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSTZLS3g0cEt0amJ0b0FpQUgxbUl6SF9LQVFsYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJsjd%2B4HLl9I%2FFQIoAkMzLBdAQW7ZFocrAhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNBJ-88J_rTSSrhH2OXiCNG6NGPimVskP3AzKflfBo5Ag&oe=684BA7C4&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 624,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-11T15:03:41.000Z",
+            "childPosts": [],
+            "ownerUsername": "widicare",
+            "ownerId": "541359833",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Mariana Rodrigues \ud83c\udf1e",
+                    "id": "302767041",
+                    "is_verified": true,
+                    "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/486642463_9795512010480642_4486315099444399926_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8cxngu0Y93gQ7kNvwGczXKR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfODM3Y05M7dHzbWBZr6sKdMXGRkRmbtbfXRtCZR2FaekQ&oe=684F9EF5&_nc_sid=8b3546",
+                    "username": "marirrodrigs"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3652166761702909828",
+            "type": "Video",
+            "shortCode": "DKvGlHbymeE",
+            "caption": "O confere no cabelo e retoque no gloss \u00e9 lei \ud83d\udc44",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKvGlHbymeE/",
+            "commentsCount": 75,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505945887_18509089318047042_3174547395252773683_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=S6IYbUMZW3sQ7kNvwFiDiHz&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPVnezC6U6ePvm92XimyK5xoY8E4qHs109iHhgIvpFo5w&oe=684F9E69&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-6.fna.fbcdn.net/o1/v/t16/f2/m86/AQMIw5mgbZI4aSzplCkheyhZjgA_WLHpeVVDdnpl_Hdroppu9fbIctjRE0g_wTmUQ-csJDvXHC_zL-XKNggI9uVqPR-Atf3j5MaCSTY.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=1329853428083614_2262593169&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQzRBMDA1NDQ3NEU2RUYzMkM2QTc5Q0Y5ODk0OUU4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRXV5SVI0NUtfZnZtZDREQU5tM0FEQkxPcG94YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqCe4fm3gNE%2FFQIoAkMzLBdALlT987ZFohgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMIUWJlPXGc-D_B5H8TfOLDVKaF8gWu-x9AgBMDxB64WQ&oe=684BD4E8&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 3260,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-10T21:51:08.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "musicInfo": {
+                "artist_name": "Furac\u00e3o 2000, Anitta",
+                "song_name": "Proposta",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "897202930834966"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3651512388814323075",
+            "type": "Sidecar",
+            "shortCode": "DKsxyvMNz2D",
+            "caption": "Sempre uma honra, Chapada \u2728\n\nMuito bem acolhida pela @bwcreativebr e @savvy.br \ud83e\udef6\ud83c\udffc",
+            "hashtags": [],
+            "mentions": [
+                "bwcreativebr",
+                "savvy.br"
+            ],
+            "url": "https://www.instagram.com/p/DKsxyvMNz2D/",
+            "commentsCount": 53,
+            "dimensionsHeight": 1346,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504386750_18508920373047042_9021481445208994048_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=a-QYKJ5tHJsQ7kNvwFO0Pb2&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzE0MzU0OA%3D%3D.3-ccb7-5&oh=00_AfOnw_LF9hQwGVjogVZkSNn4YRnTWEIqzclVVhZHm9iqZw&oe=684FB3C2&_nc_sid=8b3546",
+            "images": [
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504386750_18508920373047042_9021481445208994048_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=a-QYKJ5tHJsQ7kNvwFO0Pb2&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzE0MzU0OA%3D%3D.3-ccb7-5&oh=00_AfOnw_LF9hQwGVjogVZkSNn4YRnTWEIqzclVVhZHm9iqZw&oe=684FB3C2&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504482873_18508920385047042_360371003305539097_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=w4xte_DXJfoQ7kNvwHv1raW&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDQxOTMxODM3Mg%3D%3D.3-ccb7-5&oh=00_AfORNtoaY3QLdjdXGrpKN3_UDVGCLPSh-8fEinXkA-3QLA&oe=684FBAC3&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504582433_18508920439047042_5728959871262770699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=lR3LYTUFC24Q7kNvwEgnmdV&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNAF3TWRaXfa_srX17VM6AZvhiOQyeTozNcsSuG2soaVA&oe=684FB38D&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504831026_18508920394047042_5083788672317080103_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=w6H8lCOg5_wQ7kNvwH6u-ld&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDMyNzE0NjI5MA%3D%3D.3-ccb7-5&oh=00_AfPMBEGcA02ijWjBcbXbaLZVw7ZfBN29WlbTOuRvPSl72A&oe=684FA45C&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505389562_18508920406047042_3877743391557784907_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=1wxCWzhcQesQ7kNvwHpENvI&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzI5OTQ5Mg%3D%3D.3-ccb7-5&oh=00_AfP9bXbT2aP21GInHbP_eZOZxUWw1tkkD3CjoN0swcqcRQ&oe=684FC509&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504510865_18508920481047042_1387394661445506401_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=6zsWSSbul-oQ7kNvwHhpO5n&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMfEPcaYwCzTJY-N58QeYZDIyiQvcojQFUOe0eJ5uvM2A&oe=684FAFA9&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505122568_18508920415047042_5477970931887824426_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=MdyXl0BZdncQ7kNvwHrmTwV&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNXpSu1Ztzrbotx9qB3TCS_7XcL0G_2WWbJwIZPFCVzSg&oe=684FB035&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505781892_18508920424047042_8942200442885232384_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ReEZhZHtlrwQ7kNvwG04lck&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI1MTUzMzM5Mg%3D%3D.3-ccb7-5&oh=00_AfPFPqrhxN9OGuRMcLGKhq0TzSqVmIDf27N3lMDLDRqx5g&oe=684FCA8B&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504452858_18508920490047042_6595344084123136608_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=kFEjPjPpkSEQ7kNvwHrOsSp&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMaj0xon4uc_COQt7qSMZ0ihvYzyfe8OzfQorFs_yn7yw&oe=684FAC8A&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505201715_18508920442047042_1101205785633946172_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8ct8_Mto6fwQ7kNvwEep5nA&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDIzNDc5MTcwNQ%3D%3D.3-ccb7-5&oh=00_AfM84_5lJ4p3t7UEZ9FKKMK0Uz-Er_HCtJ2tc2thkC4Ovw&oe=684F9B5B&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504515447_18508920451047042_8406595464177345313_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=tqg9R6FeyeQQ7kNvwF8RgIg&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzM0NTQ2NA%3D%3D.3-ccb7-5&oh=00_AfPPgBVW4MihYzXPxTnWpERWHvaQBMXdf5i43KXxda_exg&oe=684FB53D&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504531922_18508920460047042_5565790395834986332_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=TR2SyWRmBu0Q7kNvwHDmPhR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDM0NDAwOTg5Mw%3D%3D.3-ccb7-5&oh=00_AfPVdqjMG2RTEvf8cRfIVTJiGvG24gtii8awmyy3XjnFcg&oe=684FCCA3&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504396349_18508920469047042_4164715837070294422_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=uJLR08IMQ2IQ7kNvwH6nYxa&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDE4NDU2OTkzMg%3D%3D.3-ccb7-5&oh=00_AfOu35BOQTumXS9W3f-s0QUdC396P9-kDUJVrosToT9E6A&oe=684FB8DC&_nc_sid=8b3546",
+                "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505193372_18508920502047042_4682587094526201421_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ZC7XS0V5f4IQ7kNvwGe365N&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOI0qxie16p7P7IFRUNh7aGpXvWjj8Qhxm-xsFKYvFowg&oe=684FB964&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by Mariana Rodrigues \ud83c\udf1e on June 09, 2025. May be an image of 1 person, hair, waterfall and text.",
+            "likesCount": 3629,
+            "timestamp": "2025-06-10T00:10:19.000Z",
+            "childPosts": [
+                {
+                    "id": "3651512374243143548",
+                    "type": "Image",
+                    "shortCode": "DKsxyhntK98",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhntK98/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504386750_18508920373047042_9021481445208994048_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=a-QYKJ5tHJsQ7kNvwFO0Pb2&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzE0MzU0OA%3D%3D.3-ccb7-5&oh=00_AfOnw_LF9hQwGVjogVZkSNn4YRnTWEIqzclVVhZHm9iqZw&oe=684FB3C2&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Mariana Rodrigues \ud83c\udf1e on June 09, 2025. May be an image of 1 person, hair, waterfall and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374419318372",
+                    "type": "Image",
+                    "shortCode": "DKsxyhyNOZk",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhyNOZk/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504482873_18508920385047042_360371003305539097_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=w4xte_DXJfoQ7kNvwHv1raW&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDQxOTMxODM3Mg%3D%3D.3-ccb7-5&oh=00_AfORNtoaY3QLdjdXGrpKN3_UDVGCLPSh-8fEinXkA-3QLA&oe=684FBAC3&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Mariana Rodrigues \ud83c\udf1e on June 09, 2025. May be an image of 1 person, waterfall and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512164167439245",
+                    "type": "Video",
+                    "shortCode": "DKsxvd-N9ON",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxvd-N9ON/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 934,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504582433_18508920439047042_5728959871262770699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=lR3LYTUFC24Q7kNvwEgnmdV&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNAF3TWRaXfa_srX17VM6AZvhiOQyeTozNcsSuG2soaVA&oe=684FB38D&_nc_sid=8b3546",
+                    "images": [],
+                    "videoUrl": "https://instagram.ffjr1-6.fna.fbcdn.net/o1/v/t16/f2/m367/AQN9gP13FfVIKRFmInbbUNArMDaBxyl3U9-PmcMg9qfg77UjyjeAD8e08vd_BSAUJ16wHfhd2xqc1sUhUSLtKVKVS1x_6I4aJhLhqts.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2Fyb3VzZWxfaXRlbS5jMi4xMDgwLmJhc2VsaW5lIn0&_nc_cat=104&vs=9848193355235849_4246647453&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC9DNjQ1QTc3NDhEOTVBNDc0OEEyNjk4NkFFNDE3MTc5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJqCf%2Bdb6%2BdA%2FFQIoAkMzLBdAHi0OVgQYkxgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAde4HZcSeAQA%3D&ccb=9-4&oh=00_AfPt7LbRj-s5ugQE5GTzaziGDW6UpNA1Y3qbkursaHP8LA&oe=684BB21A&_nc_sid=8b3546",
+                    "alt": null,
+                    "likesCount": null,
+                    "videoViewCount": 0,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374327146290",
+                    "type": "Image",
+                    "shortCode": "DKsxyhstncy",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhstncy/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504831026_18508920394047042_5083788672317080103_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=w6H8lCOg5_wQ7kNvwH6u-ld&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDMyNzE0NjI5MA%3D%3D.3-ccb7-5&oh=00_AfPMBEGcA02ijWjBcbXbaLZVw7ZfBN29WlbTOuRvPSl72A&oe=684FA45C&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Mariana Rodrigues \ud83c\udf1e on June 09, 2025. May be an image of waterfall, nature and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374243299492",
+                    "type": "Image",
+                    "shortCode": "DKsxyhntxCk",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhntxCk/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505389562_18508920406047042_3877743391557784907_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=1wxCWzhcQesQ7kNvwHpENvI&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzI5OTQ5Mg%3D%3D.3-ccb7-5&oh=00_AfP9bXbT2aP21GInHbP_eZOZxUWw1tkkD3CjoN0swcqcRQ&oe=684FC509&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Mariana Rodrigues \ud83c\udf1e on June 09, 2025 tagging @chapada.estanciaboavista. May be an image of 5 people, pool, cabana, outdoors and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041",
+                    "taggedUsers": [
+                        {
+                            "full_name": "Est\u00e2ncia Boa Vista",
+                            "id": "47962068642",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/220656474_331671005337213_8415477035622513824_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Ve-q13nioZYQ7kNvwFW3jrP&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNPgCupw02v_LyXM5XT-7puYePRdK1FPZt_4QAXVFd4-w&oe=684FA7E8&_nc_sid=8b3546",
+                            "username": "chapada.estanciaboavista"
+                        }
+                    ]
+                },
+                {
+                    "id": "3651512164670601358",
+                    "type": "Video",
+                    "shortCode": "DKsxvecNXiO",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxvecNXiO/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 934,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504510865_18508920481047042_1387394661445506401_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=6zsWSSbul-oQ7kNvwHhpO5n&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMfEPcaYwCzTJY-N58QeYZDIyiQvcojQFUOe0eJ5uvM2A&oe=684FAFA9&_nc_sid=8b3546",
+                    "images": [],
+                    "videoUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/o1/v/t16/f2/m367/AQMc6tog_w6PVOtFfc81XgSs6QAxSKgzBsCjSQPvjwJ6PNHvCdct4grSF-ZboU6zSeX4R5LuyNQNMgZTP1rQqkxvm2em0vudFXbEmjA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2Fyb3VzZWxfaXRlbS5jMi4xMDc4LmJhc2VsaW5lIn0&_nc_cat=107&vs=1265402671915374_1633171939&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC83RjQ3OTFBNkJEOEY3QzcwNjhCMDIxRDcxM0I2MTI5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJqC659n6%2BdA%2FFQIoAkMzLBdAI0m6XjU%2FfRgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAde4HZcSeAQA%3D&ccb=9-4&oh=00_AfOqBgUgdi2nzpVIyf1cGiyD0ucEO7YenZ-MW-NR_eKZxA&oe=684BD717&_nc_sid=8b3546",
+                    "alt": null,
+                    "likesCount": null,
+                    "videoViewCount": 0,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512207670634012",
+                    "type": "Video",
+                    "shortCode": "DKsxwGfNeYc",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxwGfNeYc/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 934,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505122568_18508920415047042_5477970931887824426_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=MdyXl0BZdncQ7kNvwHrmTwV&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNXpSu1Ztzrbotx9qB3TCS_7XcL0G_2WWbJwIZPFCVzSg&oe=684FB035&_nc_sid=8b3546",
+                    "images": [],
+                    "videoUrl": "https://instagram.ffjr7-1.fna.fbcdn.net/o1/v/t16/f2/m367/AQNfrXh8vJY3v1W-YOqDNMyyJ0aYGYQEMiVWdjwDGcB2CViS4B0G1-gSHHChdwRRjyUq0cobyovhTssV4yYnW47vAqQlsV-h4nGVMaA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2Fyb3VzZWxfaXRlbS5jMi4xMDgwLmJhc2VsaW5lIn0&_nc_cat=108&vs=1272176134475505_3393966387&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC8xQjQ3QzM1ODg1QjJFRDIwODIyNzlGQjE1MEY2M0VBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJqDBjuj6%2BdA%2FFQIoAkMzLBdAEAAAAAAAABgWZGFzaF9iYXNlbGluZV8xMDgwcF92MREAde4HZcSeAQA%3D&ccb=9-4&oh=00_AfOWRC708dFJ3BAn2PtYVHgiRsr95aFaXyIMi069Q1Lu9w&oe=684BDA1A&_nc_sid=8b3546",
+                    "alt": null,
+                    "likesCount": null,
+                    "videoViewCount": 0,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374251533392",
+                    "type": "Image",
+                    "shortCode": "DKsxyhoNLRQ",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhoNLRQ/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505781892_18508920424047042_8942200442885232384_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ReEZhZHtlrwQ7kNvwG04lck&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI1MTUzMzM5Mg%3D%3D.3-ccb7-5&oh=00_AfPFPqrhxN9OGuRMcLGKhq0TzSqVmIDf27N3lMDLDRqx5g&oe=684FCA8B&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Mariana Rodrigues \ud83c\udf1e on June 09, 2025 tagging @marcelamartini. May be an image of 2 people, people swimming, headscarf, pool, outdoors and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041",
+                    "taggedUsers": [
+                        {
+                            "full_name": "Marcela Martini",
+                            "id": "15573456",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/496085473_18518746330021457_5300247533704499736_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=khFfspiRqrgQ7kNvwFBpF44&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMk2_Q1dXHlbW057vsNRpV6bdc53a_lBuY3IsUrHvUYtg&oe=684FB786&_nc_sid=8b3546",
+                            "username": "marcelamartini"
+                        }
+                    ]
+                },
+                {
+                    "id": "3651512167757558202",
+                    "type": "Video",
+                    "shortCode": "DKsxvhUNLG6",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxvhUNLG6/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 934,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504452858_18508920490047042_6595344084123136608_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=kFEjPjPpkSEQ7kNvwHrOsSp&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMaj0xon4uc_COQt7qSMZ0ihvYzyfe8OzfQorFs_yn7yw&oe=684FAC8A&_nc_sid=8b3546",
+                    "images": [],
+                    "videoUrl": "https://instagram.ffjr1-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPXT8pHSgViOXZkZgoSkHUU-E_1Jd0VKDrroe1YS4t5DMkZHVPcmsTnG1TlDrYUtcV4tHfR99zjSEw7IlfXOrGL-bjhWqSHLsTP23E.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2Fyb3VzZWxfaXRlbS5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=101&vs=741034475271123_1005918848&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9EOTRFNDE5ODExNDBGNzBFODI3RTNENzUxM0ZCNUE5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJqDww9%2F6%2BdA%2FFQIoAkMzLBdAIQAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB17gdlxJ4BAA%3D%3D&ccb=9-4&oh=00_AfNi0sJPIL3XkP6njUbr4zraz1CRdGOp3pyz2H-lglkiMg&oe=684BD364&_nc_sid=8b3546",
+                    "alt": null,
+                    "likesCount": null,
+                    "videoViewCount": 0,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374234791705",
+                    "type": "Image",
+                    "shortCode": "DKsxyhnNT8Z",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhnNT8Z/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505201715_18508920442047042_1101205785633946172_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8ct8_Mto6fwQ7kNvwEep5nA&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDIzNDc5MTcwNQ%3D%3D.3-ccb7-5&oh=00_AfM84_5lJ4p3t7UEZ9FKKMK0Uz-Er_HCtJ2tc2thkC4Ovw&oe=684F9B5B&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Mariana Rodrigues \ud83c\udf1e on June 09, 2025 tagging @namata.chapada. May be an image of 1 person, drink, wine glass and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041",
+                    "taggedUsers": [
+                        {
+                            "full_name": "NA MATA | TERRA\u22c6ALIMENTO\u22c6CALOR",
+                            "id": "42736361940",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/418406840_1403589683876751_3503384062284006971_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=zRN-vHTofvAQ7kNvwEx21Z4&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNZxmxHttF_GSFR2jj5Iq9bt-BcfeJO_hH_mxM38X_eKQ&oe=684FC7DC&_nc_sid=8b3546",
+                            "username": "namata.chapada"
+                        }
+                    ]
+                },
+                {
+                    "id": "3651512374243345464",
+                    "type": "Image",
+                    "shortCode": "DKsxyhnt8Q4",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhnt8Q4/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504515447_18508920451047042_8406595464177345313_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=tqg9R6FeyeQQ7kNvwF8RgIg&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDI0MzM0NTQ2NA%3D%3D.3-ccb7-5&oh=00_AfPPgBVW4MihYzXPxTnWpERWHvaQBMXdf5i43KXxda_exg&oe=684FB53D&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Mariana Rodrigues \ud83c\udf1e on June 09, 2025. May be an image of 1 person, outdoors and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                },
+                {
+                    "id": "3651512374344009893",
+                    "type": "Image",
+                    "shortCode": "DKsxyhtt8il",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhtt8il/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504531922_18508920460047042_5565790395834986332_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=TR2SyWRmBu0Q7kNvwHDmPhR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDM0NDAwOTg5Mw%3D%3D.3-ccb7-5&oh=00_AfPVdqjMG2RTEvf8cRfIVTJiGvG24gtii8awmyy3XjnFcg&oe=684FCCA3&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Mariana Rodrigues \ud83c\udf1e on June 09, 2025 tagging @chapada.estanciaboavista. May be an image of 1 person, outdoors and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041",
+                    "taggedUsers": [
+                        {
+                            "full_name": "Est\u00e2ncia Boa Vista",
+                            "id": "47962068642",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/220656474_331671005337213_8415477035622513824_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Ve-q13nioZYQ7kNvwFW3jrP&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNPgCupw02v_LyXM5XT-7puYePRdK1FPZt_4QAXVFd4-w&oe=684FA7E8&_nc_sid=8b3546",
+                            "username": "chapada.estanciaboavista"
+                        }
+                    ]
+                },
+                {
+                    "id": "3651512374184569932",
+                    "type": "Image",
+                    "shortCode": "DKsxyhkNuxM",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxyhkNuxM/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1346,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504396349_18508920469047042_4164715837070294422_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=uJLR08IMQ2IQ7kNvwH6nYxa&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY1MTUxMjM3NDE4NDU2OTkzMg%3D%3D.3-ccb7-5&oh=00_AfOu35BOQTumXS9W3f-s0QUdC396P9-kDUJVrosToT9E6A&oe=684FB8DC&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Mariana Rodrigues \ud83c\udf1e on June 09, 2025 tagging @bwcreativebr, and @savvy.br. May be an image of 4 people, picnic and text.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041",
+                    "taggedUsers": [
+                        {
+                            "full_name": "SAVVY DIGITAL",
+                            "id": "69323561384",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/464368465_1486510455340864_9013414960709374877_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=6aMQXQ_mSNcQ7kNvwHBxBEi&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOLxt3eMQLfL5sAZ0kaXBZvxK7Ro9ybzaZcYvoKyIfXog&oe=684FBF44&_nc_sid=8b3546",
+                            "username": "savvy.br"
+                        },
+                        {
+                            "full_name": "BW.",
+                            "id": "61964534896",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/458777295_492579240182597_8523379594784835816_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=G08Yv2UdijUQ7kNvwFWS486&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNCzXhnL5IKOwA38DBaMcSsKxe5yG795TqcIkXbBP21DQ&oe=684FA3BE&_nc_sid=8b3546",
+                            "username": "bwcreativebr"
+                        }
+                    ]
+                },
+                {
+                    "id": "3651512167808068142",
+                    "type": "Video",
+                    "shortCode": "DKsxvhXN2ou",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DKsxvhXN2ou/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 934,
+                    "dimensionsWidth": 750,
+                    "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/505193372_18508920502047042_4682587094526201421_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=ZC7XS0V5f4IQ7kNvwGe365N&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOI0qxie16p7P7IFRUNh7aGpXvWjj8Qhxm-xsFKYvFowg&oe=684FB964&_nc_sid=8b3546",
+                    "images": [],
+                    "videoUrl": "https://instagram.ffjr1-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQP91033abpYLuuiwkzColuFo1D8jpqizJAZx3ft0S0yTPQg6IgxX0DYu5AlXXR9E8gG44S6KM_BcwheA1BRmhJ6JAMO-Vr3zMFydoA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2Fyb3VzZWxfaXRlbS5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=101&vs=3937213306527874_402188479&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC85QzRBRUQ5RDgxNDg5QkI2MEU5Q0Q0QUMwOTZBMzE4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJqDV1dz6%2BdA%2FFQIoAkMzLBdAI0QYk3S8ahgSZGFzaF9iYXNlbGluZV8xX3YxEQB17gdlxJ4BAA%3D%3D&ccb=9-4&oh=00_AfOIM-wCt2ZtIsxKKoLr4TgFhV3hIY0Z-5BPpvZrphAbXg&oe=684BDBDA&_nc_sid=8b3546",
+                    "alt": null,
+                    "likesCount": null,
+                    "videoViewCount": 0,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "marirrodrigs",
+                    "ownerId": "302767041"
+                }
+            ],
+            "locationName": "Chapada dos Veadeiros",
+            "locationId": "323699108",
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "taggedUsers": [
+                {
+                    "full_name": "NA MATA | TERRA\u22c6ALIMENTO\u22c6CALOR",
+                    "id": "42736361940",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/418406840_1403589683876751_3503384062284006971_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=zRN-vHTofvAQ7kNvwEx21Z4&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNZxmxHttF_GSFR2jj5Iq9bt-BcfeJO_hH_mxM38X_eKQ&oe=684FC7DC&_nc_sid=8b3546",
+                    "username": "namata.chapada"
+                },
+                {
+                    "full_name": "Marcela Martini",
+                    "id": "15573456",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/496085473_18518746330021457_5300247533704499736_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=khFfspiRqrgQ7kNvwFBpF44&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMk2_Q1dXHlbW057vsNRpV6bdc53a_lBuY3IsUrHvUYtg&oe=684FB786&_nc_sid=8b3546",
+                    "username": "marcelamartini"
+                },
+                {
+                    "full_name": "Est\u00e2ncia Boa Vista",
+                    "id": "47962068642",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-19/220656474_331671005337213_8415477035622513824_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Ve-q13nioZYQ7kNvwFW3jrP&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNPgCupw02v_LyXM5XT-7puYePRdK1FPZt_4QAXVFd4-w&oe=684FA7E8&_nc_sid=8b3546",
+                    "username": "chapada.estanciaboavista"
+                },
+                {
+                    "full_name": "SAVVY DIGITAL",
+                    "id": "69323561384",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr1-6.fna.fbcdn.net/v/t51.2885-19/464368465_1486510455340864_9013414960709374877_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=6aMQXQ_mSNcQ7kNvwHBxBEi&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOLxt3eMQLfL5sAZ0kaXBZvxK7Ro9ybzaZcYvoKyIfXog&oe=684FBF44&_nc_sid=8b3546",
+                    "username": "savvy.br"
+                },
+                {
+                    "full_name": "BW.",
+                    "id": "61964534896",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr1-1.fna.fbcdn.net/v/t51.2885-19/458777295_492579240182597_8523379594784835816_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=G08Yv2UdijUQ7kNvwFWS486&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNCzXhnL5IKOwA38DBaMcSsKxe5yG795TqcIkXbBP21DQ&oe=684FA3BE&_nc_sid=8b3546",
+                    "username": "bwcreativebr"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3651259762261606629",
+            "type": "Video",
+            "shortCode": "DKr4WiYR8Dl",
+            "caption": "Pra esse inverno, s\u00f3 um look quentinho @myfavorite.oficial e um caf\u00e9zinho superfaturado \u2728\ud83e\udd0c\ud83c\udffc \n\nPublicidade",
+            "hashtags": [],
+            "mentions": [
+                "myfavorite.oficial"
+            ],
+            "url": "https://www.instagram.com/p/DKr4WiYR8Dl/",
+            "commentsCount": 31,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504881806_18509079487047042_1701418284954463648_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=VSbJ-2DMvcUQ7kNvwEP1DAa&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO8ysKeAew4-Px_SR3k0UrIh1zFeoLteILuoN0_L0LB3w&oe=684FB75A&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/o1/v/t16/f2/m86/AQPDeu1zhiwatuf52d49XmXN0558CEV8GSaH6_VLE_sb1-1REcTKZLxJxp33meeAzzPwRH9131Lupjx76V91lJC39jYuQ0254GKqyak.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=1621524358553275_3064235867&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xOTRFOTc5QjA1QjVCNEE3MzBEOTdENzcyRDZDRDJBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRVRUSGg3OWR2ajdQQklGQUc0MXVqeWQ1TzBnYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqCn8cPU99A%2FFQIoAkMzLBdAKTMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfM53S_U03t8Jzx5v-v3K-ikQH9wyFcyZh0cRsjKBx9ZcQ&oe=684BC86C&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 290,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-09T15:50:17.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "my favorite",
+                    "id": "2574435773",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/484629614_9498582866847553_2678808120379922294_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=-GRCJIMHY7QQ7kNvwGSELy4&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOpvA6XHK4wy55xR2_JR_8P3jKMe7suPuij_znG0BkA9g&oe=684FC4C1&_nc_sid=8b3546",
+                    "username": "myfavorite.oficial"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "LEALL, Rock Danger",
+                "song_name": "Intro (feat. Babidi)",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "900807044978028"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3648532434028920844",
+            "type": "Video",
+            "shortCode": "DKiMOsByQAM",
+            "caption": "Meu match pra esse inverno \u00e9 o Ceramide Body Cream da @creamyskincare Hidrata\u00e7\u00e3o intensa desde a 1\u00aa aplica\u00e7\u00e3o, com ceramidas e glicerina. Pele macia, protegida e zero pegajosa. \ud83e\uddf4\u2744\ufe0f \n\n\ud83c\udff7\ufe0fMARIRRODRIGS \n\nP u b l i",
+            "hashtags": [],
+            "mentions": [
+                "creamyskincare"
+            ],
+            "url": "https://www.instagram.com/p/DKiMOsByQAM/",
+            "commentsCount": 19,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/504293160_18508069711047042_228269591054384331_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8q1XMXIXZp8Q7kNvwEj9bNZ&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMei4sFk2r0txuFNFc64BAiu0rWSqO4dSS3nTMpzjs-nQ&oe=684FB992&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQN_8TWeySJKBQStx1CmggYb6mhI6lK_rkUzZh2jugZ3YT28XGeSIqYnLDhe8uEO4bExNWx9nzFEXfofjEiHp9MFGCHv-BfogxMCvSA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=105&vs=1684646732219599_3945008690&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMzQ0NkNBRDM2MUI4MDQyMDM3NkQ1OUUzNDhDNDdCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRGNkQ1I3bXBuS1FRTzRFQUd1dnNMOGxRU0VNYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqC%2B5OKY29A%2FFQIoAkMzLBdAQ6ZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfOePhPLfygxnRxnZzEI-rhW4XtwgrVxhSuWA6Kanog6-A&oe=684BC0E2&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 375,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-05T21:30:49.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3644977278020522013",
+            "type": "Video",
+            "shortCode": "DKVj4W-yJAd",
+            "caption": "Celebrando do meu jeitinho \ud83d\udc95 com muito amor!",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKVj4W-yJAd/",
+            "commentsCount": 53,
+            "dimensionsHeight": 1918,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/502412714_18507107374047042_3534927836301107405_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=VhbSfSL1JEMQ7kNvwEh7nFq&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOmWA38cGv9wYBH97wlABtb58nMK8378XEpISEeTvgaDg&oe=684FD1F8&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQPGJPaTbiLzzuvGBiYaq6IevV8n1eyZojqqVbWqFTacl9ijRtqqHIdnScAW1tcrDTW7fI0oPPsdKVsXks80l8RBzFUtfhTTbgQouoU.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=709770781543021_3549334171&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QzRGRTZFNEFCNkIwQzJDMUFCMTFGQUYxMEI1MTA4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTU9JOFIzdXRvaDNPcGdEQUpwTVFUaTVENk5sYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqCX7ZrXt9A%2FFQIoAkMzLBdAPEzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfP1xcuG6tIBVJpbyOH7bB6SRDlGW7SfsuBCAEfGj8MODQ&oe=684BACEC&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1307,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-31T23:49:03.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "musicInfo": {
+                "artist_name": "Raquel Dos Teclados",
+                "song_name": "Sonho Lindo",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "657294478385757"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3643260069446241035",
+            "type": "Video",
+            "shortCode": "DKPdbr3tUsL",
+            "caption": "Garras novas pro aniver \ud83d\udc85\ud83c\udffc\n\n\ud83c\udff7\ufe0fTemos 10%OFF na 1\u00ba unha a com a Nix no @uhuhuhquebeleza, s\u00f3 falar que viu aqui no perfil \ud83d\udc95\ud83e\udd0c\ud83c\udffc",
+            "hashtags": [],
+            "mentions": [
+                "uhuhuhquebeleza,"
+            ],
+            "url": "https://www.instagram.com/p/DKPdbr3tUsL/",
+            "commentsCount": 71,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/502435247_2216149875512707_2119056159644577067_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=dhirhlVaC68Q7kNvwHE8gQS&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOM3jWhyBOyFeVB1idDgpeL2eA05dNNdcihBk7t4-5i-g&oe=684FC5C4&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-6.fna.fbcdn.net/o1/v/t16/f2/m86/AQOGSl0INWiDtCvYZxF77RbBTbsCP09s8rlGFXR9uPdoKWPLS7yA9hxMSWMA1Dm98bsC82yu_iy6VV8awyD6Mk5nZzu5fuMxZHwxbz4.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=1215149716776236_1116864101&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMDRERTc1NjMzMDc2NzMxRDFBMzBEQUExMDNFREJBQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSEdWN3gwTjNleUdQR1lPQUY1VHpKRk5SRUVZYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqDH8Y2dptA%2FFQIoAkMzLBdAKGZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPbSrAVGGnaH2xZdUIwktBnEatzmod_r5xU1ZQANQTrtg&oe=684BD2F5&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 5772,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-29T14:55:16.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Que Beleza! \u2737",
+                    "id": "10399948767",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/470305027_1280536532991955_8337140439717104952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=MdZGlsig4i4Q7kNvwFJ-1Ab&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMYQ9pLv3X3o0ZXQrMUISBZpKU8PlOQYjDrUgbV1uV7sA&oe=684FA711&_nc_sid=8b3546",
+                    "username": "uhuhuhquebeleza"
+                },
+                {
+                    "full_name": "\ud835\udc0d\ud835\udc08\ud835\udc17 \ud83c\udf6d \ud835\udc06\ud835\udc00\ud835\udc11\ud835\udc11\ud835\udc00\ud835\udc12 \ud835\udc03\ud835\udc04\ud835\udc02\ud835\udc0e\ud835\udc11\ud835\udc00\ud835\udc03\ud835\udc00\ud835\udc12",
+                    "id": "11440661296",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.ffjr1-3.fna.fbcdn.net/v/t51.2885-19/356001924_784054413172487_4470401242060331034_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-3.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=hiFCjd7erykQ7kNvwFkKy9C&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOVHeN9MebTtUYzy8bwlaPuB3NqWfblMsn3X2b75ipjiA&oe=684F9DE9&_nc_sid=8b3546",
+                    "username": "nix.desenha"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Baby T, Sayle, Vamp",
+                "song_name": "Dois Lados",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "394570182913514"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3642612247811239461",
+            "type": "Video",
+            "shortCode": "DKNKIo9Rq4l",
+            "caption": "Meus \u00f3leos favoritos da @lolacosmetics \ud83d\udc95\n\n\u2022 \u00f3leo Pinga Cenoura & Oliva \n\u2022 \u00f3leo Iluminador Camomila \n\u2022 \u00f3leo Papo Reto\n\u2022 Bio Nut Oil\n\u2022 Guava Oil\n*Todos com prote\u00e7\u00e3o t\u00e9rmica\naproveite nosso cupom no site \ud83c\udff7\ufe0fMARIBRINDE\n\n|Publi|",
+            "hashtags": [],
+            "mentions": [
+                "lolacosmetics"
+            ],
+            "url": "https://www.instagram.com/p/DKNKIo9Rq4l/",
+            "commentsCount": 51,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/501319153_18506461624047042_3173825923948132570_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=Sg-1qmv9JcIQ7kNvwFtjbUn&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOoFPfuUnxeMYheIkGqBk8LjuSuTm7tAhEWozFHIuMhVQ&oe=684FC4D6&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-5.fna.fbcdn.net/o1/v/t16/f2/m86/AQPAgU-SGVkomL4MKR4_qy7JlrKHMUI2dGBUqj9yYI9e2vM3jzA1ajtYfHQVvi-pNmLd1M5qhwEeibYM-ODiwX_A7NvyjOKPEyW2290.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=697780252967356_3614649270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NzRGRTMyQzE3MzQ4MThDMjgzNzZCODdBNEMzNkZBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT0MyN1IwUVF4QVdfMEVDQUVYUThLNFZGekpoYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqDdyeeQoNA%2FFQIoAkMzLBdAQpmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMd6-Cr6feuskeDwl0JNCThqnDddq1oRaGIrSFn2l2k0Q&oe=684BB041&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1005,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-28T17:28:36.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "lola from rio",
+                    "id": "12248193",
+                    "is_verified": true,
+                    "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/434887686_1453551928570934_2468088643383758411_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=uKidLvQdRe0Q7kNvwGLHgTJ&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPC9P6XZtRFavGykulKPndSzqp8f08SExmbS0weoZBUtg&oe=684FA102&_nc_sid=8b3546",
+                    "username": "lolacosmetics"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3642019466860777241",
+            "type": "Video",
+            "shortCode": "DKLDWirS08Z",
+            "caption": "Um biscoitinho entre os trabalhos \ud83d\ude43",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKLDWirS08Z/",
+            "commentsCount": 53,
+            "dimensionsHeight": 1921,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/501536596_18506214415047042_8726984329135974924_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=XjbuW3nDbtAQ7kNvwFlqdK2&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOLGYbIpuAUc0i1NQEgGIE3eXkuFgdXIGsfmex4hchO-A&oe=684FBF7D&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-6.fna.fbcdn.net/o1/v/t16/f2/m86/AQOx6k5ZlRjZPmm63g8Aa0XE9e7QkWpE70VyeA0lz5GeqbthHW6PGIlb8G3U2-Kka1uoXS4BiQIWRSAX0k7LIUyh5aNGLzrqGaaT1Bc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=1050488503819106_3846767545&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80RjRBRDczOTZEODk5NUQyMTA1NjgwNDQ0NjU2RjQ4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUGY1M1IyZjZkWjFRRThFQU52T1p3N051ODRZYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqDj8JD1mdA%2FFQIoAkMzLBdAJwAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfO_MkOJCfK3Vd4-2LeCc_EaHljIoh5hnEcNEwl6ou6QIA&oe=684BB3FB&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 944,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-27T21:54:35.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "musicInfo": {
+                "artist_name": "Marina Sena",
+                "song_name": "Anjo",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "885890766912101"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3639082635726723232",
+            "type": "Video",
+            "shortCode": "DKAnmBiyJig",
+            "caption": "A @creamyskincare abriu 2 quiosques em Bras\u00edlia, no @shoppingconjuntonacional e @parkshoppingbsb \u2728 Agora podemos testar tudo de pertinho e aproveitar as promo\u00e7\u00f5es! \n\n\ud83c\udff7\ufe0fMARIRRODRIGS\n\n*Compras realizadas pelo site podem ser retiradas no quiosque mais pr\u00f3ximo de voc\u00ea.\n*Promo\u00e7\u00e3o progressiva at\u00e9 dia 31 de maio de 2025\n\np u b l i",
+            "hashtags": [],
+            "mentions": [
+                "creamyskincare",
+                "shoppingconjuntonacional",
+                "parkshoppingbsb"
+            ],
+            "url": "https://www.instagram.com/p/DKAnmBiyJig/",
+            "commentsCount": 133,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/500745062_18505406587047042_1548049834745326088_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=wFYFuIOs4GIQ7kNvwF8bUeR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPXdegxlY3vXL6dfu8FzKJY4sfHz_MDmRVzn--e9tVx1A&oe=684FB216&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-6.fna.fbcdn.net/o1/v/t16/f2/m86/AQPUR06clZxTbOE4VDLud1uvawioPe2Q9Srch7totapxr32cz1y5Fr8S8JwwdsXl6M6shJyI6lTnExHvy0urLZ9GN1p9ynmzSXuYQBY.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=1256542882481328_398483598&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMzRCMTI0QjhGOEM4MzMwQjQ0Q0Q2RjEyRURGMTA5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUF9XemgwQmFnVHJ5N1FEQU9heU44bF83U1ZmYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqCTj73g%2Bc8%2FFQIoAkMzLBdAQEAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPEBLWzhPjjWgJXcYDQhAJ_mH7QMbhPTZsxX2kOqIQv3g&oe=684BB1CE&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 984,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-23T20:35:55.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Creamy Skincare",
+                    "id": "20421839610",
+                    "is_verified": true,
+                    "profile_pic_url": "https://instagram.ffjr7-1.fna.fbcdn.net/v/t51.2885-19/499424462_18082293082687611_1027819553899653354_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr7-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=bP52k1_nZgMQ7kNvwG9I84y&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOc3CTT0HyA80RHVZKe2EUalCVyMagcTlrc9Kdbqg_bTA&oe=684FAE07&_nc_sid=8b3546",
+                    "username": "creamyskincare"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3636947796437491829",
+            "type": "Video",
+            "shortCode": "DJ5CMBhS-B1",
+            "caption": "Dia de escolher meu novo oclinhos de grau @zerezes com nosso desconto EZ-MARIONA \ud83e\udef6\ud83c\udffc Qual seu fav?",
+            "hashtags": [],
+            "mentions": [
+                "zerezes"
+            ],
+            "url": "https://www.instagram.com/p/DJ5CMBhS-B1/",
+            "commentsCount": 38,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-15/499407963_18504857749047042_5656386456292913416_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=XG82hi8SA6kQ7kNvwElRNnu&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOnODkEh6bW4MI5iPT8sKRWgr7I8ezDZuShg1JVwp_0NA&oe=684F9CE8&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.ffjr1-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQMSoHEjDTmmKKfLT8uFWNJU_y8hfBqmzzoS3C1OTd56qUh1PGs7aNlBwTRBNz7OFPAI5ft3r-6FqqQ6geT6ILehSMLQ9XZdKYUKtf0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=105&vs=1379467216650533_2102596666&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDRCQ0JFNUVCQTY2MzI4RTZCQTQyQThCRTgyOUZCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUHM4c3gwUnpnWWQ3MlVDQUgzQU9SZVV0VkZ3YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqC9gOL94s8%2FFQIoAkMzLBdALYgxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMi5EHIoX14FpnaqDWZdMd2iXUBwiVgjgX_xSW2xUt9Ww&oe=684BC2D6&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1059,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-20T21:53:53.000Z",
+            "childPosts": [],
+            "ownerUsername": "marirrodrigs",
+            "ownerId": "302767041",
+            "productType": "clips",
+            "musicInfo": {
+                "artist_name": "Connie Francis",
+                "song_name": "Pretty Little Baby",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "258894846139044"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3633258329216066434",
+            "type": "Image",
+            "shortCode": "DJr7TNaJyOC",
+            "caption": "Sabemos que para um cabelo saud\u00e1vel, brilhante e livre dos danos, um cuidado poderoso n\u00e3o pode faltar, n\u00e9? Por isso, a linha Inoar Poder das Vitaminas est\u00e1 presente em cada cuidado: do pr\u00e9-shampoo at\u00e9 a finaliza\u00e7\u00e3o - uma linha completinha em efeitos, multifuncionalidades, benef\u00edcios e fragr\u00e2ncias. \n\nTem uma vers\u00e3o perfeita e diferente para voc\u00ea. Vem escolher: Perfect Curves, Morango, Uva, Melancia e Coco. \u2728",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJr7TNaJyOC/",
+            "commentsCount": 32,
+            "dimensionsHeight": 1347,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.ffjr8-1.fna.fbcdn.net/v/t51.2885-15/497707873_18539554111017039_2053685665754911435_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.ffjr8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=lrWYyfkP_l0Q7kNvwEBcgGI&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYzMzI1ODMyOTIxNjA2NjQzNA%3D%3D.3-ccb7-5&oh=00_AfPyTfg0luagoFgXAfcPHAkUZ4JOkVFDw31mSGQWgeJ4Ug&oe=684FB156&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo shared by INOAR OFICIAL on May 15, 2025 tagging @marirrodrigs. May be an image of 1 person, blonde hair, hair product, oatmeal cookies, juice and text.",
+            "likesCount": 670,
+            "timestamp": "2025-05-15T19:42:45.000Z",
+            "childPosts": [],
+            "ownerUsername": "inoarbrasil",
+            "ownerId": "230609038",
+            "taggedUsers": [
+                {
+                    "full_name": "Mariana Rodrigues \ud83c\udf1e",
+                    "id": "302767041",
+                    "is_verified": true,
+                    "profile_pic_url": "https://instagram.ffjr1-4.fna.fbcdn.net/v/t51.2885-19/486642463_9795512010480642_4486315099444399926_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffjr1-4.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc5dXjaOqUSpVyGWZc0ThFKMrDx_oVRsLHYZ7kGIFpcTiXsYy5I4KdPD38jSNIX5rjKauO60odazmm1t1Z29RT&_nc_ohc=8cxngu0Y93gQ7kNvwGczXKR&_nc_gid=uI2yebN0PQp2DgkMxAHNuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfODM3Y05M7dHzbWBZr6sKdMXGRkRmbtbfXRtCZR2FaekQ&oe=684F9EF5&_nc_sid=8b3546",
+                    "username": "marirrodrigs"
+                }
+            ],
+            "isCommentsDisabled": false
+        }
+    ],
+    "fbid": "17841401411234730"
+}

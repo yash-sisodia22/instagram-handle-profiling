@@ -1,0 +1,1427 @@
+{
+    "inputUrl": "https://www.instagram.com/kindsnacks",
+    "id": "289774198",
+    "username": "kindsnacks",
+    "url": "https://www.instagram.com/kindsnacks",
+    "fullName": "KIND Snacks",
+    "biography": "",
+    "externalUrls": [
+        {
+            "title": "",
+            "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fkindsnacks.com%2F&e=AT04btg0S1f1ONhE83TFTqxX4KfyNWbuAY2bBI0H55bANkAlI-m-ErkO-7h3vxkDc7cKAUuGiNEZPZqUrQwTKV9rbabdKgRg",
+            "url": "https://kindsnacks.com",
+            "link_type": "external"
+        }
+    ],
+    "externalUrl": "https://kindsnacks.com/",
+    "externalUrlShimmed": "https://l.instagram.com/?u=https%3A%2F%2Fkindsnacks.com%2F&e=AT2YzLbq78D1Q4vs0B81jW_LZvxCVBWmVbeC4iaWfQJh7LAwWIoSf9oRWPYUQ4YsnXnI8x9O6MZxegKxAX9-i8k8kxXLxXk4",
+    "followersCount": 156892,
+    "followsCount": 1489,
+    "hasChannel": false,
+    "highlightReelCount": 2,
+    "isBusinessAccount": true,
+    "joinedRecently": false,
+    "businessCategoryName": null,
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQ8PfwYzyDCeIHvzTkNWIC80aRVtbVIDvA7M8iEHROM6Q&oe=68749607&_nc_sid=8b3546",
+    "igtvVideoCount": 19,
+    "relatedProfiles": [
+        {
+            "id": "988975635",
+            "full_name": "PopCorners",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/26404923_426914117741100_3868687411005358080_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=X48TtlOinN0Q7kNvwFtuQFb&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSv5tIbo1tHRKxyNlxSIDiPwfxJnUnvHjEqWaKbB0uWEg&oe=687489AD&_nc_sid=8b3546",
+            "username": "popcorners"
+        },
+        {
+            "id": "382933867",
+            "full_name": "Ball Park Brand",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/516520302_18517063570021868_2446266685275542774_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=zLA8XIW-OeEQ7kNvwEW8xd8&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTZNVrrX1Wfjg3cW0W4f_Ddl3jfOUwGpTgIiuN1hZ65bw&oe=6874B9F3&_nc_sid=8b3546",
+            "username": "ballparkbrand"
+        },
+        {
+            "id": "1122255521",
+            "full_name": "Outshine Snacks",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/29088200_196353330962830_4257908608773128192_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=RiC8XBgHgdYQ7kNvwF0Lj6w&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTWHpFAZQDRvzeBE3NvvdnoBgvDAIPI2yRBv4WFtRwwYQ&oe=68749BFA&_nc_sid=8b3546",
+            "username": "outshinesnacks"
+        },
+        {
+            "id": "46881180",
+            "full_name": "Boulder Canyon",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/47583309_299637154021484_130746552611241984_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=xLaNSqQ1ogUQ7kNvwGQPeIs&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTWDN7Y6pGTDSYcDSa4SP5fYy01PI8TSrWos5003HusEA&oe=6874BCF0&_nc_sid=8b3546",
+            "username": "bouldercanyon"
+        },
+        {
+            "id": "16096725",
+            "full_name": "Nature Valley",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/90032460_594376958086475_6589340122603323392_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=AK7sn5_1gqUQ7kNvwHpi7ck&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSLzF6YNH91kj32PEgrbMM4u04lAgu3GdoqAmRRduuEyQ&oe=68748B02&_nc_sid=8b3546",
+            "username": "nature_valley"
+        },
+        {
+            "id": "578167253",
+            "full_name": "fairlife",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/473823943_1114784206955936_5262894139528934182_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=Wk7fDn2SHdIQ7kNvwF26gtW&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQKSzfpkz1_jmPW5Qs45TX0_RFTzULdAFHPTZbtgfD2tg&oe=6874B0CD&_nc_sid=8b3546",
+            "username": "fairlife"
+        },
+        {
+            "id": "1359601422",
+            "full_name": "StarKistCharlie \ud83d\udc1f",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/455815358_3371460759812968_1231340119545538789_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=zsu8c-13dPkQ7kNvwE7UX5Q&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTD5zDcV3hrDD64QP9d_j8T27SEZs4mG6AWDV5tnhlV_Q&oe=6874A820&_nc_sid=8b3546",
+            "username": "starkistcharlie"
+        },
+        {
+            "id": "719133077",
+            "full_name": "MadeGood",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/505143243_18504463495029078_4921240759245010169_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=tBDY0E0I4hcQ7kNvwEVUW93&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTa26MNU1d0LO17FjJ1RncU-7HBPJEP0-nlzKHzJeD-xA&oe=6874AB42&_nc_sid=8b3546",
+            "username": "madegoodfoods"
+        },
+        {
+            "id": "222347430",
+            "full_name": "RAG\u00da",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/257455632_576115930140809_4803370229214752201_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=lzrQU57GqnUQ7kNvwFIvnBy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfT1dOE1zHFCh3qv2NGpw4eyDlsDcNz7iDZ3FXxbN4wrJA&oe=687489DD&_nc_sid=8b3546",
+            "username": "ragu"
+        },
+        {
+            "id": "349879762",
+            "full_name": "Smucker's",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/494579315_18509849554055763_4175301760774359687_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=PpHh3gZ9GnAQ7kNvwHdN_5k&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTzDmdJirAt_Uxs1g144UnMAu2CyGnpjPlmmhKEOzqlNw&oe=68749636&_nc_sid=8b3546",
+            "username": "smuckersbrand"
+        },
+        {
+            "id": "145456626",
+            "full_name": "Skinny Cow",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/467111324_4067623490191517_6975856481652731147_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=XbP8H46cnHsQ7kNvwHBAe-f&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQDEhED4VqyRPxXRZjjyNk1JBRZbRDFu5fP1oAjLRtndw&oe=6874B4AC&_nc_sid=8b3546",
+            "username": "skinnycowus"
+        },
+        {
+            "id": "1124970503",
+            "full_name": "Emergen-C",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/106099869_2712744468958923_1559675271038891944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=8FTghoIVxs4Q7kNvwH2UWxT&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQAx3tWgr10DliAGsW_bZrmeckx_EcUbhEtilVbjceSMg&oe=687497BC&_nc_sid=8b3546",
+            "username": "emergenc"
+        },
+        {
+            "id": "344132508",
+            "full_name": "Green Giant",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/504454267_18509552665004509_6951687279775728976_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=UAnH9CLCqGwQ7kNvwH3CC4F&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRPbCMi_u1704Na1OxxWho_4OtP4FuskwxiDl8vLkh34Q&oe=6874BCA6&_nc_sid=8b3546",
+            "username": "greengiant"
+        },
+        {
+            "id": "252312401",
+            "full_name": "Dole Packaged Foods",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/455808507_505661435407493_5917189879572675724_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=6cT19wJjOXcQ7kNvwEu3VJn&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRRQggu5Tfu2w55D9xH_xHX22W_L45oP3Cop-SknyE83g&oe=68749775&_nc_sid=8b3546",
+            "username": "dolesunshine"
+        },
+        {
+            "id": "249688550",
+            "full_name": "Blue Diamond Almonds",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/513825043_18515792569024551_1294882605645673337_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=w1MKcDiMSTwQ7kNvwFSxb6P&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQVaUaDAAbCuO_yMUb33bW509UpRI0HYblBBIPTzoVcTg&oe=6874ABBF&_nc_sid=8b3546",
+            "username": "bluediamond"
+        },
+        {
+            "id": "4153931801",
+            "full_name": "The Good Crisp Company",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/495819372_18382693504139802_2771437508223155525_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=8m6n8JO_flcQ7kNvwE3hIB0&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQTNtHWAW458rMkgkAoQazq5SQv62N0T57D2_durnUDFg&oe=6874B69A&_nc_sid=8b3546",
+            "username": "thegoodcrispcompany"
+        },
+        {
+            "id": "219495703",
+            "full_name": "Bolthouse Farms",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/314728288_207063785078495_4706616676483315652_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=uwlnYiiwiDQQ7kNvwELMqev&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfT6SDV-aRqxBQ1PsM-Q8COq_CeSkn1wPJ7NVjHSmcJQJA&oe=6874A9A7&_nc_sid=8b3546",
+            "username": "bolthousefarms"
+        },
+        {
+            "id": "12912848",
+            "full_name": "Stonyfield Organic",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/424936138_258694183920172_7724744484855716719_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=-OPEspQyvSgQ7kNvwGBJIah&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSXTkYjj0Hh3ReQ5u6bjMy0QSHmLAoiW___y37q8p6OGA&oe=6874999F&_nc_sid=8b3546",
+            "username": "stonyfield"
+        },
+        {
+            "id": "320724702",
+            "full_name": "Barney Butter",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/296151827_619003552822391_1248948192688007012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=MmML8DqW8SoQ7kNvwHnQc-u&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSXYLIxUx2iByVb3tlSOjjoVkUme4eJzq9b18EDQsUEjQ&oe=6874AFB7&_nc_sid=8b3546",
+            "username": "barneybutter"
+        },
+        {
+            "id": "6038797",
+            "full_name": "Late July Organic Snacks",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/274088261_680424289781974_7465332298729237059_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=Mpymp4DH30kQ7kNvwEqPn4M&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQLCPA0wWHbuuxAXTgE4psbiG7dqyvOzJv6Md-Oqm0cOw&oe=68749E99&_nc_sid=8b3546",
+            "username": "latejulyorganic"
+        },
+        {
+            "id": "826030288",
+            "full_name": "Kettle Brand",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/410604838_332514562892790_585281725093936239_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=uXaQRfCHS0AQ7kNvwETbN2p&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQryBtwmbU1MJNh8RcN0yD8WROzG00Q7meBcgTFxSm4DA&oe=6874B44E&_nc_sid=8b3546",
+            "username": "kettlebrand"
+        },
+        {
+            "id": "461208371",
+            "full_name": "LA\u0308RABAR",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/67450613_2310423939010655_6002439348480376832_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=i8l-Cqm_UhoQ7kNvwHuUMM6&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTSiag8MvkXtcvLUSFnw4rgh3MpyhMuxGoZ7vutnN5Nfg&oe=6874BF60&_nc_sid=8b3546",
+            "username": "larabar"
+        },
+        {
+            "id": "29337155",
+            "full_name": "Pipcorn Heirloom Snacks",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/327173329_119352977720127_5477951667642255841_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=G38MAufEMHsQ7kNvwFUwdVJ&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR9JF29wEtwXXtDbSjg6knnc2GumlWUAaIzfNhLZ3UtYQ&oe=6874A788&_nc_sid=8b3546",
+            "username": "pipcornheirloomsnacks"
+        },
+        {
+            "id": "176678827",
+            "full_name": "That's it.\u00ae",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/461313320_1963565760831084_2970026322175831084_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=YZyBg-2JE2gQ7kNvwEjkrcD&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSil8N7saFu76-by_Bo3ib1NyD1c44hDxuUUv7F3WOwZQ&oe=6874B8F1&_nc_sid=8b3546",
+            "username": "thatsit"
+        },
+        {
+            "id": "2306999637",
+            "full_name": "Vive Organic",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/275510645_1244636946064698_7152356661238921130_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=r5TKHojfZA8Q7kNvwGo4EQn&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfThWqJLeh7W8ia-4grRIudtzucpOTej6Vfb7L_x94T17A&oe=6874B97C&_nc_sid=8b3546",
+            "username": "vive_organic"
+        },
+        {
+            "id": "1922980512",
+            "full_name": "Cado Avocado Ice Cream",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/73019449_1345698788924901_6867786533189976064_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=awWCgDPL4QgQ7kNvwGSH2sp&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEG_cCOTo7nJADQyWPOw7qIMemGOCP5tZnlZ8J_NvZLg&oe=6874AACE&_nc_sid=8b3546",
+            "username": "cadoicecream"
+        },
+        {
+            "id": "518348788",
+            "full_name": "Bare Snacks",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/275771378_668538297797184_5288195728123372877_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=eE9hyzPoCs0Q7kNvwF8ySed&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSu1_AFGGqz9pVraoFYUMP-ddEQirNoCyN95Fb7oaTLrw&oe=68748CB5&_nc_sid=8b3546",
+            "username": "baresnacks"
+        },
+        {
+            "id": "270194081",
+            "full_name": "Bobo's",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/245121290_260267985880899_6107587951195172540_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=MvRowKkvwbsQ7kNvwG9Wtqj&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSv2_O_x9Qt80O6Z97eDAx0xVaGWONG04-_wCmDadhQDQ&oe=6874A4BC&_nc_sid=8b3546",
+            "username": "eatbobos"
+        },
+        {
+            "id": "232291455",
+            "full_name": "RetailMeNot",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/433049801_1853998511726791_7146807838398752951_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=532Np1sPbwIQ7kNvwECzAlj&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTYEF95wHcxDqolrbkdLfIZGPYJRqcGH5MVhP98Y-yYCg&oe=6874AE52&_nc_sid=8b3546",
+            "username": "retailmenot"
+        },
+        {
+            "id": "270018986",
+            "full_name": "Almond Breeze",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/472234833_8927990523982163_743174237640954234_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=WMKZMD_u5IgQ7kNvwEsFBhS&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQbmj2f8UrhkdpBVg-R1faI9fHl0cAmlFRVRls6TQlWaA&oe=687489E5&_nc_sid=8b3546",
+            "username": "almondbreeze"
+        },
+        {
+            "id": "404284850",
+            "full_name": "Boxed",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/265630119_192731939736290_347415584966209719_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=tqU4LV0HLZcQ7kNvwFrlYZ_&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQBC4lTp9fFgPFaL3y1_Tafq43ORoX-zD050qz3RpPcpg&oe=6874B115&_nc_sid=8b3546",
+            "username": "boxedwholesale"
+        },
+        {
+            "id": "4174162",
+            "full_name": "FAGE",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/61715759_1295047763981386_82340175241281536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=lMVpHxLI28IQ7kNvwE03X6B&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTbqSY4Ho_L5h4-NFbWHsUGQCkEXpfBK60Inpi89Pf-EQ&oe=687499FA&_nc_sid=8b3546",
+            "username": "fage"
+        },
+        {
+            "id": "289436556",
+            "full_name": "NuttZo\u00ae Mixed Nut & Seed Butter and Snacks",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/67384598_2372388339686624_8768801820756672512_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=b61czR1Oe4YQ7kNvwFLmUET&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSK_F4q02BiRkImuSFhmoM_uqdFdC2xMJEPCAROa_d_Yg&oe=6874AE7F&_nc_sid=8b3546",
+            "username": "eatnuttzo"
+        },
+        {
+            "id": "2061334879",
+            "full_name": "5-hour ENERGY",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/474940652_588594827282746_9033407435913950976_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=zLIH80cwdZIQ7kNvwEKHRp5&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTcaGgTqYRDPMgtHOowpcKGiwxDDw-RXfYp57r0JULwug&oe=6874B390&_nc_sid=8b3546",
+            "username": "5hourenergy"
+        },
+        {
+            "id": "1635673005",
+            "full_name": "brekki",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/361108673_813367610504144_498732380861490647_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=q2N6aIWFZY0Q7kNvwFsjhg7&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQMe_adqcFO9D6EMXL2btHRbYKarEmAs7OXJaq1LkpXKQ&oe=68748E87&_nc_sid=8b3546",
+            "username": "eatbrekki"
+        },
+        {
+            "id": "1191374026",
+            "full_name": "Nuts.com",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/457348243_949518746937218_1770116309343293013_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=XX-acaTH7UAQ7kNvwE_ERPu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRlW8zd12fHKpsJ-ez883otB4InFN1tvCQU68n7JXZ9-g&oe=6874BB30&_nc_sid=8b3546",
+            "username": "nutsdotcom"
+        },
+        {
+            "id": "7251145745",
+            "full_name": "Gratify Gluten Free",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/490187174_678365044561290_992214099804564153_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=3OcKnSUynNgQ7kNvwE-TShD&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQHhbfFsubyWZfaaYVtHQzpf4qEThVjrmMAj_QiHnDBJA&oe=687494CE&_nc_sid=8b3546",
+            "username": "gratifyfoods"
+        },
+        {
+            "id": "820878571",
+            "full_name": "Apple & Eve",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/23098623_1047441082064904_2218603285604990976_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=kS6TjHEZW_IQ7kNvwHSNTur&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSw-3VxRaM7hUlWU187idw5U5LKx355Zcl14lw7kRR8zw&oe=6874BAB1&_nc_sid=8b3546",
+            "username": "appleandevejuice"
+        },
+        {
+            "id": "48645113",
+            "full_name": "Applegate \ud83c\udf2d\ud83e\udd53\ud83c\udf57\ud83c\udf54",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/431618322_389005390408470_8608632251636067873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=-WXIs6DbzOAQ7kNvwGTEI-m&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTV0OR03Mgiy8ee5Nj9xUaYLXUVM-0DzrnLTE73OmNw_A&oe=687499A6&_nc_sid=8b3546",
+            "username": "applegate"
+        },
+        {
+            "id": "8242878",
+            "full_name": "Emmy's Organics",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/323099919_162567526486902_6087947384268827754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=_ajFEp1IhogQ7kNvwEYOv1N&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSTW2oRfZqxwrfn-La6Co3kCdGJhKR-3VnmNL5YLH5qbA&oe=6874BB81&_nc_sid=8b3546",
+            "username": "emmysorganics"
+        }
+    ],
+    "latestIgtvVideos": [
+        {
+            "type": "Video",
+            "shortCode": "Cfr88RHlah6",
+            "title": "",
+            "caption": "48 billion. That\u2019s how many bees have been required to pollinate California\u2019s almonds in recent years. It\u2019s no secret that KIND \ud83d\udc9bs almonds. That\u2019s why, by the end of 2022, 51% of our almond supply will be sourced from bee-friendly farmland, and 100% by 2025. \ud83d\udc1d To learn more, click the link in our bio (kindsnacks.com/bees)",
+            "commentsCount": 3,
+            "commentsDisabled": false,
+            "dimensionsHeight": 937,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/291930422_1108893876651851_5732444911734469525_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=LUi7waT3EEQQ7kNvwEDprcy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRV1Vu4HCn2PrAFYeO5oenX24WR-4bWIp_vRDTsDHl4mw&oe=6874AFA0&_nc_sid=8b3546",
+            "likesCount": 131,
+            "videoDuration": 5.066,
+            "videoViewCount": 1747,
+            "id": "2876660811346323578",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Cfr88RHlah6/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQPLvMp6gUYpM-TEyRfIIk5AnPRbgIKLmKsKbzs2GweKBAOrH58g_ON6QvXi3Q5QTgXFwk6hwAz-Ti8TLs8biH63.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=111&vs=1457374341358905_1418395002&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUxKYUJFZXNNcjlQOXNDQUdIWHlmWWowS1l6YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR0VuYmhGTGhRNV9RWVFCQUxHbklGVG9STTE4YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmhO3Ep8mC0T8VAigCQzMsF0AUQ5WBBiTdGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfTz6MrOiDdOPrDmp7tJGVhaEv3eHaiDLJllgK9v1wMdRw&oe=6870BA8E&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-07-06T22:00:53.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CfhkLyFFUSJ",
+            "title": "",
+            "caption": "#pridemonth may be over, but we\u2019re here to celebrate all year long \ud83c\udf89 We began our partnership with @aliforneycenter in 2018 with the launch of our Snack & Give Back program, a multi-year program to inspire kindness and empathy. The Ali Forney Center is the nation\u2019s largest organization dedicated to supporting homeless LGBTQ+ youth. This year, KIND has donated $125,000 to the Ali Forney Center, with $25,000 specifically being used to support LGBTQ+ youth in Florida.",
+            "commentsCount": 0,
+            "commentsDisabled": false,
+            "dimensionsHeight": 937,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/291419384_576253227459437_3704471526178130617_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=QoOSNsr9N8cQ7kNvwGHfzag&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfS2Ld0ijFuah1wiWhg9L3WuD9mZW3IXBCC9w12rksXuaw&oe=6874BB49&_nc_sid=8b3546",
+            "likesCount": 68,
+            "videoDuration": 5.533,
+            "videoViewCount": 1354,
+            "id": "2873737176600102025",
+            "hashtags": [
+                "pridemonth"
+            ],
+            "mentions": [
+                "aliforneycenter"
+            ],
+            "url": "https://www.instagram.com/p/CfhkLyFFUSJ/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQOgHP3AOfVJ4CRvk4GJ_tuif-KZ43RsMJQxZ20sNMFOiFQ1nKM_jGbpE7_eN7npnTjhY2ecB-fW_3PxE_DrTIpx.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=100&vs=699565487819563_4068169334&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRWc2VHhFNFQwS2xsVW9FQUdZaUp6Y3p2Y1lQYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRWtYVnhHdUVfaVlMaWNDQUQza253NXlLVm9yYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmvOT%2FhpTihEAVAigCQzMsF0AWIcrAgxJvGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfTXkg5OG15G8ZUtoZg6tdUBRDM_hbDznFnMfHf6ksuVRA&oe=6870AA91&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-07-02T21:12:29.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Ali Forney Center",
+                    "id": "2071963285",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/14374184_692943074196272_2002254078_a.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=n0wCz0BPBHkQ7kNvwENgec-&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRxbYbOHPQ-tlW8e3adFBTo2DregQeojVqbgytlLHG6Vg&oe=6874BF1F&_nc_sid=8b3546",
+                    "username": "aliforneycenter"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CfKyhUiFD0j",
+            "title": "",
+            "caption": "The KIND \u2018Better Than Ice Cream\u2019 Truck is on the way, Bentonville! You\u2019ll be able to find us at the @bfffestival from 4PM - 10PM. Stop by to try our KIND FROZEN\u00ae Treat Bars \u2013 on us \u2014 this weekend! \ud83d\udc40 #KINDFrozen #LIVEKIND",
+            "commentsCount": 5,
+            "commentsDisabled": false,
+            "dimensionsHeight": 937,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/289635555_2061623104022311_3041177045727400219_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=zF2v9HR5sekQ7kNvwEeRmtA&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTL5V0_e7axlChyci4CYW6BW8PPPenMr0pTEi_8bkkmeg&oe=6874B7DA&_nc_sid=8b3546",
+            "likesCount": 135,
+            "videoDuration": 10,
+            "videoViewCount": 9369,
+            "id": "2867326304889617699",
+            "hashtags": [
+                "KINDFrozen",
+                "LIVEKIND"
+            ],
+            "mentions": [
+                "bfffestival"
+            ],
+            "url": "https://www.instagram.com/p/CfKyhUiFD0j/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQNaCWiNKTd1dfaOhT5cM-HMbNfmGy2gFGWLL2qSBj9FYfB7IUAooFcxoJ3IWY7meUTzStZ7hn0dczwfiISUlOyS.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=110&vs=273727571620259_1218227127&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR3FjU1JIS09ONUVwUGNEQU8wUnc5a3hNRlF5YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ0hBVFJIZW1IMEE5anNGQU5ibF9TOWJHWGxqYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmnu%2B9kdur6z8VAigCQzMsF0AkAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfQwdl2ie9YLqDGvIjuClVP33nSptaviTMCJXeRACJR7UQ&oe=687097E6&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-06-24T00:53:57.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CeEQig5lPkE",
+            "title": "",
+            "caption": "The next stop on our summer tour: Montauk, NY! Come try our KIND Frozen\u00ae Bars (on us!) at the KIND \u2018Better Than Ice Cream\u2019 Truck. Tag your friends headed to the \u2600\ufe0f\ud83c\udf0a\ud83c\udfd6 this weekend!",
+            "commentsCount": 15,
+            "commentsDisabled": false,
+            "dimensionsHeight": 800,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/284359997_2828667417279371_5460894438544117420_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9q8U9xSBm44Q7kNvwG8m2gb&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSmuT2iKpaOaVf9a0LpOsuPgw8bUp8tZK6DALIAa61V6A&oe=6874B713&_nc_sid=8b3546",
+            "likesCount": 163,
+            "videoDuration": 18.366,
+            "videoViewCount": 11312,
+            "id": "2847473604937185540",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/CeEQig5lPkE/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQPguWPebu25oSR2R4YbQtgvPmizUPBc5PsJ5DNMeq_KCxDeIKcT4XAL4ihGNg9NvauU_P8jaW_qSD5THLjRW_7y.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi41NzYuYmFzZWxpbmUifQ&_nc_cat=111&vs=2732318420235684_3730440690&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR3hENkJDcG9oWmFCUEVCQUpySGVabHJ1dmROYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQjRtOWhBZlo3cW5DelVCQUhZQ3djbTNJZWN4YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmxLWuj%2FPM1D8VAigCQzMsF0AyXbItDlYEGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfTY6sjy2jiNOq6E1zSl4-IXqfzs3XBg6nSjqXMV7N3DTg&oe=6870AC39&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-05-27T16:49:21.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Angelica Berry",
+                    "id": "1191872962",
+                    "is_verified": false,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/490644390_18495897469000963_360919767073359532_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=--MzIyjkvjcQ7kNvwGI-n7-&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRSQjuliAImowcmCEchwFsFfxC6SFKxDZth7b3vyo6ucg&oe=68749D49&_nc_sid=8b3546",
+                    "username": "berryluscious"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CdvnCd2F2G5",
+            "title": "",
+            "caption": "Head to @kindsnacks on TikTok to join us for our #WorldBeeDay party! \ud83d\udc1d Give us a follow to bee alerted when the #beedaybash starts on 5/20 at 5pm PT/7 pm CT. #kindpartner @mr.mrs.beerescue will bee there, and you\u2019re invited, too. #beetok",
+            "commentsCount": 3,
+            "commentsDisabled": false,
+            "dimensionsHeight": 853,
+            "dimensionsWidth": 480,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/283021415_989856825229002_5523476991443307044_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=n3MTdarp4wwQ7kNvwGP9K3-&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTWEHpa6BsxZFN4dRwyCC1L6fyRHWB3Nl3CaNtpVNKoPQ&oe=6874A4D3&_nc_sid=8b3546",
+            "likesCount": 105,
+            "videoDuration": 61.7,
+            "videoViewCount": 4635,
+            "id": "2841661583192973753",
+            "hashtags": [
+                "WorldBeeDay",
+                "beedaybash",
+                "kindpartner",
+                "beetok"
+            ],
+            "mentions": [
+                "kindsnacks",
+                "mr.mrs.beerescue"
+            ],
+            "url": "https://www.instagram.com/p/CdvnCd2F2G5/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQMUVxMOgBfaQafJueVm2NEBwUeGg4nWLraax2Zz6NkUZxdYYoXEcLctQ5wMeqv9Cw-mLIqsjlMNAR1BXb2-hbex.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi40ODAuYmFzZWxpbmUifQ&_nc_cat=102&vs=526904302492916_954673792&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS1R3enhBY2dyNS1HWk1IQVAwVmRDZXVjV1JjYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1l4dnhDR2F6eEpiWUFBQUNoZmtWNzVZdHNEYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmysWGvq78gEEVAigCQzMsF0BO2ZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfQn63-ev9XIMPDc3D2lk0OJRSq0TlcafGESVBgD12Fw0w&oe=6870BAF2&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-05-19T15:02:02.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "\ud835\udc09 \ud835\udc04 \ud835\udc05 \ud835\udc05  +  \ud835\udc09 \ud835\udc14 \ud835\udc0b \ud835\udc08 \ud835\udc04 \ud83d\udc1d \ud835\udc11 \ud835\udc14 \ud835\udc12 \ud835\udc12 \ud835\udc04 \ud835\udc0b \ud835\udc0b",
+                    "id": "12253606944",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/139276382_293519562117442_8279391601215340803_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=Lk5fpxo4ktoQ7kNvwEVyuPf&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRUOqApxidoUDlhBDFeZVaptGuMi87hSynaa_BYsrzcqA&oe=68749EEF&_nc_sid=8b3546",
+                    "username": "mr.mrs.beerescue"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "Cb8X2NaFy3M",
+            "title": "",
+            "caption": "#KINDPartner @veggiesandchocolate \ud83e\udd1d KIND\u00ae Dark Chocolate Nuts & Sea Salt #LIVEKIND",
+            "commentsCount": 6,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1137,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/277821938_359611832848344_3062569076348502477_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=qWMau5WUFYoQ7kNvwHCGWht&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTJ1RYyGLUiitpdaAaEtn6JB_O44ymUAULrxOzhikqETw&oe=6874BD36&_nc_sid=8b3546",
+            "likesCount": 123,
+            "videoDuration": 14.866,
+            "videoViewCount": 2025,
+            "id": "2809225147890216396",
+            "hashtags": [
+                "KINDPartner",
+                "LIVEKIND"
+            ],
+            "mentions": [
+                "veggiesandchocolate"
+            ],
+            "url": "https://www.instagram.com/p/Cb8X2NaFy3M/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQPm0SgPPM43to7fdaz8BG8pS9H47DvHcCpirFEuCfYJT0YctFppoDCE9KJMdXY-gtpez2yr4qMYDnrgcXfSyC4S.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi41NzYuYmFzZWxpbmUifQ&_nc_cat=101&vs=390245412646103_369432381&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ3AtaWhCcC12SlZkU01CQUo0eWF4QkV3UDg0YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTmFaaWhCUVl2UDU5MzREQUJQbzZoMHZWR1FnYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmtNXO6u7qwkAVAigCQzMsF0Atu2RaHKwIGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfQaVbgKXYXozPMvo_UYMyaMsLUz1qw3DA4UqJOMDEqdiA&oe=6870B8FA&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-04-04T20:57:43.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Intuitive Eating Registered Dietitian | Sammi Haber Brondo",
+                    "id": "1543264063",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/73393291_538924990175276_4411716709107367936_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=cucaNFZd9Z8Q7kNvwH_b9P9&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTs4AX_iVtgsq6MFQRnikhDKaAdOYMUwJr7JOvZOS4puQ&oe=6874A237&_nc_sid=8b3546",
+                    "username": "veggiesandchocolate"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CbbEHoFF8U2",
+            "title": "",
+            "caption": "We have donated $100,000 to @wckitchen because of people like Olena. Watch to learn more about her story and how she\u2019s working with World Central Kitchen every day to support families fleeing home. Thank you for your kindness, Olena. We stand with you and Ukraine \ud83d\udc99\ud83d\udc9b",
+            "commentsCount": 4,
+            "commentsDisabled": false,
+            "dimensionsHeight": 607,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/276970166_284773953804023_1154901380870012170_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=uSgGp0_-l-kQ7kNvwHosly_&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRSYwdwCZ12xNXsZCtiY2UGLX8mveqEPWz-OcYIaozRzQ&oe=6874A243&_nc_sid=8b3546",
+            "likesCount": 55,
+            "videoDuration": 100.833,
+            "videoViewCount": 826,
+            "id": "2799849709598393654",
+            "hashtags": [],
+            "mentions": [
+                "wckitchen"
+            ],
+            "url": "https://www.instagram.com/p/CbbEHoFF8U2/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQNsMlMyddItCq9V1EYezwcTIMo0GxcQ68VW0CLMLFx7YfH2XGlqH9ErSOPw7iXhm7fLXSrSEkyNQMHQtdqvltet.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi4xMjgwLmJhc2VsaW5lIn0&_nc_cat=109&vs=1101618540694301_969612313&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFCZXNiazMwWlFCQURPTGhvZU92cmhuYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUHM1Z2hBZkYwR182OVFFQUJETWZtcVNmeGd3YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAm8pyMzo7u0j8VAigCQzMsF0BZNU%2FfO2RaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfRG-Aany3l2mgoH8pGrVg5YvQB6vPEN--O_Yxhla9GvEQ&oe=6870AFE9&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-03-22T22:30:52.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "World Central Kitchen",
+                    "id": "366843272",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/474756492_1180063130177186_6562337353913550550_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=hn00u0RqjloQ7kNvwE3hLQx&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRWmfkiERUkTGNHLacvI5y_J_9IXQrRBgOqOgoMeqSNJw&oe=68749BF4&_nc_sid=8b3546",
+                    "username": "wckitchen"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CbWOvaWlADr",
+            "title": "",
+            "caption": "#KINDPartner @veganyzzy is here to breakdown just what's inside our of KIND Whole Fruit & Nut box. Whole, delicious foods delivered right to your door--what could be better? \ud83d\udce6 Get yours while supplies last exclusively on kindsnacks.com. Link in bio to shop \ud83c\udf4e",
+            "commentsCount": 4,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/276152092_1135188537313520_5452982146785537145_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=RoNgqF3evMMQ7kNvwFkjmp3&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR0nZfbULwCcsEgg58Oa_u9y7X9VsmZwie6Ds-ocWj99A&oe=6874AB8E&_nc_sid=8b3546",
+            "likesCount": 95,
+            "videoDuration": 29.666,
+            "videoViewCount": 1856,
+            "id": "2798489049219989739",
+            "hashtags": [
+                "KINDPartner"
+            ],
+            "mentions": [
+                "veganyzzy"
+            ],
+            "url": "https://www.instagram.com/p/CbWOvaWlADr/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQPYykDtzVIXcMGmeSDGDCw1SrGnYAvogeOk-C26pYmp-_kCmsTSefQhqUCVY-wuqpLuwwMBKWBTBhi1Re72cRfl.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=102&vs=1398546537264883_1066750624&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSnNDZ3hEWDUyZVhzRnNEQUV0OUpKa3hTZU5TYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSXc2Z2hBQWlxb1JYNzBCQUJpbEdzc1ltbmx2YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAm5NzcnJ%2FI20AVAigCQzMsF0A9qn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfRXG2nE4ZpO-_opsumtB36Vim91sAQkDZgkx8so_nMqIw&oe=6870937E&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-03-21T01:26:04.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Ysabel Chavez",
+                    "id": "21502203604",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/365011338_122080870933330_1864571449483601331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=wEjWJGPYW6wQ7kNvwFYkbQW&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSZ20vPbRchAYBV9jMCfCgNMl2KbUOpF4e7O3qMi6Wi8w&oe=68748F0C&_nc_sid=8b3546",
+                    "username": "veganyzzy"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CbLbnoYlOWf",
+            "title": "",
+            "caption": "here are some things we know about KIND founder @daniellubetzky: he loves KIND bars, always reaches for whole foods AND he will be back in the tank this Friday 3/18 at 8 PM EST on @sharktankabc \ud83e\udd88\ud83c\udf4e\ud83e\udd5c",
+            "commentsCount": 28,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/275851066_505123857896643_8746685312026348784_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=r62iw1mklj0Q7kNvwHKsOeK&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRQa6N8RUCiwzJCzbhd4iH5PS5ACPtMPON0s9lKlkeAyA&oe=68748FBE&_nc_sid=8b3546",
+            "likesCount": 451,
+            "videoDuration": 23.766,
+            "videoViewCount": 8743,
+            "id": "2795449464391001503",
+            "hashtags": [],
+            "mentions": [
+                "daniellubetzky:",
+                "sharktankabc"
+            ],
+            "url": "https://www.instagram.com/p/CbLbnoYlOWf/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQPFiAk7ku-azAxUrskYH_9yT_pzyDx93pVverfxQQT2HbJEcj39T19CVu8ptIKiyVrvWqI0aqnN_e49cYlSVkw6.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=101&vs=695210154842233_4259546905&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQnZpY1JCcDBlakgwaVVJQUVpMG5UanAwNHA0YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTVZYY1JBTlpFTE03M1lBQURPdUJ4S0M4c2t4YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmoPeCjNjS2z8VAigCQzMsF0A3xBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfRwzzIpkdK8cSYJIByX42bKl_l2Zbk3EKORDKtWsM7mpQ&oe=6870AA5F&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-03-16T20:48:05.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Daniel Lubetzky",
+                    "id": "20546782601",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/474015997_1269624350786181_419560608090378180_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=h22bAuRQoVQQ7kNvwHzXZ_S&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRfuzQT1eZJWyadOfruyB1mPu1Z0mLYxJtcMyDfG8VCNg&oe=6874B42E&_nc_sid=8b3546",
+                    "username": "daniellubetzky"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CaR26W3lTWL",
+            "title": "",
+            "caption": "\ud83d\udc4b NYC! The Secret KIND Farmers Market, the first-ever farmers market that can be found behind a vending machine door, will be open 2/23 - 2/24 from 11AM - 7PM! Will you be able to find us? \ud83e\udd2b\n\n\ud83d\udccd9 W 8th St, New York, NY 10011\n(masks & vaccines required)",
+            "commentsCount": 56,
+            "commentsDisabled": false,
+            "dimensionsHeight": 937,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.29350-15/274329940_976149503091359_5170134278213968488_n.jpg?stp=dst-jpg_e35_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=3T2J15iGKTMQ7kNvwEp5Nmi&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTpC7NpDSYA_Fb9dVH_WUqOAcKz8drztDUh_kNpQPay5w&oe=6874A402&_nc_sid=8b3546",
+            "likesCount": 486,
+            "videoDuration": 30.033,
+            "videoViewCount": 12605,
+            "id": "2779243949860402571",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/CaR26W3lTWL/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQMWKAYrFJw69pkqJOvMUnCB621QMKml-XD_TiKtyCPwH6CfMz34AZYaoKm1sBjoWi9NqJ7eS55m3Zje6ABfcGAk.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=100&vs=5642599132433839_2822866008&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSkxfWGhCdlBkcGI5b1FBQVBaa0F1ZmxsWGwxYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQVdFV1JBaEVSdHNWOU1TQUUwbXZlZ3ltU2d6YnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAm3sy2tM%2BRxj8VAigCQzMsF0A%2BCHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfR2yXlQn_n5m6TctTJY6hh669px-59NHP1j2sis9SNWqw&oe=6870AE7F&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-02-22T12:16:54.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CaGHjf1pXTL",
+            "title": "",
+            "caption": "did you know today is Random Acts of Kindness Day? \ud83e\udd14 #KINDPartner @veganyzzy showcases one of our favorite ways to spread kindness\u2014a sweet note & a delicious snack. a simple act of kindness can have a huge impact. what random act of kindness are you going to do today?",
+            "commentsCount": 2,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.29350-15/274182408_1418503068568991_7870756532634379261_n.jpg?stp=dst-jpg_e35_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=y0VynJGVRVgQ7kNvwEuhzCg&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR-3PWZpkcXf8wBzFjwabfnqkG0ciLvtXr6pU6SDwURdQ&oe=68748E0C&_nc_sid=8b3546",
+            "likesCount": 111,
+            "videoDuration": 25,
+            "videoViewCount": 1373,
+            "id": "2775939446013785291",
+            "hashtags": [
+                "KINDPartner"
+            ],
+            "mentions": [
+                "veganyzzy"
+            ],
+            "url": "https://www.instagram.com/p/CaGHjf1pXTL/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQPusXYL8_OWVU8aIFv7LjYGtfQ3D8a2WIFbfpyugBmtMDfekeVvtLEH_9CU7AHifV8LnO0PCkIomJLTKIY4fXYA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=110&vs=334936391982446_532622055&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTGNUV1JCNXcwX0UxbmdDQU81Znp3dlFfN29zYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRVhvVmhCaVFERXZaN29CQUFxdnZqQThPNnBWYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmoLTL%2FreEsj8VAigCQzMsF0A5AAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfTaPxUVScYQ3UeL81zJMft8X9EFUxuWRNG582N7y-m48A&oe=6870B726&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-02-17T22:44:01.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Ysabel Chavez",
+                    "id": "21502203604",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/365011338_122080870933330_1864571449483601331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=wEjWJGPYW6wQ7kNvwFYkbQW&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSZ20vPbRchAYBV9jMCfCgNMl2KbUOpF4e7O3qMi6Wi8w&oe=68748F0C&_nc_sid=8b3546",
+                    "username": "veganyzzy"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "type": "Video",
+            "shortCode": "CZNZWpMJWZb",
+            "title": "",
+            "caption": "it\u2019s all about balance \u2696\ufe0f #KINDPartner and Registered Dietitian @beautifuleatsandthings shares a delicious balanced lunch recipe. the \u2b50 of the show? our Caramel Almond & Sea Salt bar. brb, going to our kitchen to prepare this for lunch tomorrow!",
+            "commentsCount": 2,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.29350-15/272783084_1001496213789760_1192351029204356025_n.jpg?stp=dst-jpg_e35_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=uVYhzYK-gAAQ7kNvwH9-TCy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR27ArLo5rmG_oynddFD3cJcVNQmIiOVE88NL_Kw_fx3A&oe=6874A450&_nc_sid=8b3546",
+            "likesCount": 81,
+            "videoDuration": 44.733,
+            "videoViewCount": 898,
+            "id": "2759973653866440283",
+            "hashtags": [
+                "KINDPartner"
+            ],
+            "mentions": [
+                "beautifuleatsandthings"
+            ],
+            "url": "https://www.instagram.com/p/CZNZWpMJWZb/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQOtX9BDViJkUNLiU1rj5-q7WQ5-Mm-qXjrOxVHIYTs-mpt42OuZigQ0NpjPa4jyRBDYZln67iHCNcSrnLWgWMkq.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=110&vs=640456243840105_3557368815&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTlBfT1JESEJEckNPQ2tDQVA2alhmQkxLYU1yYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUDlPUWhDTnJCUnI3NjhHQUxCY3F3OUpMcFUwYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAm2oLqnYaW2kAVAigCQzMsF0BGXdLxqfvnGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfRhmB6yQfJrsQeY7lrMsCEbUssDQd_AIj2IZSpTv9nslA&oe=68709E17&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-01-26T22:03:51.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "igtv",
+            "taggedUsers": [
+                {
+                    "full_name": "Andrea (Andy) Mathis MA RDN LD",
+                    "id": "178202997",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/84305899_775407632869097_5310028283209842688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=hapitJqV-IQQ7kNvwGQfPEs&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSgCDh1r9oTn9f2gmXhnaNO1cPOA-mzMbAoeC5_n-3CXw&oe=6874ACA7&_nc_sid=8b3546",
+                    "username": "beautifuleatsandthings"
+                }
+            ],
+            "isCommentsDisabled": false
+        }
+    ],
+    "postsCount": 669,
+    "latestPosts": [
+        {
+            "id": "3663744850178072190",
+            "type": "Sidecar",
+            "shortCode": "DLYPIemh95-",
+            "caption": "reporting live from Fiji \ud83c\udf34\ud83c\udf53\n\n#kindsnacks #loveisland #imamom #mamacita #breakfast",
+            "hashtags": [
+                "kindsnacks",
+                "loveisland",
+                "imamom",
+                "mamacita",
+                "breakfast"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DLYPIemh95-/",
+            "commentsCount": 14,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504364982_18510824791046199_3668630512486232748_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=jnX-CyoPb7sQ7kNvwGno9Dy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzczNzYzNDA2MQ%3D%3D.3-ccb7-5&oh=00_AfSpTzojmDeaCaKI-92fvRZdLnMz9s8UHQpFWGDJCqw-zw&oe=68749DE8&_nc_sid=8b3546",
+            "images": [
+                "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504364982_18510824791046199_3668630512486232748_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=jnX-CyoPb7sQ7kNvwGno9Dy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzczNzYzNDA2MQ%3D%3D.3-ccb7-5&oh=00_AfSpTzojmDeaCaKI-92fvRZdLnMz9s8UHQpFWGDJCqw-zw&oe=68749DE8&_nc_sid=8b3546",
+                "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/511532972_18510824800046199_2289593037052986187_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=h3gW9znHbp0Q7kNvwG01RpL&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzg5NzEwMTIwOA%3D%3D.3-ccb7-5&oh=00_AfT2CRySYlRSWPJ2v2qXFy9wUZAF1Ki7cnB0ltfz_UTO6g&oe=6874B013&_nc_sid=8b3546",
+                "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504374897_18510824809046199_3788650154865810785_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=1p5fO8CQkmMQ7kNvwELYmA8&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzczNzYwODI0Nw%3D%3D.3-ccb7-5&oh=00_AfRaQD_ZnoiVi_PEYOEKjUziwkAwFeBg0qQnrCKUnvL9EQ&oe=6874AAA7&_nc_sid=8b3546",
+                "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/513902303_18510824818046199_5203723958081132600_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=rFvX_5dr_6AQ7kNvwGlRrrJ&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzc0NTk2MTAyNA%3D%3D.3-ccb7-5&oh=00_AfTYhVI8ATxR8i9cL4wXvJyrwGIStJInJHYdw-641HXshw&oe=687497C1&_nc_sid=8b3546"
+            ],
+            "alt": "Photo by KIND Snacks on June 26, 2025. May be an image of oatmeal cookies, chocolate bar, granola and text that says '\" a mommy\" KIND healthy grains healthygrainsenergy energy Mixed Berry WHOLE GRAINS SUSTAINED ENERGY FROM MADE ITH \u6c345 28SP1 NEW- VALUE PACK 10-1.40Z(40g) BARS METWT14.102(400g) \"mami?\" KIND BREAKFAST PROTEIN Apple Cinnamon BREAKFAST BARS KETWE.1.7602(F0 NETWT'.",
+            "likesCount": 176,
+            "timestamp": "2025-06-26T21:14:02.000Z",
+            "childPosts": [
+                {
+                    "id": "3663744837737634061",
+                    "type": "Image",
+                    "shortCode": "DLYPITBBdkN",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DLYPITBBdkN/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504364982_18510824791046199_3668630512486232748_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=jnX-CyoPb7sQ7kNvwGno9Dy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzczNzYzNDA2MQ%3D%3D.3-ccb7-5&oh=00_AfSpTzojmDeaCaKI-92fvRZdLnMz9s8UHQpFWGDJCqw-zw&oe=68749DE8&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by KIND Snacks on June 26, 2025. May be an image of oatmeal cookies, chocolate bar, granola and text that says '\" a mommy\" KIND healthy grains healthygrainsenergy energy Mixed Berry WHOLE GRAINS SUSTAINED ENERGY FROM MADE ITH \u6c345 28SP1 NEW- VALUE PACK 10-1.40Z(40g) BARS METWT14.102(400g) \"mami?\" KIND BREAKFAST PROTEIN Apple Cinnamon BREAKFAST BARS KETWE.1.7602(F0 NETWT'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "kindsnacks",
+                    "ownerId": "289774198"
+                },
+                {
+                    "id": "3663744837897101208",
+                    "type": "Image",
+                    "shortCode": "DLYPITKhx-Y",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DLYPITKhx-Y/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/511532972_18510824800046199_2289593037052986187_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=h3gW9znHbp0Q7kNvwG01RpL&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzg5NzEwMTIwOA%3D%3D.3-ccb7-5&oh=00_AfT2CRySYlRSWPJ2v2qXFy9wUZAF1Ki7cnB0ltfz_UTO6g&oe=6874B013&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by KIND Snacks on June 26, 2025. May be an image of oatmeal cookies, chocolate bar, granola and text that says '\"' \"I'mamom\" a mom\" KIND healthygrainsenergy Mixed Berry WHOLE GRAINS healthy grains\u00ae energy SUSTAINED ENERGY FROM MADE ITH \u672c5 2RAGPTER -NEW- VALUE PACK 10-1.40Z(40g)B BARS NETWT14.10(0 \"~mamacita~\" KIND BREAKFASI PROTEIN Apple Cinnamon BREAKFAST BARS RETSI'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "kindsnacks",
+                    "ownerId": "289774198"
+                },
+                {
+                    "id": "3663744837737608247",
+                    "type": "Image",
+                    "shortCode": "DLYPITBBXQ3",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DLYPITBBXQ3/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504374897_18510824809046199_3788650154865810785_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=1p5fO8CQkmMQ7kNvwELYmA8&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzczNzYwODI0Nw%3D%3D.3-ccb7-5&oh=00_AfRaQD_ZnoiVi_PEYOEKjUziwkAwFeBg0qQnrCKUnvL9EQ&oe=6874AAA7&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by KIND Snacks on June 26, 2025. May be an image of chocolate bar, petfood and text that says '\"no, I'm a mommy\" KIND healthy grains energy Mixed Berry SUSTAINED ENERGY FROM N WHOLE GRAINS MADE ITH 15 2RASPHID NEW- VALUE PACK 0-1.40Z(40g) BARS METWT14.102 \"a mom of what? a dog?\" KIND BREAKFAST KFAST PROTEIN Apple Cinnamon BREAKFAST BARS NETWT T.1.360250'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "kindsnacks",
+                    "ownerId": "289774198"
+                },
+                {
+                    "id": "3663744837745961024",
+                    "type": "Image",
+                    "shortCode": "DLYPITBhOhA",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/DLYPITBhOhA/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1080,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/513902303_18510824818046199_5203723958081132600_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=rFvX_5dr_6AQ7kNvwGlRrrJ&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY2Mzc0NDgzNzc0NTk2MTAyNA%3D%3D.3-ccb7-5&oh=00_AfTYhVI8ATxR8i9cL4wXvJyrwGIStJInJHYdw-641HXshw&oe=687497C1&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by KIND Snacks on June 26, 2025. May be an image of chocolate bar, wafer and text that says '\" have a daughter\" KIND healthy grains energy Mixed MixedBerry Berry SUSTAINED ENERGY FROM 19g WHOLE WHOLEGRAINS GRAINS MADE \u00b7NEW VALUE KIND healehygrains grains healths energy xCO ANhONENS HTNYeha MxedBerr Berry MEST'.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "kindsnacks",
+                    "ownerId": "289774198"
+                }
+            ],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3662898619621022379",
+            "type": "Video",
+            "shortCode": "DLVOuM-x5qr",
+            "caption": "New wrapper just dropped and she\u2019s serving eco-chic\ud83d\ude0c\u267b\ufe0f\nOur Dark Chocolate Nuts & Sea Salt bar is now rocking a paper fit. Exclusively at select @wholefoods through September. \u00a0\n#KINDSnacks #WholeFoods #paper #sustainablity",
+            "hashtags": [
+                "KINDSnacks",
+                "WholeFoods",
+                "paper",
+                "sustainablity"
+            ],
+            "mentions": [
+                "wholefoods"
+            ],
+            "url": "https://www.instagram.com/p/DLVOuM-x5qr/",
+            "commentsCount": 31,
+            "dimensionsHeight": 1917,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/511529776_18510628840046199_2883006038022841261_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=dJG6dxjg2c4Q7kNvwFs9O09&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSn7IUfqzBtwq6b4sVRiW1NPM-GpnD7PO23jIumGD8QGA&oe=6874B488&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQMRrhblVIi2X3gTZHr-VrQBk4SYJvoLeu0ARASWuI0uRqBWzhGxcMrQDoYdElBQgfmmS1lIoLKRJaMbP5IBLFXchijSQHfA635Hdgk.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=105&vs=1252014873003074_1248095223&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QzRFNTBFMUJFRkRBQjQ1MzgxRUE3QTY3MzREOEVCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRGZ0WUI2Z01kY0lVZzRKQUlZMTItX1Zmc3g2YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrrKnt7Fu9M%2FFQIoAkMzLBdAMSp%2B%2Bdsi0RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfTGsbpWlFFT3d-tMICAKadrIG6yYYc4EmwElkt1mHaF7g&oe=6870AD98&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 444,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-25T17:13:51.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Whole Foods Market",
+                    "id": "9144270",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/40117077_681120765598567_2189043559737327616_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=03UKMkAp9jwQ7kNvwHe5eRz&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR-ZxdJ6qAZGgHQ7DQesOSwGNThxcYjYG8yNqwkeIn7gg&oe=68749A4A&_nc_sid=8b3546",
+                    "username": "wholefoods"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Mike Block",
+                "song_name": "Vivaldi\u2019s Winter 1",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "314929920629983"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3657797566897229273",
+            "type": "Video",
+            "shortCode": "DLDG4HbMo3Z",
+            "caption": "You know we all need it and crave it\u2026I\u2019m talking post workout protein snacks! Make sure you go to your local Costco in the Southeast and pick up your @kindsnacks Protein\u00ae MAX Bars! #KINDPartner",
+            "hashtags": [
+                "KINDPartner"
+            ],
+            "mentions": [
+                "kindsnacks"
+            ],
+            "url": "https://www.instagram.com/p/DLDG4HbMo3Z/",
+            "commentsCount": 104,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/509853765_18518799571062347_5682207754889291476_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=EDLiHI6pUIQQ7kNvwEpqwls&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfToEUhfelXSlrvhkBtpHVjZQ6JWjmFUT5EFhE5qoXOVZA&oe=687495EE&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOmXsYNUqMnyYJTJo3usd883FX7Jrffe2XM7686N4Q82-pVz09hPCDvZddYRp7qqkm_dkLatmWyImUzb6Ys_qc48r0KJeKQApu7AO0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=1647388409253058_1853564731&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNDREN0MyQzQ5OThFMDFCREY5RTk1NUY2OThCREU5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQlhhWUI2R1lEUWpia0lHQUxMWGRvLWVpRFpFYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJuTnpKyaudE%2FFQIoAkMzLBdASFmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfR_v3bVEBS_PHGRXGhjmb-WzAV6NyIXIP6pIdJ0WYiHTA&oe=6870B95D&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 13728,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-18T16:22:19.000Z",
+            "childPosts": [],
+            "ownerUsername": "tylerjcameron",
+            "ownerId": "14782346",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                },
+                {
+                    "full_name": "Tate Madden",
+                    "id": "33523857",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/338951461_1001396024175711_6425512639840665232_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=Hrl-4pKAN0MQ7kNvwEBKFqs&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRodE1gtC4CtfoVb7kc6ZKo6bmoSNrIihPIIzPFglVqUA&oe=68749899&_nc_sid=8b3546",
+                    "username": "tada_itstate"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3657787060103835423",
+            "type": "Video",
+            "shortCode": "DLDEfONgm8f",
+            "caption": "Rivals on the field. KIND off it! #KINDPartner\u00a0@kindsnacks \nKIND Protein\u00ae MAX is now sliding into Southeast Costco warehouses #protein #proteinbar #baseball #rivals #bigboom",
+            "hashtags": [
+                "KINDPartner",
+                "protein",
+                "proteinbar",
+                "baseball",
+                "rivals",
+                "bigboom"
+            ],
+            "mentions": [
+                "kindsnacks"
+            ],
+            "url": "https://www.instagram.com/p/DLDEfONgm8f/",
+            "commentsCount": 104,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/508559240_18513839506000623_8908264311201654511_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=-KqDTEir3nwQ7kNvwG_BXMk&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfS1XDiNAfjFvvju3JoA61Jgn9GnpZCSuWPoJ5wgzHz_uw&oe=6874AB1C&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOw96ev56pN2SsrGJpQH2IOr2zr9OcLFZaTSoqznBAcehWcJ6v6F64wqHB3LNntusVArRW9STQFHdV8sAqQFfteqFAzEEwyVWjBu0g.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=1056769205933611_3469333125&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NDRBQkM5OTM4NTUzQ0Q5QUY2N0Q0NEI0Q0E2OTFBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT01xV3g1alBmZlc2NVVDQUhoTkYwcnJ6SmhGYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqrZuLuA4dE%2FFQIoAkMzLBdARWqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfSBZg_Klw-bTRJsuC9ONDrO0CR2_VDCng4_lgfWpxwE4w&oe=6870ACB7&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 9796,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-18T16:01:44.000Z",
+            "childPosts": [],
+            "ownerUsername": "jacksonolson_",
+            "ownerId": "287104622",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Tanner Thomas",
+                    "id": "484838509",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/488209129_1149045513659115_3134836868253031638_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=amFrC5COpF4Q7kNvwFiANa2&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRlSU92r0-JoLwWxqi_Wg4Soi7E51enZXC8ZfATQVDHNA&oe=6874BF57&_nc_sid=8b3546",
+                    "username": "tannerthomas_"
+                },
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3653561201092835615",
+            "type": "Video",
+            "shortCode": "DK0Do4USbkf",
+            "caption": "\u23f0GIVEAWAY TIME\u23f0 \n\nWake up bestie\u203c\ufe0f We teamed up with the one and only @samibrielle to make your morning kinder\u2728. We\u2019re giving 8 lucky winners an exclusive alarm clock, because our breakfast bars come with 8g of protein and zero chaos \ud83d\ude34\ud83d\udcaa \n\nHere\u2019s how to enter: \n\ud83d\udc49 Like this post \n\ud83d\udc49 Follow @KINDSnacks \n\ud83d\udc49 Tag (2) friends who could use the 8 mins of sleep \n\nLet\u2019s go \u203c\ufe0f\n\nLink in bio for official rules. NO PURCHASE NECESSARY. Open to legal residents of the 50 U.S. & D.C., 18+. Begins 6/12/25 ends 6/26/25. Void where prohibited. Sponsor: KIND LLC. \n#kindsnacks #morning #alarm #letsgogirl #giveaway #breakfast",
+            "hashtags": [
+                "kindsnacks",
+                "morning",
+                "alarm",
+                "letsgogirl",
+                "giveaway",
+                "breakfast"
+            ],
+            "mentions": [
+                "samibrielle",
+                "KINDSnacks"
+            ],
+            "url": "https://www.instagram.com/p/DK0Do4USbkf/",
+            "commentsCount": 980,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/504671614_2059511667905069_4931713480784535766_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=6l_e30d7aF4Q7kNvwG0kAW7&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTSh4-RUK8X-cPqoaI1-5uBKz61oA8mqB7Eim6bVDNbVw&oe=6874AF95&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNCcrIPSQizpNMxPC0rHMmvno9yqUVaBxYAvf_ZJa9HsW5cwv1b5JHL8jd1ME5CvwaLSmrsRhpIpDwnvK3sFQs-4Mm6pL79c1-zL1Y.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=722170823557624_772573388&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MzRGREM1QTIwRTAyODk1MkRBNkRDNzNGNkU2QjE5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ3FHTXg1ekI5Z3ZuMXdFQUx1QThRZkp3bUVEYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrqf0cOu4NI%2FFQIoAkMzLBdANXAgxJul4xgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfT9EGzAJK8_wBD41cXqOJzK9Zd_L3Swh-QaKKv_vaxhTw&oe=68709C59&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1031,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-12T20:02:21.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3648587837840550430",
+            "type": "Video",
+            "shortCode": "DKiY062S-oe",
+            "caption": "A \u2018get all the protein you can\u2019 kind of day is a @kindsnacks Protein Max kind of day! #kindpartner",
+            "hashtags": [
+                "kindpartner"
+            ],
+            "mentions": [
+                "kindsnacks"
+            ],
+            "url": "https://www.instagram.com/p/DKiY062S-oe/",
+            "commentsCount": 10,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/503640447_18468082834075889_7342063925164910898_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=IC0mqfOXwyMQ7kNvwFrU96H&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfShIdy4XLqN3r-G8Wpp6PRPTC0j9nVrW8U9BuRbISHABQ&oe=687490E8&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPZzPg0OVZ9EeDP3_e7q9ZG6mwE9o6iXbEcIRJYI2GIDhyCKZ-Ptf0Wo7dbW1JOE3nfQZzzOK4YIoV-IhaEv2aHdK9oht3dwgrV_T0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=701121676180396_1886656949&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMzRBMkJDMEEyOTVDRDNBQjYyQzgxRDEzMTc3QUU5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3pURlI3Q1dDTjQyLUlEQU55dUdDMTlWVUlmYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJoruzIXH%2BNE%2FFQIoAkMzLBdAUE7peNT99BgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfS-HKITsLhN4-p6tiQ_uM1n1SIt7BINVuRMkbqpehUQww&oe=6870AA9C&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1131,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-05T23:22:12.000Z",
+            "childPosts": [],
+            "ownerUsername": "nmillz",
+            "ownerId": "2347059888",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3643510114851782981",
+            "type": "Video",
+            "shortCode": "DKQWSUzSIFF",
+            "caption": "\u2728NEW\u2728 at @Costco!\n@KINDSnacks Protein MAX is here \ud83d\udcaa\n\n\ud83d\udccc Now available at Southeast Costco locations - and even better, there\u2019s a $6 off discount valid through June 8th!\n\n#KINDPartner #KINDSnacks #Costco #costcofinds #costcodeals #protein #proteinbar #highprotein #postgym #foodie",
+            "hashtags": [
+                "KINDPartner",
+                "KINDSnacks",
+                "Costco",
+                "costcofinds",
+                "costcodeals",
+                "protein",
+                "proteinbar",
+                "highprotein",
+                "postgym",
+                "foodie"
+            ],
+            "mentions": [
+                "Costco!",
+                "KINDSnacks"
+            ],
+            "url": "https://www.instagram.com/p/DKQWSUzSIFF/",
+            "commentsCount": 42,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/501765059_678271595101584_1589890109411968571_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=PLfx5l6ohVkQ7kNvwFsb_p5&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRVBWJAGfKA9jbDX8GN5Pt7Mt5KgvBStf40oA3_VdFm-g&oe=6874B5C0&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPx6-AzLuGKGGiGogp1Pkqd5j4dhSzgBtFjgBTIDQgA7K87bl6VM35qd8fkuaLzuT1i1GWl5u0PHgaWM5XmhtZzyYPXvYzXHkz51tQ.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=560197847163606_615902685&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QzRCQkNGOUEwOTM4RUVEMkY2RTY0RTMxMjdDRUQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS3hXNngwZlpqQjMwMnNGQUhndWhrZDlLM00xYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJsTy8fH08dA%2FFQIoAkMzLBdAQjul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfRLhgVe9y17ztoKgB9VmWjTvp7RMNXAqO6nWJCkVzfNKw&oe=6870A550&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 324,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-29T23:11:38.000Z",
+            "childPosts": [],
+            "locationName": "Costco",
+            "locationId": "154788027874868",
+            "ownerUsername": "costcodeals",
+            "ownerId": "3157183206",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Costco",
+                    "id": "1286044267",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/430646143_1182519442721546_7183858833646630751_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=cFLlx6F-JtsQ7kNvwGWkDXK&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRnFUW3LQGIoTcHRV2sBNNw2re4LpQ0kc3ROHqETLSWiA&oe=68749DEF&_nc_sid=8b3546",
+                    "username": "costco"
+                },
+                {
+                    "full_name": "COSTCO DEALS",
+                    "id": "3157183206",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/455029698_1165325031361229_463062484192030600_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=JUwYs-cYMYgQ7kNvwEvRx0q&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfROclgiEhz2DxE7lXxbaFuznP14ysvrxTS7yLhtRtEOew&oe=6874A196&_nc_sid=8b3546",
+                    "username": "costcodeals"
+                },
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                },
+                {
+                    "full_name": "Chandler Junk\u00ae",
+                    "id": "225508066",
+                    "is_verified": false,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/477827855_940695791583781_4824470839615490744_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=tc2vQnglNbgQ7kNvwGmVTOz&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfT4PuYyYuSmO9LZHf57xT7F9PeIcb6uKLGbQ_LVzqPcAw&oe=6874A386&_nc_sid=8b3546",
+                    "username": "junkman_4"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3639095011599728420",
+            "type": "Video",
+            "shortCode": "DKAqaHeTD8k",
+            "caption": "It\u2019s giving, I need chocolate before noon KIND of day #KINDpartner @KINDsnacks",
+            "hashtags": [
+                "KINDpartner"
+            ],
+            "mentions": [
+                "KINDsnacks"
+            ],
+            "url": "https://www.instagram.com/p/DKAqaHeTD8k/",
+            "commentsCount": 39,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/499981663_18506464339060880_4746877940883512040_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=OTXGTx1FdXEQ7kNvwEcU1FE&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQrVwTw-BQnQSnEAZ4aruspj-SpEhqq-A1slwT9BMyXaw&oe=6874975C&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPGPUcPcwRtgewuWEfhegGKp2cznX6DPDoKX7lUyPk49mLnXb-wketASe8UpoOuHqF1I0Wx5jrbVQxdA7iFTKkICZy_IH0aVMGWjBE.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=1350355229552567_3866163289&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CNjQ1OTYwMDNGRUZCMjQwNTQyMUIyOEFFM0IxNjZCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSl9xMVIwU2ktTDNldjREQU1ncEZodThWa1ZjYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJrDAkIXXztM%2FFQIoAkMzLBdAT%2Fdsi0OVgRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfTj2ZVQTXd3Y4wpfsgJJgWSlaB2T3_7SRClS0obhjG0Og&oe=6870A914&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 3605,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-23T21:00:03.000Z",
+            "childPosts": [],
+            "ownerUsername": "kirstentitus",
+            "ownerId": "21116879",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3633901417933577383",
+            "type": "Video",
+            "shortCode": "DJuNhYcuByn",
+            "caption": "It\u2019s an \u2018i really don\u2019t want to be here\u2019 kind of day, but at least it\u2019s a\u00a0KIND\u00ae Breakfast Protein\u00a0kind of day hehe #KINDpartner",
+            "hashtags": [
+                "KINDpartner"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJuNhYcuByn/",
+            "commentsCount": 31,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/497782704_1260441188775960_1481670441808619137_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=sOErIxkZCVUQ7kNvwEhqpXj&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfSlMUyuX62oITZDBNWcbNN558X04DMphfu1-p7VBN5pfg&oe=6874AD1C&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQP_A1-zqbrAYlx1uDSnjaTNYwxbhZDMGusuir4pWE72_S4danTm-qcOGCu652b7mr86GLeY75_mnc0D4exiCplZW0Q4tqlCczSYV0c.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=1041627190648326_1917490182&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NTRBNTU4NkQ3RUEwNDdBNTk4RDUwNDdFQzEwMTFCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQVN5cXgzTUtjb3FqWVVDQUNzNDlzMXdfNDlLYmtZTEFBQUYVAgLIARIAKAAYABsAFQAAJqL8ran45M4%2FFQIoAkMzLBdASNEGJN0vGxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfSfdHiZHHNIuNj_YfLnRIr62DJ_q-Fk2BzyzF0jX3Kvow&oe=6870AC95&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 6960,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-16T17:03:11.000Z",
+            "childPosts": [],
+            "ownerUsername": "chaysembyrd",
+            "ownerId": "12986779260",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3633286540031564520",
+            "type": "Video",
+            "shortCode": "DJsBtuxyhro",
+            "caption": "KIND Breakfast Bars are my new must haves whether I\u2019m \u201ccamping\u201d or on the go\u26fa\ufe0f\ud83c\udfd5\ufe0f \n\n#camping #tent #peoplealwaysaskme #kindsnacks #fit #breakfast #fitcheck",
+            "hashtags": [
+                "camping",
+                "tent",
+                "peoplealwaysaskme",
+                "kindsnacks",
+                "fit",
+                "breakfast",
+                "fitcheck"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJsBtuxyhro/",
+            "commentsCount": 62,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/498592465_1184466560028052_7841599600455568974_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=sg1PCGwe-hMQ7kNvwHTG5Ls&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfT4JiSS5bwlDVCv9KSf7FvYJr23rI2acYAAImfCwbJtFg&oe=687496C0&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNOhrkfwGnbeJz1jU9qx6LZ6123CFYmXf0M0UEJEvvWhmAig6vCiI8CZ-1NYFYIOJeVyTw0v76iOBPJp428vSCOFkbNoSZcZCwln5E.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=707380701708602_4199288149&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81QTQzRTEzOEM3M0M3M0QyM0FDMEE1MTMyNUY0ODRCNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSFBNcGgwcTBIQndWWmdmQUZ1RklmTVV6TGxHYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrresJHCj9E%2FFQIoAkMzLBdAM7MzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfRas3oLphlZumHnL5V1DrkEXsQe2SqJMKcGI3bW0YpR-A&oe=6870BDC2&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 308,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-15T20:40:06.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Kaisha Huguley | NYC Influencer",
+                    "id": "7527275439",
+                    "is_verified": false,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-19/474555587_3181268395347496_3250510764059732671_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=mQF-a8rHUYwQ7kNvwFrncxy&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTMF-SYCjgGpW0IWVgefZtzUqBjR03TSEziq9QIBoI-Ww&oe=68749FA5&_nc_sid=8b3546",
+                    "username": "kaishacreates"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3629521723197037044",
+            "type": "Video",
+            "shortCode": "DJepsb3uRn0",
+            "caption": "CLOSED\nBreakfast in bed? Cute. Breakfast all year long?! ICONIC.\n\nWe teamed up to give TWO winners:\n\n\ud83e\udd63 A Year Supply of KIND Granola\n\ud83e\uded9 Caraway Home Glass Airtight Storage Set\n\naka the pantry glow-up your mom (or you \ud83d\udc40) totally deserve.\n\nHOW TO ENTER \u2728\n\n\ud83d\udc49Follow @caraway_home + @kindsnacks\n\ud83d\udc49Like and share this post\u00a0\n\ud83d\udc49Tag 3 breakfast besties who\u00a0you love snacking with \u00a0\n\n\ud83d\udc90BONUS ENTRY: Share this post to your story with\u00a0#sweepstakes and tag both brands for an extra chance to win!\u00a0\n\nGo win Mom her dream pantry. Or let her share with you. Either way, good luck.\u00a0\ud83d\udc9b \n\nLink in bio for full terms and conditions. Open to legal residents of the U.S. One entry per person. Approximate retail value:\u00a0$513.00 per winner.\u00a0Ends 5/14 at midnight. Winners picked 5/15 via @caraway_home DMs. U.S. only. Not affiliated with Instagram.\n#giveaway #caraway\u00a0#kindsnacks #mothersday #mom #breakfast",
+            "hashtags": [
+                "sweepstakes",
+                "giveaway",
+                "caraway",
+                "kindsnacks",
+                "mothersday",
+                "mom",
+                "breakfast"
+            ],
+            "mentions": [
+                "caraway_home",
+                "kindsnacks"
+            ],
+            "url": "https://www.instagram.com/p/DJepsb3uRn0/",
+            "commentsCount": 1382,
+            "dimensionsHeight": 1917,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/v/t51.2885-15/496717255_18269538883280447_7321232247800767904_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=z-p4-instagram.fdac2-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=AYcl5uheSNgQ7kNvwHa-be3&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQiB8Z_yv-hrHEp7qe3j-ONhz1uWvzyWPtU4xyAhYM8OQ&oe=6874AC4F&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOarVy55Ki6NVpsj-TCGrGInJlXJM3zFxjHcnZfFLbQ7iUs_hZb3Df9-h65RepJ359yPdhVXIDSHyWYbOwiHXi6Ve-QdlQjWz1OPXM.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=1202625620893268_4157247172&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENzRBQTREQTRFRTdENTMyNDJBRkQ3NEMzMTNCRkM4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSm96U1IwSENZT0lTaDhHQUZvVEFTMGZac054YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJojAi87BidQ%2FFQIoAkMzLBdAQ1U%2FfO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfQWnolKZDAEJMfr8XHZf4i6EWunO2rqNps3ZHv8rNSaeg&oe=6870C28D&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 1234,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-10T16:00:16.000Z",
+            "childPosts": [],
+            "ownerUsername": "caraway_home",
+            "ownerId": "8600216446",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "KIND Snacks",
+                    "id": "289774198",
+                    "is_verified": true,
+                    "profile_pic_url": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-19/491901121_18500293762046199_8006283813537440987_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=9c0uyR0MoqwQ7kNvwGRJ5vu&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfTEdkdFcfEMsJZRaj7Vjfjb1HBlGq5EHDt2d3RtfOeKCQ&oe=68749607&_nc_sid=8b3546",
+                    "username": "kindsnacks"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3628256722814695186",
+            "type": "Video",
+            "shortCode": "DJaKEQdSvcS",
+            "caption": "\u2026nothing but love \ud83e\udd2d\ud83e\udd70 and kindness \ud83d\ude09 \n\n#kindsnacks #logo #glowup #office #funny #culture #blindreaction #reaction",
+            "hashtags": [
+                "kindsnacks",
+                "logo",
+                "glowup",
+                "office",
+                "funny",
+                "culture",
+                "blindreaction",
+                "reaction"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DJaKEQdSvcS/",
+            "commentsCount": 81,
+            "dimensionsHeight": 1917,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://z-p4-instagram.fdac2-2.fna.fbcdn.net/v/t51.2885-15/496388220_18501548485046199_1718685872992475266_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=z-p4-instagram.fdac2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF8YIna4-GawW7DArx30Dt8t7P_erjDKKBFAdwmLr-cSebFzqElV2RvowYIRDiIwRs&_nc_ohc=CC19bhxea54Q7kNvwHqHH46&_nc_gid=UrBGvA1aPXYkckzfXq8tTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQPpqIOWJBeva7Jy9-Q7I1rOslU5kKr9Bf7o3Rs2tE7yg&oe=687489C8&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://z-p4-instagram.fdac2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQMnyLoNPi_N3vWyi0qdAYswYHnPKtcQB-H9iNPmNH98lF98kY7aeo6ebaU68Sykk1aDgQKhXCqgMCS4byKteCkp5AgZUWIwmfe0gL0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=2132169953890110_182265124&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMjRFODAzRDk3RUJGMUJBQUUzOUQzNDlFQjlDQjNBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEtQaUIwakJ4VElMWWtHQUpudE5BQWt6VTlRYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrq525r729A%2FFQIoAkMzLBdATC7ZFocrAhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfTwYN-lmAfaU8lXfLarjlFGDPEw-VrLF9m0GWplP_Jhkg&oe=687096DF&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 2064,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-08T22:11:54.000Z",
+            "childPosts": [],
+            "ownerUsername": "kindsnacks",
+            "ownerId": "289774198",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        }
+    ],
+    "businessAddress": {
+        "city_name": "New York, New York",
+        "city_id": 108424279189115,
+        "latitude": 40.7142,
+        "longitude": -74.0064,
+        "street_address": null,
+        "zip_code": null
+    },
+    "fbid": "17841401385944527"
+}

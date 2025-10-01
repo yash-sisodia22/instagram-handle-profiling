@@ -1,0 +1,27 @@
+{
+    "inputUrl": "https://www.instagram.com/penguinindia",
+    "id": "538935348",
+    "username": "penguinindia",
+    "url": "https://www.instagram.com/penguinindia",
+    "fullName": "Penguin India",
+    "biography": "Home of (almost) all your favourite books. #PenguinIndia",
+    "externalUrls": [
+        {
+            "link_type": "external",
+            "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Famzn.to%2F48kfIwm&e=AT3hXlAxzAXODlggOBOIU1uxXevwpjtk2d-NXKiidxVbAl46Wl3Wcsmo2AU0KkE-4PUL8ttPduI_V2UGyHadrPmLAR3C1nVb",
+            "title": "",
+            "url": "https://amzn.to/48kfIwm"
+        }
+    ],
+    "externalUrl": "https://amzn.to/48kfIwm",
+    "externalUrlShimmed": "https://l.instagram.com/?u=https%3A%2F%2Famzn.to%2F48kfIwm&e=AT3hXlAxzAXODlggOBOIU1uxXevwpjtk2d-NXKiidxVbAl46Wl3Wcsmo2AU0KkE-4PUL8ttPduI_V2UGyHadrPmLAR3C1nVb",
+    "businessCategoryName": null,
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://scontent-poa1-1.cdninstagram.com/v/t51.2885-19/419576132_3581436802118148_6663674220534010642_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-poa1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHlbhkbkPjHl5cTds1k0dvzGQbmpnwV-WnD8WA96ErRF5yO1eN7H6aTT9Gi2eT4EZA&_nc_ohc=PuWvgocunPoQ7kNvwFYO2fc&_nc_gid=xQK6j1vIZ9JKVTVA0fHSIg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfTeiE-SMbcDyGefiENVnZw8gmiArc2bfgzzaMDDNP-ZSA&oe=68707EEE&_nc_sid=10d13b",
+    "latestIgtvVideos": [],
+    "latestPosts": [],
+    "error": "Restricted profile",
+    "isRestrictedProfile": true,
+    "restrictionReason": "You must be 13 years old or over to see this profile"
+}

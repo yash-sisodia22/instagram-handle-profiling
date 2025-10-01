@@ -6,7 +6,6 @@ ENV/
 .env/
 
 # Data directories
-collaborators_india/
 brands_with_faces/
 
 # Python

@@ -1,0 +1,691 @@
+{
+    "inputUrl": "https://www.instagram.com/academy_by_navyasglamstudio",
+    "id": "56990014460",
+    "username": "academy_by_navyasglamstudio",
+    "url": "https://www.instagram.com/academy_by_navyasglamstudio",
+    "fullName": "Academy by navya\u2019s glam studio",
+    "biography": "Certified academy  in town \nWhatsapp  (6283082747)\nMakeup @navyamanchandamakeupartist \nNails @nailworld_by_navyasglamstudio \nHair @hair_by_navya",
+    "externalUrls": [],
+    "followersCount": 6148,
+    "followsCount": 4801,
+    "hasChannel": false,
+    "highlightReelCount": 0,
+    "isBusinessAccount": true,
+    "joinedRecently": false,
+    "businessCategoryName": "None,Beauty Salon",
+    "private": false,
+    "verified": false,
+    "profilePicUrl": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/461445340_958636766305534_7562390671010377328_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=YiLT2ytLcwMQ7kNvwGha7G_&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN-xdihoxiPiaePwwLDJ6ySnEboSFcy2PCPvKge210JiQ&oe=685178F2&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/461445340_958636766305534_7562390671010377328_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=YiLT2ytLcwMQ7kNvwGha7G_&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPK4F3ODnyyNhn-SSRzxHTSsG5NouRfF_kN6olJ6sSJWw&oe=685178F2&_nc_sid=8b3546",
+    "igtvVideoCount": 1,
+    "relatedProfiles": [
+        {
+            "id": "54207735473",
+            "full_name": "Rakhi Narula\ud83e\uddff",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/491468971_3935554306698257_2811602533318061433_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=Kx5Fw8LkaoIQ7kNvwH-ePu2&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNEqFY3iZ_mSdUvOEU5_DLgh9O5IjQZHwl5ys40ADiq-Q&oe=685180F7&_nc_sid=8b3546",
+            "username": "makeovers_by_rakhinarula"
+        },
+        {
+            "id": "1927367128",
+            "full_name": "Shikha Batra",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/485904164_1716242772310778_7784538374998981085_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=3mha1s-lld4Q7kNvwHSNkD1&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNqnGOsEgWJm7W4S4Ti8PabqyjTvgFrc9GjrIofVr4JkQ&oe=685187DA&_nc_sid=8b3546",
+            "username": "shikhabatramakeupstudio"
+        },
+        {
+            "id": "50241394236",
+            "full_name": "Paridhi beauty zone",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/416893321_2267260703469052_6142441514010342176_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=H9AREkm7_RoQ7kNvwEkh1fo&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMyqhlKI0o5_9Cay0rPBZKaLiqpyNV88HeRGofM_vZfww&oe=68518391&_nc_sid=8b3546",
+            "username": "pb_zone_hair_master"
+        },
+        {
+            "id": "30882431333",
+            "full_name": "ROYAL LOUNGE\ud83e\uddff",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/467020548_1074419383948944_256424464243282218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=CTguLsO6_Y4Q7kNvwEmTtQ3&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMzDjCd10Jl4xUKGKJ-7SoMHW8dDBwnjRrtI9c_73RX5A&oe=685181B2&_nc_sid=8b3546",
+            "username": "makeupbypriyabirdi"
+        },
+        {
+            "id": "49752985450",
+            "full_name": "Vaishali Walyat Makeup\ud83e\uddff",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/255092313_4644960155567089_1139555238046428067_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=lKLX719plZAQ7kNvwGfWmiz&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN2xzUJT-f1FsIWmJ2cP3z_YcNSu-MnN8wzuAyXzMFTDA&oe=68519084&_nc_sid=8b3546",
+            "username": "vaishaliwalyatmakeup"
+        },
+        {
+            "id": "4338073980",
+            "full_name": "Nav _malout_makeover",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/351408389_649908703310459_8622872151846534264_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=j0LtvfvBnnUQ7kNvwGN7RH9&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP2jnVmyMQBwfCjICMAAh0uZa4FKO2sbbsfDvcNZUiFrg&oe=68518977&_nc_sid=8b3546",
+            "username": "soniaa_makeover_malout"
+        },
+        {
+            "id": "44256118869",
+            "full_name": "Divya Vaish",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/504150380_18070589042478870_3096991163363948057_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=LuHK5JGHkK0Q7kNvwGD23oB&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPug5lMDktvyyLs_0F6FY90097UJJGl_pVKcAhsB-XGGQ&oe=68516991&_nc_sid=8b3546",
+            "username": "divya.hairstylist"
+        },
+        {
+            "id": "8174700959",
+            "full_name": "#Style_Villa_Ladies_Salon_mks#",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/344450843_1999011887112199_749329311316506057_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=ZpLQ6duWLu0Q7kNvwFzjOQ9&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNondaU-vpRQErzVGhYymdd_QX2UoRKdr1lmLU9DEPJDQ&oe=68518841&_nc_sid=8b3546",
+            "username": "style_villa_ladies_salon_"
+        },
+        {
+            "id": "47436793259",
+            "full_name": "NEHA NARANG | Makeup Artist",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/488537754_571952215228086_5616026781601046158_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=Zz0EmaTNVNcQ7kNvwHopAUB&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOrwYJc2GJqhKQUxa-qCRuOmQ1Wi-gmlVinULeZNIRJqQ&oe=68517773&_nc_sid=8b3546",
+            "username": "official_nehamakeovers"
+        },
+        {
+            "id": "8199583105",
+            "full_name": "Sneha makeup Studio\ud83e\uddff",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/465920688_1079784523848962_4943306944350591346_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=9l__iDl2rREQ7kNvwGu6iMO&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPatV35A92F411cEA17oWmxbgCXSzAXh4Wf4oLWOrIvqQ&oe=68517E1E&_nc_sid=8b3546",
+            "username": "sneha_makeup_artist23"
+        },
+        {
+            "id": "40802173119",
+            "full_name": "JYOTIII MAKEOVER \ud83e\uddff",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/488546160_1331708054708503_6313750971008569272_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=hhk5TUGFo8cQ7kNvwHXfoLt&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNShZBAfdJ2P9fNNavwYQZpp55Pwc9zD8FSt3ey_2kzGg&oe=68517B3D&_nc_sid=8b3546",
+            "username": "jyoti_makeovers01"
+        },
+        {
+            "id": "35311831307",
+            "full_name": "Diya Grover  | Makeup Artist|asthetics|hair specialist",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/451735956_1839013533248759_3886403649922169578_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=7U2IXvBRIOIQ7kNvwEfjYwX&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPnuBgIoAgp-bYcNrd3sm4AY8M7idBpk1Hd7odjslY91g&oe=685194CC&_nc_sid=8b3546",
+            "username": "diyamakeup_studio_academy"
+        },
+        {
+            "id": "11228527000",
+            "full_name": "PRIYA MONGA || MAKEUP ARTIST",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/491429757_1666844083924935_3866054247884243871_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=5HJHeiOFcAsQ7kNvwEoXCOh&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN4QlsKa9yn-JTtQFesfGvRHe2udT4OFORuAcwHO0qscg&oe=68518B9D&_nc_sid=8b3546",
+            "username": "priya_monga_makeovers"
+        },
+        {
+            "id": "8088331516",
+            "full_name": "Beauty garden salon & academy",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/446335681_1490653531659293_2557495647183108031_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=FfMMiC4BrTEQ7kNvwHyIb2M&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOHSwGsM-cua1WcTQjEG88XjX-vmd0t-s3WMVDv4U8LRw&oe=6851706D&_nc_sid=8b3546",
+            "username": "beauty_garden08"
+        },
+        {
+            "id": "9305273635",
+            "full_name": "Femina bridal studio",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/97302426_855627591592345_8655311858330238976_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=ZAXt-aDT7woQ7kNvwHpqXmx&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN2_0sIEmRmjq6FcJ87DK7vvdcNEBz4qKrOOjsp8dlfXQ&oe=68517B80&_nc_sid=8b3546",
+            "username": "femina_bridal_studio"
+        },
+        {
+            "id": "5582068711",
+            "full_name": "Sugandha Dhmija",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/263253283_204648335169614_2241150402340581338_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=FJ30icT7RyYQ7kNvwFURrf5&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPM2vUahn8waPmauFQDA7XCD7dgJXZMS1mc6ZQNhmEJdw&oe=68518946&_nc_sid=8b3546",
+            "username": "ft.the_final_touch_salon"
+        },
+        {
+            "id": "45161686544",
+            "full_name": "T  A  N  I  S  H  A\ud83e\udd8b",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/358346442_1042024277162063_6976516861066445189_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=XTsm6fHoNLIQ7kNvwFh6X7l&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNh1yWF12mZBH5K6dKZWr5UpWdcYuBYPxV-BxQ-M1Lx9A&oe=68519AA2&_nc_sid=8b3546",
+            "username": "tanisha_makeupstories"
+        },
+        {
+            "id": "11421654174",
+            "full_name": "Padma Arora",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/497870447_18143544022382175_3611462521973596546_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=DSWDuZHnh0kQ7kNvwGqKM0v&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMxmGZEp2EkPIL0ZZhLlprbEnqkY9L_tYi6XrSnmhRY8Q&oe=68518855&_nc_sid=8b3546",
+            "username": "padmamakeovers"
+        },
+        {
+            "id": "55178994541",
+            "full_name": "Reenagill Makeover",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/424968449_383151027750463_1491986276430141638_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=G4NQiNjaaekQ7kNvwH7EETG&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOMyU-8yqk920Ni8wvE79yrytZf3tmDPd-PE-kM5njXvw&oe=6851899D&_nc_sid=8b3546",
+            "username": "reenagill_makeover"
+        },
+        {
+            "id": "64052969912",
+            "full_name": "ferozepur members",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/433894151_1052841749144184_5769425827558341103_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=kBIXzygp_gkQ7kNvwHQhukv&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPebIPfp8TDGcxeBkiwVDufx3D-meZA8g2UtNMDM6VHUw&oe=68516A79&_nc_sid=8b3546",
+            "username": "ferozepur_members"
+        },
+        {
+            "id": "8232905741",
+            "full_name": "\ud83d\udc95 Simmi Sharma \ud83d\udc95",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/505450538_18274422442273742_2185751047041107788_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=FfPltTiagxgQ7kNvwFYGLRR&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOUSrwBxozMuiGAlc1Rz5RWfV2EbVA6eh1ayiCrjjLx3A&oe=685191D2&_nc_sid=8b3546",
+            "username": "talkwithsimr"
+        },
+        {
+            "id": "51757491742",
+            "full_name": "Sharandeep Kaur Sidhu",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/435633604_349119874250169_6103833512219865849_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=9-6lu7SbDyMQ7kNvwG0jq29&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN_dCxEdCByZ7FFc7lQ1_E_nbLrmUyXDFeeeZ0M4NedQA&oe=68516F15&_nc_sid=8b3546",
+            "username": "sharan_makeup_artist"
+        },
+        {
+            "id": "886654895",
+            "full_name": "Ishu Sharma \ud83d\udc8e | Makeup Artist |",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/499834936_18508903372062896_7299798645853896418_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=Er8O2EAHwyAQ7kNvwGLkEDq&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNnR8vQJ1tAxYd0nd1KJAMlXBDQn_sB1PS87Hx3MGGZRQ&oe=68519CDF&_nc_sid=8b3546",
+            "username": "ishusharma_makeupartist"
+        },
+        {
+            "id": "46564655364",
+            "full_name": "Shingarbeautysalon&academy",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/476875493_3614911898799153_970306564790432369_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=1pTnDNFqoe4Q7kNvwGTiYgG&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO9i3f_ch2wjASabjz41L885w7MjlA6uROV21sbDzxHQA&oe=68517F73&_nc_sid=8b3546",
+            "username": "shingarbeautysalonacademy"
+        },
+        {
+            "id": "43462604025",
+            "full_name": "Komal Makeovers",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/318595100_815176326225091_2890040007410122193_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=xvWXGEDWW9kQ7kNvwFnlGBz&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNSH_LgHA10BAToqK_VWd9n5AdQKv7gav0QvPr_QFSlVQ&oe=685181F1&_nc_sid=8b3546",
+            "username": "k_gorgeous_makeovers"
+        },
+        {
+            "id": "55487665089",
+            "full_name": "\ud83c\udd82\ud83c\udd77\ud83c\udd74\ud83c\udd74\ud83c\udd83\ud83c\udd70\ud83c\udd7b",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/476499549_968873265219208_6119920186326905431_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=tZn68_fNZowQ7kNvwEG8kAB&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO6rGM15WzRrhYvf_w8E5baHdt3CztYwI4JzL56PN7YAg&oe=6851900E&_nc_sid=8b3546",
+            "username": "styling_by_sheetal"
+        }
+    ],
+    "latestIgtvVideos": [
+        {
+            "type": "Video",
+            "shortCode": "CmMSipape8c",
+            "title": "",
+            "caption": "On going batch\nMust join our next batches\nContact +91 6283082747\n-20% on all courses",
+            "commentsCount": 0,
+            "commentsDisabled": false,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-15/319702405_1618744905263551_6856756502591504284_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=r69sdkd063gQ7kNvwGCaeLv&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNtoVcbt8_t4cTKS8_aptj14cy4OahhcdqHJDx8O-hCtQ&oe=685174BF&_nc_sid=8b3546",
+            "likesCount": 10,
+            "videoDuration": 17.2,
+            "videoViewCount": 450,
+            "id": "2993849398064443164",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/CmMSipape8c/",
+            "firstComment": "",
+            "latestComments": [],
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-3.fna.fbcdn.net/o1/v/t16/f2/m69/AQN9QdOBNfxdYNQscJkkqdScSYUt2LWM0PT6VDOHFsH52AVaMiUOM0lRVFAxrOMuB72yUmWdN0rZ4zqmE3y27Go8.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uaWd0di5jMi43MjAuYmFzZWxpbmUifQ&_nc_cat=109&vs=464992922468182_159547462&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRUJiRVJONmh2S3JKeFlEQU9KTlRzWk1aVXhiYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTnV0R0JNcUtQd2pSVUVGQUVaZDNKWjloUkVQYnZWQkFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmlLLZ%2B6Xb0j8VAigCQzMsF0AxMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&ccb=9-4&oh=00_AfMXKAQKRWmQR-k1u4Lr6Sllps-HjVibx-3vbLNUBsM3Lw&oe=684DA56C&_nc_sid=8b3546",
+            "alt": null,
+            "timestamp": "2022-12-15T14:32:32.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "igtv",
+            "isCommentsDisabled": false
+        }
+    ],
+    "postsCount": 957,
+    "latestPosts": [
+        {
+            "id": "3651943977630503212",
+            "type": "Video",
+            "shortCode": "DKuT7LmSxEs",
+            "caption": "Difference between bronze and contour and how to use\nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKuT7LmSxEs/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-15/504329582_1020617250137600_4199941029737791152_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=-uMSb0BgWj8Q7kNvwFcPYjh&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOSN3oJ2YxCvXPCQ_5ToVkZe9HlzOY6qByVJUrMgLCbiw&oe=68516BDE&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQOYvV_POn-JpaK-IYwPUHx7YN_ZO15axCFamUS9gBGkhkZT6Y3CnRCeykgHqcX7LSBp8-2zOx33oudY9Qd19DBLiAjsvaXAdQODFKA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=692842043709240_2312773466&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDRFNEU3NzA4MkY3NkE5RjhEMDI0OTA5RjZDRDdCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSWQxS2g1Z3lLbGpuWllDQUlpR21lUWdFQXBoYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJuCRq%2FDFo%2B0%2FFQIoAkMzLBdASBmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNPxKJ5zYBktRTidW-4BOwSRW2imKQwo783KaQjRnfycg&oe=684DA65D&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 52,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-10T19:36:02.000Z",
+            "childPosts": [],
+            "locationName": "Firozpur",
+            "locationId": "805149145",
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3651653505099820085",
+            "type": "Video",
+            "shortCode": "DKtR4P-SOw1",
+            "caption": "Students practice mode on\n295 unisex salon\nAdmissions open\nContact 6239923405",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKtR4P-SOw1/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-15/504831965_3195404060609525_4874889602201109221_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=KengT7SYNE8Q7kNvwFTxU_L&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMIxPKExgXbPaEF2EuXoFi_VFoE0RBuLD_wDJTCbT1cgw&oe=68519E50&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-3.fna.fbcdn.net/o1/v/t16/f2/m86/AQNtU1_my2dB6KhLizf00URcHaMgM9Bk97qvcphTu2ue0WvpjcEiSdDpEwHT8b-ISYmNnc1IT4I-723XBP5ZkkBpsQMRMnFNGD0eFJE.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=3245537182266364_1355761711&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81RDQ0Q0IxM0Y1QUYyRTEwRjU5QkY5RkJBMDhCODhCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUGtURXg3c0hwY3pjb2NIQU5OcTR4TGtIX2Q5YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJr6nv9SJzcRAFQIoAkMzLBdATQzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPzwQia6jrDrMcVsDC4I7F5fELGNS0SBVMlu8s5g5f7kw&oe=684DA778&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 31,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-10T04:51:32.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "295 unisex salon men",
+                    "id": "52131302380",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/472939975_1156128132855813_620482204955898217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=bQ_fP4zFfz8Q7kNvwE512MK&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPVvkSen7naCb-7_piQEyQ6d0HPMSSDTp7aCJpvm3nEmQ&oe=6851694B&_nc_sid=8b3546",
+                    "username": "295_unisex_salon_mensalon"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3649477413193957169",
+            "type": "Video",
+            "shortCode": "DKljF8dPL8x",
+            "caption": "Admissions open\n@navyamanchandamakeupartist \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [
+                "navyamanchandamakeupartist"
+            ],
+            "url": "https://www.instagram.com/p/DKljF8dPL8x/",
+            "commentsCount": 3,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-15/504436414_1261832678912658_4482674181035356650_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=WJmtvTqVV48Q7kNvwHZYOR3&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNubZq5z9Q5v_uglFxz9PjA6frkUjHE64qfGZhIj4-Jcg&oe=68518452&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOkqG_nnlTvMqRbHRS6ZwpH5ADGN3HxUYVQrbfO2E_GlkAXfLTFm8ffgfdnuNRQ2gbsDTctOqD3fKhSW1ZDsZJEJtp5J4PlkGkuWuo.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=105&vs=9786548354776355_458109385&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QTRBQzdDMjI1OUU0NEY1NzNGNjI5RjM0QjYwRjk4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQW1CRWg1TVFlTmZpVjBEQUZVTzREQUp2REJEYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrT9%2BNGV76BAFQIoAkMzLBdAMbul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfO3zl93Q4OODk8DA20-bDNQ7FTkU5Qd9veqatOmy1bvfQ&oe=684D7910&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 55,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-07T04:47:44.000Z",
+            "childPosts": [],
+            "locationName": "Firozpur",
+            "locationId": "805149145",
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3646692556735672702",
+            "type": "Video",
+            "shortCode": "DKbp48xSnF-",
+            "caption": "Demo look from yesterday \nAdmissions open\nNavya\u2019s glam studio & academy \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKbp48xSnF-/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-15/503602195_1620193098659990_713721663402004182_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=VxyyI-OuIckQ7kNvwGaVBMQ&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOsMvbC0AzM5uBRKJGIHyekKAHdBLtzr95TbvJoDqQAGg&oe=6851707F&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-3.fna.fbcdn.net/o1/v/t16/f2/m86/AQP-RmMslukN0jOAhZB39bw2NABECyoJR_lAJHRLMPMZGpF1LaoIOvRpwj7sKhWnTW7EVu6fO-WuKNu1v5wDLNf-p8rt_soig6lFbMk.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=568365896005876_2436332323&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QjRCMzI1NUZGOUE5MkMyNTAzNjFBQ0I4NTMzRUVBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS2x0Qmg1aWcwZm9rMEFHQUQ1X2lwb25LUzRTYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrjX6YO2gP4%2FFQIoAkMzLBdAQ4hysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPvpmzfHYkzKH4HFoESK24504fnWYV_2Q3NhGsIKxfqVg&oe=684D9E7D&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 112,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-03T08:34:47.000Z",
+            "childPosts": [],
+            "locationName": "\u0a2b\u0a3f\u0a30\u0a4b\u0a5b\u0a2a\u0a41\u0a30",
+            "locationId": "1279149952167139",
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "isCommentsDisabled": true
+        },
+        {
+            "id": "3646681833082988788",
+            "type": "Image",
+            "shortCode": "DKbnc5lyCj0",
+            "caption": "@shills_professional cat eye\nNavya\u2019s glam studio & academy \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [
+                "shills_professional"
+            ],
+            "url": "https://www.instagram.com/p/DKbnc5lyCj0/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1440,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-15/504081132_17968742132902461_232956819371870976_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=jcPyidF042UQ7kNvwHYkYpJ&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY0NjY4MTgzMzA4Mjk4ODc4OA%3D%3D.3-ccb7-5&oh=00_AfNdHSCyc52zc4lvppfiLfHafSALfuVg6n0hpUVN_5sRrw&oe=68518DC4&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo shared by Academy by navya\u2019s glam studio on June 03, 2025 tagging @nailworld_by_navyasglamstudio. May be an image of one or more people, fingernails and text.",
+            "likesCount": 25,
+            "timestamp": "2025-06-03T08:12:52.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "taggedUsers": [
+                {
+                    "full_name": "Navya\u2019s glam studio  X 295 unisex salon",
+                    "id": "55458814418",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/434645438_7131006473664157_5083709652471529952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=ALRJqEG_3cIQ7kNvwFtxC0A&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM1CrUl9GA_h2OkpvhfNpjQQvLQTO-MuR3fOgM_yB-Jcg&oe=68516BD5&_nc_sid=8b3546",
+                    "username": "nailworld_by_navyasglamstudio"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3646522616732791901",
+            "type": "Video",
+            "shortCode": "DKbDP_zyTRd",
+            "caption": "Students work\n295 unisex salon \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKbDP_zyTRd/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1920,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-15/503752532_17968716416902461_5164538155008106439_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=Jh1RMLvMEv8Q7kNvwErqeFN&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMBIPBRxIcpBlB52WaYVYvJtqcDX-3L1A4CM3qpm8szLw&oe=68517D4D&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNNmNQoklyu1Mv4H_yVcRCFq9hWXE_dwmtxzMFjGjfYpXpJb3DkwCD_pRZwRF9yq06-PW9ollkgs8uxXGvVa_4iUxJ5ur2UtUny1q0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=694226996575742_2295673363&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQjQwNEFCNERFRDAxNUVFOEI4RjczMzE0NDk5OUI5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEhPX2gzZEVnVThsVVFFQU9wTU9IdVM1QllhYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrL81rbAno5AFQIoAkMzLBdAO5mZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfM9KmRvn-w1NwVdes9xGk4lXOuWLFl5zyl2QZFHlfHF-Q&oe=684DA266&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 42,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-03T02:57:06.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "295 Unisex Salon and academy",
+                    "id": "55924658155",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/378993400_319275370598925_6901525263481892606_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=po3-SVRucxwQ7kNvwEdYZad&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMnHL9G0ihYnQFjm8i5EGN_e2eJtCYvF7mUPXpJYWV89w&oe=68516E3B&_nc_sid=8b3546",
+                    "username": "295_unisex_salon"
+                },
+                {
+                    "full_name": "295 unisex salon men",
+                    "id": "52131302380",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/472939975_1156128132855813_620482204955898217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=bQ_fP4zFfz8Q7kNvwE512MK&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPVvkSen7naCb-7_piQEyQ6d0HPMSSDTp7aCJpvm3nEmQ&oe=6851694B&_nc_sid=8b3546",
+                    "username": "295_unisex_salon_mensalon"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Shubh",
+                "song_name": "Still Rollin",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "618863129901602"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3646059570831030011",
+            "type": "Video",
+            "shortCode": "DKZZ9ytS_b7",
+            "caption": "\ud83d\ude1d\ud83d\ude1dabout today glimpse \nMakeup @navyamanchandamakeupartist \nOutfit @heer.the.royal.couture \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [
+                "navyamanchandamakeupartist",
+                "heer.the.royal.couture"
+            ],
+            "url": "https://www.instagram.com/p/DKZZ9ytS_b7/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-15/502072400_1085622980046749_3158277788559559292_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=HKZ8S6JoXV4Q7kNvwGl5-IJ&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfODIE7hd947I_HxgMkd8LyBDPWboqt-d7Wd9LV47S4sgw&oe=6851924C&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQNdYebDKJJO7M_BMaIJHfeC_WmpWjOiHp994Pv5hj-pZixkuvfm0XhXi6cqx2y_-Eic7y3CrguKMnQrn8nTYSk-eDMgNUQ_FhVw93A.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=563864083458135_4113586123&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMjQzMUNDNERGMkFFQTVDNDc3REI1OTg5ODgwNEE4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRVVKLXgxNE91TUFEWDBGQURlV2FCdW5hVTBOYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJty99d6Vqp5AFQIoAkMzLBdAMpDlYEGJNxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMMTLMVNetWvm9mBAeY-d9Rj1_Tf9_T2Kq2Zig-cALrMw&oe=684D7FD6&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 481,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-02T11:37:59.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "NAVYA MANCHANDA",
+                    "id": "47820797959",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/424685256_210040218866065_189252029014299871_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=8tyqegdg9AoQ7kNvwFXSPqP&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMwP2kbadKyK913Zpw5_wVaCS73cidLA5PDhLFicM-hlQ&oe=6851702A&_nc_sid=8b3546",
+                    "username": "navyamanchandamakeupartist"
+                },
+                {
+                    "full_name": "Himani Narang\ud83e\udd8b",
+                    "id": "59045357988",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-19/484284443_1021372356707868_7484879678149436929_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=VAy114waZkgQ7kNvwGBlf2p&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMu3XixZA-eZOTQmiICWhxJzcTfuoM5K8z6wV3M_rQBRw&oe=68518342&_nc_sid=8b3546",
+                    "username": "himani_narang_2406"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Jatin-Lalit, Shaan, Kailash Kher",
+                "song_name": "Chand Sifarish (From \"Fanaa\") (feat. Aamir Khan, Kajol)",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "306903793357084"
+            },
+            "isCommentsDisabled": true
+        },
+        {
+            "id": "3643750222867874678",
+            "type": "Video",
+            "shortCode": "DKRM4W0SkN2",
+            "caption": "Student work\nJoin our upcoming batch \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKRM4W0SkN2/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-15/502742939_709004512008828_8305531101122822396_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=iP0Ceaa_ZbIQ7kNvwGTNExL&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNxWYEJMv2OB6wqXg5cSN1TSqAdn-uVlY89Zl91qvK4Jg&oe=68517A22&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-3.fna.fbcdn.net/o1/v/t16/f2/m86/AQMJ2Vk87IiF-L1hAyZ99Nxb2PCFwMFfGS5_m38vySExyIThFNl7O3bnw08iopvyZB8HRMlCinbjPtUeLiJVNjlGtSPLa-mbuNBHhWo.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=1453585772673784_1526461791&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NjQ3OTM4NEY1NDBCMDUxMjIxMDA2NDM1MEMxQzRBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTENoNWgzWW1WNFQwbUVqQUhJamx1UXVVRFp0YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJs7w3%2Fzi0alAFQIoAkMzLBdALJmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMZNgprHX-V0BpeS4ct01QfUApja_l33-oDDn8yfQ1INw&oe=684D89BC&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 44,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-30T07:09:07.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "295 Unisex Salon and academy",
+                    "id": "55924658155",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-19/378993400_319275370598925_6901525263481892606_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=po3-SVRucxwQ7kNvwEdYZad&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMnHL9G0ihYnQFjm8i5EGN_e2eJtCYvF7mUPXpJYWV89w&oe=68516E3B&_nc_sid=8b3546",
+                    "username": "295_unisex_salon"
+                },
+                {
+                    "full_name": "Navya\u2019s glam studio  X 295 unisex salon",
+                    "id": "55458814418",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/434645438_7131006473664157_5083709652471529952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=ALRJqEG_3cIQ7kNvwFtxC0A&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM1CrUl9GA_h2OkpvhfNpjQQvLQTO-MuR3fOgM_yB-Jcg&oe=68516BD5&_nc_sid=8b3546",
+                    "username": "nailworld_by_navyasglamstudio"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Sanju Rathod, G-SPXRK",
+                "song_name": "Shaky",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "1064137835526043"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3643727001657378041",
+            "type": "Video",
+            "shortCode": "DKRHmcYSYT5",
+            "caption": "Hair look demo class\nNavya\u2019s glam studio & academy \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKRHmcYSYT5/",
+            "commentsCount": 2,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-1.fna.fbcdn.net/v/t51.2885-15/502599669_1053473160091755_4810754381568864157_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=Gh7AxHuVtJcQ7kNvwHwBZ7J&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOEYvsttsD4IQjPh10RzYlTkLAB_VPDDvP9zNjGruZ_GA&oe=68517806&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQOtty03OWRl-UcjArZR2b-Xd5mGAYsxD4MmB61GvpCyQwoYkGHr9aXx5REMuhdg3UTaUckyxTIs9Ie9RJXIPCMIkwnZ3ZICUQ1A20w.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=1496454148005032_3720161024&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNjQyRjFFQjA2MUM3OEM3REJBMkY5RTEyMjgwNzM5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEs5U0IwR01zcXpxZUFFQUNOeHpZSFhmeDV1YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpyVtrf%2F%2Fv9AFQIoAkMzLBdAMRmZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfO1k_sYZDWfpY-EKbs5qIcAAo8eRYAnNqqDwclI4XgEfA&oe=684D8DD6&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 50,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-30T06:22:34.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3643009910730103871",
+            "type": "Video",
+            "shortCode": "DKOkjZaS5w_",
+            "caption": "Navya\u2019s glam studio & academy \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKOkjZaS5w_/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-15/502096423_1305819027810958_7735549380906956061_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=bhvJ7K9io9MQ7kNvwFCTdWZ&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMGf2eVt80sCOsPx5HH9mZ_QZT7QwZeppE-0vwI__GfJQ&oe=6851697A&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQOscFCTJtIgfRlLskuxpezUYqEeQvYNzqqX1GYbuk6oWlsw0rsVKsDs7YsXdCTfYQGEcqTk_68pLgjwik-zj0dLuovj3xEmCe4X1IE.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=1075973931176214_2276411393&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRTQ2RDU1N0U3RDVBREM3QTg1MEZCODY4QTdGRDY4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ01ZOHgxQUVINXN2UkFGQUNRREhQc21zeE5oYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpiZzN7P7sw%2FFQIoAkMzLBdAQFEGJN0vGxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNmk_0i3QEsdiUP9kPiMWZkcE8Fw2h0ccrVldTIu5ERug&oe=684D92D3&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 28,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-29T06:37:58.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Navya\u2019s glam studio  X 295 unisex salon",
+                    "id": "55458814418",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/434645438_7131006473664157_5083709652471529952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=ALRJqEG_3cIQ7kNvwFtxC0A&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM1CrUl9GA_h2OkpvhfNpjQQvLQTO-MuR3fOgM_yB-Jcg&oe=68516BD5&_nc_sid=8b3546",
+                    "username": "nailworld_by_navyasglamstudio"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Ultra Beats",
+                "song_name": "Liya",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "287632277212248"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3642408229516484668",
+            "type": "Video",
+            "shortCode": "DKMbvyHSiA8",
+            "caption": "Hair styling products theory class\nNavya\u2019s glam studio & academy \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKMbvyHSiA8/",
+            "commentsCount": 1,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-15/501659479_1261104782118193_5349898110735204698_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=nOBvMtKF968Q7kNvwEMS4Yi&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOepK77yIHqXNvBQUOqcGI-zXgiS9LYYl0wQ_Cmr3oPbA&oe=68516E5B&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQOangiDzT_tsopkkR5KZ5qUGC4JKr5W0yL9jKG_5DoW_5WYjDtzPYRntRHFOwY69eeR46nfExrRiaWWeYMEMkLCSbZIRB5RaOVQKMU.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=1027440956139288_670294204&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NDQxNjhDQjY3NjI0OTJGNUVGMkJBMjNBRDQxMUVCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTnVDM1Iyd2xfckE1enNDQUNMQlI4WGUzMjBIYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqbY%2BLTi4sQ%2FFQIoAkMzLBdAVVMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPGaR-jmget78wyNEKwX52z3JbKa7osP1kb5SKfkh7tRw&oe=684D77FB&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 63,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-28T10:42:56.000Z",
+            "childPosts": [],
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Navya\u2019s glam studio",
+                    "id": "55173748382",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/307789503_555072663055574_3234155752278647944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=bMq3nvheYZQQ7kNvwHHckxz&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP00e_pEMRI3CmXiJ9ldGbW7LuGcohSpAQOhvhCOjuB4A&oe=685169E4&_nc_sid=8b3546",
+                    "username": "hair_by_navya"
+                }
+            ],
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3642269437891700026",
+            "type": "Video",
+            "shortCode": "DKL8MGVy-U6",
+            "caption": "Makeup class glimpse \nNext batch from 2nd june \nContact +91 6283082747",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKL8MGVy-U6/",
+            "commentsCount": 4,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fixj1-3.fna.fbcdn.net/v/t51.2885-15/500945747_506785319090262_4252001525669316610_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fixj1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=urZskQG9S_gQ7kNvwGC6tf9&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNZxtecrVOZ2xa7DWydcpTNsRMQWJPhY7p7SJNrrHkvIQ&oe=68519887&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fixj1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQNCzScmGwccFggKR96_9CtGFyAo4dM07VwmMc_DcykKQC0R1YoCOCWn65WbIlRt_2inQYFH8-B-oXUCyVLFglYPE1Q4DjgfB6Dmgvo.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1776212363107179_750838247&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQjREMzJGQUJFQThCNzIyNkYxOTM0OTJBNjU3NTNBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUDl6MXgyMkZlNTdiZ0lFQUhZM0pnQ1dRcGNzYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJv6xqsXShOI%2FFQIoAkMzLBdASshysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMElwmglbZ0bTrlqYIMYyW9ybdq-FTszUtBvPuV-4Y-dA&oe=684DA508&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 535,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-28T06:07:00.000Z",
+            "childPosts": [],
+            "locationName": "\u0a2b\u0a3f\u0a30\u0a4b\u0a5b\u0a2a\u0a41\u0a30",
+            "locationId": "1279149952167139",
+            "ownerUsername": "academy_by_navyasglamstudio",
+            "ownerId": "56990014460",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "NAVYA MANCHANDA",
+                    "id": "47820797959",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fixj1-2.fna.fbcdn.net/v/t51.2885-19/424685256_210040218866065_189252029014299871_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fixj1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEIqD6Ht3i-0WVtQFftYHy94UiY8ctKCYUZ6pN4uPfBu-QTOi6tI32OXz1qZMKzphxWtCvi0i-QSYZlPqN2hv6G&_nc_ohc=8tyqegdg9AoQ7kNvwFXSPqP&_nc_gid=0s_VMaHYApd2QZ1qUy-uMQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMwP2kbadKyK913Zpw5_wVaCS73cidLA5PDhLFicM-hlQ&oe=6851702A&_nc_sid=8b3546",
+                    "username": "navyamanchandamakeupartist"
+                }
+            ],
+            "isCommentsDisabled": false
+        }
+    ],
+    "fbid": "17841457073813751"
+}

@@ -1,0 +1,931 @@
+{
+    "inputUrl": "https://www.instagram.com/parul_hasija_",
+    "id": "28972283328",
+    "username": "parul_hasija_",
+    "url": "https://www.instagram.com/parul_hasija_",
+    "fullName": "Parul Hasija Makeup Artist Chandigarh",
+    "biography": "MAKEUP ARTIST I HAIRSTYLIST I MODEL \u2764\ufe0f\n( 500+ )clients Done \ud83d\udc4d\n4 years of experience \ud83c\udf97\ufe0f\nBridal bookings for 2025-26 are open \ud83d\udce9",
+    "externalUrls": [],
+    "followersCount": 2009,
+    "followsCount": 493,
+    "hasChannel": false,
+    "highlightReelCount": 13,
+    "isBusinessAccount": true,
+    "joinedRecently": false,
+    "businessCategoryName": "None,Makeup Artist",
+    "private": false,
+    "verified": false,
+    "profilePicUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/472029504_497594419491923_2751492265333444583_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=HgGXUga_wLUQ7kNvwHM0k3n&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPUDocWJJttzfhJWQcoH-nEjtpmXUyniLokrDznXoEZ2A&oe=685CE10D&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/472029504_497594419491923_2751492265333444583_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=HgGXUga_wLUQ7kNvwHM0k3n&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNFL81PowNn8s801cIIGr3CJ1Ai33RoUNr1jew5O-Peag&oe=685CE10D&_nc_sid=8b3546",
+    "igtvVideoCount": 0,
+    "relatedProfiles": [
+        {
+            "id": "18816109269",
+            "full_name": "Srishti Pahuja",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/499957807_18086321566629270_8585587177812351000_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=ktnXzFW9pPkQ7kNvwEqEkCA&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNn6dadzFMh4ET4WB4_qBTkP47XIXtbQzF-ixazPTjlgQ&oe=685CE52E&_nc_sid=8b3546",
+            "username": "srishti.makeovers"
+        },
+        {
+            "id": "4116416001",
+            "full_name": "ShriRadharanimakeovers",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/387267663_6468532473272087_2410717683024575520_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=BKNhnM43QbsQ7kNvwFYdN2m&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOrCrr91VLU9vdCKvjoXzJREiOAVGl-iTHrkEP6q3YTNw&oe=685D047F&_nc_sid=8b3546",
+            "username": "nitusaini2605"
+        },
+        {
+            "id": "35540053119",
+            "full_name": "Ishika Makeovers |mua",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/119120683_754365778469126_6388445466396002542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=AWjUyp92R_gQ7kNvwHLWH_V&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPZcb_mPIlhkRVZ2sGRK2RnZ4_nNG76UnAdToLDgHC_dA&oe=685D01B7&_nc_sid=8b3546",
+            "username": "ishikamakeovers__"
+        },
+        {
+            "id": "31558628067",
+            "full_name": "HimanshimakeoverS \ud83e\uddff",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/310841470_640814920932517_1279429287910282679_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=6A4Ry9VT1sUQ7kNvwGgkk-S&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNiGddhs62GcBNbb94df-ItcA5j4IuRtwX8x4zO4HQjUA&oe=685CD2DD&_nc_sid=8b3546",
+            "username": "himanshisardana_makeovers"
+        },
+        {
+            "id": "44710497763",
+            "full_name": "Saaj Makeover",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/475978251_1593631281522559_2488361208452648228_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=0VKK5SdroEkQ7kNvwHUT5a8&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOjfGPZsCVwj0hxmKI4wiN3LzWkLcCyiIXG0ssdjerybw&oe=685CD9E9&_nc_sid=8b3546",
+            "username": "saaj_makeover_ambala"
+        },
+        {
+            "id": "48535767897",
+            "full_name": "Muskaan | BRIDAL MAKEUP ARTIST",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/451401530_470470565892873_4052611046098826085_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=YueaLv3-zcoQ7kNvwHyvkNi&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP7sdZQ3mlNtPCBX7jPjc8TY2FXDE1TNocppwqCvgILKg&oe=685D03F5&_nc_sid=8b3546",
+            "username": "muskaanmakeup_artist"
+        },
+        {
+            "id": "39458987725",
+            "full_name": "Nimmi Gumber - Makeup Artist",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/476584652_2019569571842965_1217533390159554147_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=pIXOL6HV9hkQ7kNvwHA_YiQ&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMXmKx2vG0cf3d59KvLS_bFHARvsfSyU6rLt4sIi278Vg&oe=685CF768&_nc_sid=8b3546",
+            "username": "nimmigumber_artistry"
+        },
+        {
+            "id": "4615599857",
+            "full_name": "\ud835\udddb\ud835\uddee\ud835\uddff\ud835\ude00\ud835\uddf5\ud835\uddf6\ud835\uddf8\ud835\uddee \ud835\uddd5\ud835\uddf5\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddee | Makeup Artist | Ambala | Chandigarh | Ludhiana",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/469944804_1259936835401486_8664015413736246416_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=rJRyyZV4kugQ7kNvwHQgh2J&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM7q3mcCBF-4-vCkZN3e6faUDdUKwLTXp2HbxljIzYkTw&oe=685CEA76&_nc_sid=8b3546",
+            "username": "harshikabhatia_mua"
+        },
+        {
+            "id": "8577214294",
+            "full_name": "Aarushi Wadhwa",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/446112788_826445306084961_5228983460362904641_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=wREmf3K-DC4Q7kNvwGmMRSB&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOffuJcNGCC5h9ocoaukWOpv-mkzlJs2WBvzQrXaFsBCA&oe=685D0662&_nc_sid=8b3546",
+            "username": "aarushiwadhwamakeup"
+        },
+        {
+            "id": "4783972397",
+            "full_name": "Varsha Arora",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/503116790_18354479116156398_2991011970315335871_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=8zkRgNjswZsQ7kNvwExe9ME&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOa1pEdpMwUW2vpbaes1dm25MYrN25HBd7izt0v6B7hZQ&oe=685CF21C&_nc_sid=8b3546",
+            "username": "varshaamakeovers"
+        },
+        {
+            "id": "48765430575",
+            "full_name": "HAIRSTORIES BY SHIVANI",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/325675322_140042965289055_2979784493699116544_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=IA8vbIpQYDsQ7kNvwGpbDq4&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNZVa87FU-kGcAjzFWCo4RbBrsoQxLvbEj3XtK7sfwiHA&oe=685CDDAD&_nc_sid=8b3546",
+            "username": "hairstories_by_shivani"
+        },
+        {
+            "id": "48734421499",
+            "full_name": "Deepanshi Sharma",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/333538528_519332833473721_3166119939057649453_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=-R2HtYqwSjYQ7kNvwF7b9lB&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOhv0m0Aoc9rD533Ha_xFdnLnEo4QwDjUpLG0DFzdksxw&oe=685CF4FF&_nc_sid=8b3546",
+            "username": "_dnd_artistry_"
+        },
+        {
+            "id": "15438219433",
+            "full_name": "\ud835\ude54\ud835\ude3c\ud835\ude4e\ud835\ude43\ud835\ude44\ud835\ude46\ud835\ude3c \ud835\ude42\ud835\ude4a\ud835\ude54\ud835\ude3c\ud835\ude47 \ud83e\uddff| \ud835\ude3d\ud835\ude4d\ud835\ude44\ud835\ude3f\ud835\ude3c\ud835\ude47 \ud835\ude48\ud835\ude3c\ud835\ude46\ud835\ude40\ud835\ude50\ud835\ude4b \ud835\ude3c\ud835\ude4d\ud835\ude4f\ud835\ude44\ud835\ude4e\ud835\ude4f",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/488584955_1821544125364597_4211109729341831741_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=y2xUSrC9HkoQ7kNvwHUE3pf&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNcGLbp195TJiTQred5HpXMjrbWLTU43x1mv8NNUgIDjQ&oe=685CD49C&_nc_sid=8b3546",
+            "username": "yashikagoyalmakeup"
+        },
+        {
+            "id": "2876348927",
+            "full_name": "KANIKA JOSHI | MAKEUP STUDIO & UNISEX SALON",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/481008519_1312816696592000_7061646652182619766_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=8_zSE-HamLUQ7kNvwGjOWyn&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNJZtkpEcAzSOo6KexU91wbKlk0ZtOpbKSpNwmmwbfxPg&oe=685CFC82&_nc_sid=8b3546",
+            "username": "kanika_joshi_mua"
+        },
+        {
+            "id": "6046742718",
+            "full_name": "BRIDAL MAKEUP ARTIST",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/505435213_18327895549206719_7940696213017947773_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=px0enwkuZH4Q7kNvwGQMhSM&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMoj2umj4oJ5RYtJz8crChNNvFdDbZs7v0vhs22mroxig&oe=685CDA7B&_nc_sid=8b3546",
+            "username": "gravits_makeover"
+        },
+        {
+            "id": "51185699225",
+            "full_name": "Ritagya\ud83e\udef6\ud83c\udffb",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/508383574_18019989167707226_7933969261140091148_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=E3iw90LizykQ7kNvwEVnN8_&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPdhoBrSEuWtuI_nLRjPAszipeb3ipB-TUGoMSTCmyk9w&oe=685CDE9C&_nc_sid=8b3546",
+            "username": "_reet02_"
+        },
+        {
+            "id": "4024286851",
+            "full_name": "Surbhi Nails and makeovers\ud83e\ude77",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/326250233_214568184320264_8714221669972226276_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=lOyqOczJnuAQ7kNvwEd1kVE&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMf6rxedDAkCnrmwdeCxZw5o4LAhNE977hzkO4uqKV0Qw&oe=685CF019&_nc_sid=8b3546",
+            "username": "nailsbysurbhi"
+        },
+        {
+            "id": "39883673857",
+            "full_name": "Vanshika Puri | Chandigarh MakeupArtist",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/498540588_18060311972329858_6842486080711671920_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=wOZ1Z3X4Co4Q7kNvwE3jmCs&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP6Zv4M8wpHeC5F-GLA7ZEsCltt36CsZe2GWLz_KVYptA&oe=685D0010&_nc_sid=8b3546",
+            "username": "makeupartistvanshikapuri"
+        },
+        {
+            "id": "7650351213",
+            "full_name": "\ud835\udde5\ud835\uddd4\ud835\udde6\ud835\udddf\ud835\uddd8\ud835\uddd8\ud835\udde1 \ud835\uddde\ud835\uddd4\ud835\udde8\ud835\udde5 || \ud835\ude14\ud835\ude08\ud835\ude12\ud835\ude0c-\ud835\ude1c\ud835\ude17 \ud835\ude08\ud835\ude19\ud835\ude1b\ud835\ude10\ud835\ude1a\ud835\ude1b \ud83e\udeac",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/450390376_491586206875437_2766536849475031360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=YzlkY1b62SUQ7kNvwGCQcZ_&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMzFOkOyyGtuHSzIo9H8AVLeyU1BZ1RRbycCzOPYLdPGA&oe=685CE656&_nc_sid=8b3546",
+            "username": "_sardar_ni_makeover_"
+        },
+        {
+            "id": "45131046373",
+            "full_name": "Make up By Manveet Kaur",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/486805476_1167900111464150_9026010592770957559_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=W9YEnhztKVUQ7kNvwGfFbPZ&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMd8QZ6V32-mhY9a_R4br3XA6SBzqZ9QbaySjSL6Dpvrg&oe=685D078D&_nc_sid=8b3546",
+            "username": "bellabeautybymanveet"
+        },
+        {
+            "id": "39362822550",
+            "full_name": "Ramya Makeup & Beauty Studio Zirakpur",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/472116929_953414760071028_627674507956249006_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=7SagfSPsE8IQ7kNvwGOx46m&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPDmY7I_HzecCzhhQD-owNLrCJjN9MyFrch7lcvijGxxA&oe=685D0558&_nc_sid=8b3546",
+            "username": "ramyamakeupstudio"
+        },
+        {
+            "id": "49968393908",
+            "full_name": "Nancy Bagga | Makeup Artist",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/473021738_978747624125679_6159038972459930344_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=z3K8IRDVhzgQ7kNvwGCsp6V&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP8jCGnGAQ1EubJb-BtNOYOUd8A6CSZs-r-oURHC0WI-w&oe=685D00A5&_nc_sid=8b3546",
+            "username": "blushnbloomsbynancy"
+        },
+        {
+            "id": "4357494075",
+            "full_name": "Aanchal Gupta",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/482475473_1021569203166665_9023740150930095360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=hRmZOtYbJQgQ7kNvwFCAZU7&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOwEufwbyXjtDxw6vloSLEHmawSQjcCYtTVd-JIPutEZA&oe=685CFC01&_nc_sid=8b3546",
+            "username": "aanchal8010"
+        },
+        {
+            "id": "44463232414",
+            "full_name": "MANPREET KAUR | BRIDAL MAKEUP ARTIST",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/497779862_18068540855480415_2540977857708794373_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=IpppolIA2vwQ7kNvwGF0YPK&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN3UU_pvFN_-GJs2hT3zBq6uWyku5h-EXGzlB0nGC569A&oe=685CDC0E&_nc_sid=8b3546",
+            "username": "manpreetkaur.makeovers"
+        },
+        {
+            "id": "8077559744",
+            "full_name": "NAVRITI MADAAN",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/495271206_18279872167271745_5070866123949165976_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=8lqerDBUwAMQ7kNvwFku7T7&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP_dmKqD6pxW8YWjjLGcUWUzhotd1-SZ8IVcxcjTzq1pQ&oe=685CE6E7&_nc_sid=8b3546",
+            "username": "navritimadaan_mua"
+        },
+        {
+            "id": "62244891279",
+            "full_name": "TheKanchanTouch Unisex salon, Makeup artist in Kaithal",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/450126447_387420501018204_2730852787983732652_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=tEb-nk3dqAkQ7kNvwHXRNdM&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPzvrbUAb2gSBMe4Fvza6Oo_h2K39JabQPNSOniW4m7HA&oe=685CDFA9&_nc_sid=8b3546",
+            "username": "thekanchantouch"
+        },
+        {
+            "id": "54014733030",
+            "full_name": "Karan Mlhotra",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/484070807_1150675236303005_7021183566427516306_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=X0EZW8U6ALQQ7kNvwEZiEEt&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOFX5VsbGqvcP_vPOVKPOCr63YCnR2JCOJB83sXfCGbkA&oe=685CF3F0&_nc_sid=8b3546",
+            "username": "makeupbykaranmalhotra"
+        },
+        {
+            "id": "52735888608",
+            "full_name": "\ud835\udc39\ud835\udc5c\ud835\udcc1\ud835\udcc1\ud835\udcbe\ud835\udcb8 \ud835\udcbd\ud835\udcb6\ud835\udcbe\ud835\udcc7 \ud835\udcc8\ud835\udcb6\ud835\udcc1\ud835\udc5c\ud835\udcc3 \ud835\udcb6\ud835\udcc3\ud835\udcb9 \ud835\udcb6\ud835\udcb8\ud835\udcb6\ud835\udcb9\ud835\udc52\ud835\udcc2\ud835\udcce sirsa",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/299531909_2079191418920134_7072035665923724945_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=U4sbzkSVACYQ7kNvwHOhEGk&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNYaA8tjTpqlNN35vqiprnFk0arFzjcQXM-dpuKOTFPPg&oe=685CD662&_nc_sid=8b3546",
+            "username": "follic_salon_sirsa"
+        },
+        {
+            "id": "8031698450",
+            "full_name": "Kawalnain Kaur",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/457497939_884115880296581_3044350240297155903_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=N9c_Zeq9ntQQ7kNvwGW46N4&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOdf1013h1CdvDbRYIR2KHOvVKQjqlt0I_Gm_KwndNC9w&oe=685CD665&_nc_sid=8b3546",
+            "username": "makeupby_kawal"
+        },
+        {
+            "id": "62331933299",
+            "full_name": "Boho Nail Art Studio and Academy - #Chandigarh",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/408240888_1719297675148599_7256264853681560563_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=MN5jn8QzsiUQ7kNvwGcLOkq&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNU9kRY1CrUg38x9aztS-JXOlfuXpiXP5GGkeQ7rV9ksw&oe=685CDC41&_nc_sid=8b3546",
+            "username": "_the_boho_studio__"
+        },
+        {
+            "id": "24397906456",
+            "full_name": "Gopal Mehandi art Patiala92",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/472512868_1143582287473430_8278748249544801902_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=HDs1mALvC3wQ7kNvwEBx-Ju&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPRLGN56xbVOCj8KGWorNLof7_AZDCCWKhJ9O40_HP4Iw&oe=685D01BA&_nc_sid=8b3546",
+            "username": "gopal_mehandi92"
+        },
+        {
+            "id": "7422559060",
+            "full_name": "Rishita Chachra",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/469092799_879847730979889_1044450745828707133_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=AHRYeNC8QEIQ7kNvwFtZM5f&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM-EvV2PLacx_8IAOIvs6dQFHG4qK2B4xkC09LQP3mjnw&oe=685CF94D&_nc_sid=8b3546",
+            "username": "rishitachachra"
+        },
+        {
+            "id": "37064957144",
+            "full_name": "hairstoriesbykomal",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/442531649_1203197327717077_8697845277247119424_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=v1TPRvp0uHMQ7kNvwHlsZre&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOGddj20ObwRIGxqQDtPXWiqyWDNrnOyutKgR1H3Wzl7A&oe=685CD369&_nc_sid=8b3546",
+            "username": "hairstoriesbykomal"
+        },
+        {
+            "id": "11420363676",
+            "full_name": "Anisha's Makeup Studio | MOHALI | CHANDIGARH | ARTIST |",
+            "is_private": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/491507678_18143636878379677_771501696797690181_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=_QMTXN-epWgQ7kNvwFirsqL&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPE3IES27GmMgiqiP8OKh789el8hKXHtCoS6ckQvYUOYA&oe=685D04DE&_nc_sid=8b3546",
+            "username": "anishasmakeupstudio"
+        }
+    ],
+    "latestIgtvVideos": [],
+    "postsCount": 262,
+    "latestPosts": [
+        {
+            "id": "3324332975306814360",
+            "type": "Video",
+            "shortCode": "C4iZzpcR7OY",
+            "caption": "Coming Soon \ud83d\ude0d\ud83e\udd7a\nMakeup n Hair by me @parul_hasija_ \n.\nOutfit @banno_raani__house_of_fashion\nphotographer- @mr_aj20 \ninframe- @divyanshi_kaushall .\n#makeupartist #kaithal #chandigarh\ud83d\udc93 #hairstylist #lehnga #bride #indianwedding",
+            "hashtags": [
+                "makeupartist",
+                "kaithal",
+                "chandigarh\ud83d\udc93",
+                "hairstylist",
+                "lehnga",
+                "bride",
+                "indianwedding"
+            ],
+            "mentions": [
+                "parul_hasija_",
+                "banno_raani__house_of_fashion",
+                "mr_aj20",
+                "divyanshi_kaushall"
+            ],
+            "url": "https://www.instagram.com/p/C4iZzpcR7OY/",
+            "commentsCount": 44,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/433087185_1083796439516050_2045628375929306046_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=mbHE-XDmVVwQ7kNvwEdJeZA&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM6XSvM2FE7cWrftbzoVdkw6DdmHRZOPOM0dO7mq0Tmtg&oe=685CEF29&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m82/AQO7KrZGQbt4vOO56Ot_8ZsD1ybgfNPMslgA9zw1Uqs3VyZk0_UKvfH9B7n93cuQ6S_yFVp7NuuV7gKXAJf-IPwsf-p4wEo8AIzLY6I.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=939440897354380_2070562030&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC82RTRGNzlDNzAwMDgwMjY1NzIxQjNDMkI3ODE3OEZCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQVp1eGhrdTI3dDl2SUVCQUxZaE9uTmgtaVlJYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrL%2Bqfjim%2F8%2FFQIoAkMzLBdAJ0QYk3S8ahgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfM6CRyaDy4bkXjBcjTJcz9XQsCe3NZc8BAmY632KEQlCA&oe=68590772&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 387,
+            "videoViewCount": 2839,
+            "timestamp": "2024-03-15T14:06:16.000Z",
+            "childPosts": [],
+            "locationName": "Chandigarh, India",
+            "locationId": "110684188959162",
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\u2728\ud835\udc69\ud835\udc82\ud835\udc8f\ud835\udc8f\ud835\udc90 \ud835\udc79\ud835\udc82\ud835\udc82\ud835\udc8f\ud835\udc8a - \ud835\udc6f\ud835\udc90\ud835\udc96\ud835\udc94\ud835\udc86 \ud835\udc76\ud835\udc87 \ud835\udc6d\ud835\udc82\ud835\udc94\ud835\udc89\ud835\udc8a\ud835\udc90\ud835\udc8f\u00ae\u2728",
+                    "id": "56425181069",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/312984897_488284533355849_6758518804067293671_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=cbBkaW1bBwsQ7kNvwGO7PjW&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPo7t8tKCToTo2jI2ms2oKuQWMhnAC0hBNxe50uUoQLTQ&oe=685CE3A6&_nc_sid=8b3546",
+                    "username": "banno_raani__house_of_fashion"
+                },
+                {
+                    "full_name": "divya\ud83e\udd8b",
+                    "id": "54431186628",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/485482624_1356403355396705_4496523511577374505_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=NHwu1W4XJfMQ7kNvwHYaZDq&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPTH1z1nReU63FS2F4NhJMaaLB5Ba0ObrTdpw_iHZX4Sw&oe=685CF0B8&_nc_sid=8b3546",
+                    "username": "divyanshi_kaushall"
+                },
+                {
+                    "full_name": "A Jay",
+                    "id": "8094548160",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/480892987_1201572498152408_503597877486552774_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=WY95D9jd_CYQ7kNvwFrSepo&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMOOwrE-BaAieMvsdUaK1MibF8XEB1EMwQk5s0s9wHQIw&oe=685CE33A&_nc_sid=8b3546",
+                    "username": "mr_aj_chd"
+                },
+                {
+                    "full_name": "\u2728 \ud835\udc69\ud835\udc82\ud835\udc8f\ud835\udc8f\ud835\udc90 \ud835\udc79\ud835\udc82\ud835\udc82\ud835\udc8f\ud835\udc8a - \ud835\udc6f\ud835\udc90\ud835\udc96\ud835\udc94\ud835\udc86 \ud835\udc76\ud835\udc87 \ud835\udc71\ud835\udc86\ud835\udc98\ud835\udc86\ud835\udc8d\ud835\udc94\u00ae \u2728",
+                    "id": "57580657184",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/327791615_120504227429465_2051958759563357218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9ADwgMjRvtMQ7kNvwG3MKm1&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNFk9AjWpKdzc1aFz-bdvfT71EZtc-VrBTHfWspXvq7Uw&oe=685D026C&_nc_sid=8b3546",
+                    "username": "banno_raani__house_of_jewels"
+                }
+            ],
+            "isPinned": true,
+            "musicInfo": {
+                "artist_name": "Sanjay Leela Bhansali, Javed Bashir, Shadab Faridi, Altamash Faridi, Shashi Suman, Shreyas Puranik",
+                "song_name": "Aaj Ibaadat",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "657208506430024"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3327306791016442560",
+            "type": "Sidecar",
+            "shortCode": "C4s9-XJR6rA",
+            "caption": "My Pretty Divyanshi \u2764\ufe0f\u263a\ufe0f.\nMakeup and hair by me @parul_hasija_ \n.\n.\noutfit @banno_raani__house_of_fashion \ninframe @divyanshi_kaushall \n\ud83d\udcf8 by  @mr_aj20 \n.\n.\n#makeupartist #chandigarh\ud83d\udc93 #bride #weddingphotography #weddingdress #lehnga #indianwedding",
+            "hashtags": [
+                "makeupartist",
+                "chandigarh\ud83d\udc93",
+                "bride",
+                "weddingphotography",
+                "weddingdress",
+                "lehnga",
+                "indianwedding"
+            ],
+            "mentions": [
+                "parul_hasija_",
+                "banno_raani__house_of_fashion",
+                "divyanshi_kaushall",
+                "mr_aj20"
+            ],
+            "url": "https://www.instagram.com/p/C4s9-XJR6rA/",
+            "commentsCount": 4,
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/434021192_294142593700743_7568244810342962396_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9xLQjZ8XuJIQ7kNvwEHf11K&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY2NDQyMDU3Nw%3D%3D.3-ccb7-5&oh=00_AfMu44ivJyzNr5LexEMLWBIs4p1zkJjNIZ1fLolPro24BQ&oe=685CE5D3&_nc_sid=8b3546",
+            "images": [
+                "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/434021192_294142593700743_7568244810342962396_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9xLQjZ8XuJIQ7kNvwEHf11K&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY2NDQyMDU3Nw%3D%3D.3-ccb7-5&oh=00_AfMu44ivJyzNr5LexEMLWBIs4p1zkJjNIZ1fLolPro24BQ&oe=685CE5D3&_nc_sid=8b3546",
+                "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/433983925_7345193592215454_420637336023177312_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=U9uR3kqQheMQ7kNvwHov1uJ&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY2NDM4MjAyNA%3D%3D.3-ccb7-5&oh=00_AfNMzGvD3SCQl7xxd7zKav4JlSlG43HpuSyjKqkky-bQQQ&oe=685CDAE5&_nc_sid=8b3546",
+                "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/433996314_769625881761200_8925304839808855814_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=6c1dil9JAxgQ7kNvwHXJcxe&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY3Mjc4ODc2Mg%3D%3D.3-ccb7-5&oh=00_AfNiMHeH46jJwmVOSYJHTW6E5_AZoHYd9-uD4Huf55mGig&oe=685CEFC3&_nc_sid=8b3546"
+            ],
+            "alt": "Photo shared by Parul Hasija Makeup Artist Chandigarh on March 19, 2024 tagging @mr_aj_chd, and @divyanshi_kaushall.",
+            "likesCount": 118,
+            "timestamp": "2024-03-19T16:31:40.000Z",
+            "childPosts": [
+                {
+                    "id": "3327306785664420577",
+                    "type": "Image",
+                    "shortCode": "C4s9-SKRkrh",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/C4s9-SKRkrh/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1350,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/434021192_294142593700743_7568244810342962396_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9xLQjZ8XuJIQ7kNvwEHf11K&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY2NDQyMDU3Nw%3D%3D.3-ccb7-5&oh=00_AfMu44ivJyzNr5LexEMLWBIs4p1zkJjNIZ1fLolPro24BQ&oe=685CE5D3&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo shared by Parul Hasija Makeup Artist Chandigarh on March 19, 2024 tagging @mr_aj_chd, and @divyanshi_kaushall.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "parul_hasija_",
+                    "ownerId": "28972283328",
+                    "taggedUsers": [
+                        {
+                            "full_name": "divya\ud83e\udd8b",
+                            "id": "54431186628",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/485482624_1356403355396705_4496523511577374505_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=NHwu1W4XJfMQ7kNvwHYaZDq&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPTH1z1nReU63FS2F4NhJMaaLB5Ba0ObrTdpw_iHZX4Sw&oe=685CF0B8&_nc_sid=8b3546",
+                            "username": "divyanshi_kaushall"
+                        },
+                        {
+                            "full_name": "A Jay",
+                            "id": "8094548160",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/480892987_1201572498152408_503597877486552774_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=WY95D9jd_CYQ7kNvwFrSepo&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMOOwrE-BaAieMvsdUaK1MibF8XEB1EMwQk5s0s9wHQIw&oe=685CE33A&_nc_sid=8b3546",
+                            "username": "mr_aj_chd"
+                        }
+                    ]
+                },
+                {
+                    "id": "3327306785664382024",
+                    "type": "Image",
+                    "shortCode": "C4s9-SKRbRI",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/C4s9-SKRbRI/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1350,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/433983925_7345193592215454_420637336023177312_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=U9uR3kqQheMQ7kNvwHov1uJ&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY2NDM4MjAyNA%3D%3D.3-ccb7-5&oh=00_AfNMzGvD3SCQl7xxd7zKav4JlSlG43HpuSyjKqkky-bQQQ&oe=685CDAE5&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Parul Hasija Makeup Artist Chandigarh on March 19, 2024.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "parul_hasija_",
+                    "ownerId": "28972283328"
+                },
+                {
+                    "id": "3327306785672788762",
+                    "type": "Image",
+                    "shortCode": "C4s9-SKxfsa",
+                    "caption": "",
+                    "hashtags": [],
+                    "mentions": [],
+                    "url": "https://www.instagram.com/p/C4s9-SKxfsa/",
+                    "commentsCount": 0,
+                    "firstComment": "",
+                    "latestComments": [],
+                    "dimensionsHeight": 1350,
+                    "dimensionsWidth": 1080,
+                    "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/433996314_769625881761200_8925304839808855814_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=6c1dil9JAxgQ7kNvwHXJcxe&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzMyNzMwNjc4NTY3Mjc4ODc2Mg%3D%3D.3-ccb7-5&oh=00_AfNiMHeH46jJwmVOSYJHTW6E5_AZoHYd9-uD4Huf55mGig&oe=685CEFC3&_nc_sid=8b3546",
+                    "images": [],
+                    "alt": "Photo by Parul Hasija Makeup Artist Chandigarh on March 19, 2024.",
+                    "likesCount": null,
+                    "timestamp": null,
+                    "childPosts": [],
+                    "ownerUsername": "parul_hasija_",
+                    "ownerId": "28972283328"
+                }
+            ],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "taggedUsers": [
+                {
+                    "full_name": "divya\ud83e\udd8b",
+                    "id": "54431186628",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/485482624_1356403355396705_4496523511577374505_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=NHwu1W4XJfMQ7kNvwHYaZDq&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPTH1z1nReU63FS2F4NhJMaaLB5Ba0ObrTdpw_iHZX4Sw&oe=685CF0B8&_nc_sid=8b3546",
+                    "username": "divyanshi_kaushall"
+                },
+                {
+                    "full_name": "A Jay",
+                    "id": "8094548160",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/480892987_1201572498152408_503597877486552774_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=WY95D9jd_CYQ7kNvwFrSepo&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMOOwrE-BaAieMvsdUaK1MibF8XEB1EMwQk5s0s9wHQIw&oe=685CE33A&_nc_sid=8b3546",
+                    "username": "mr_aj_chd"
+                }
+            ],
+            "isPinned": true,
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3325574702638268202",
+            "type": "Video",
+            "shortCode": "C4m0JKIx38q",
+            "caption": "I am in love with this look \ud83d\ude0d\ud83e\udd7a.\nMakeup and hair by me @parul_hasija_ \n.\noutfit - @banno_raani__house_of_fashion \ninframe - @divyanshi_kaushall \n\ud83d\udcf8 - @mr_aj20 .\n.\n#indianbride #kaithal #chandigarh\ud83d\udc93 #makeupartist #hairstylist #makeup #weddinginspiration #weddingdress",
+            "hashtags": [
+                "indianbride",
+                "kaithal",
+                "chandigarh\ud83d\udc93",
+                "makeupartist",
+                "hairstylist",
+                "makeup",
+                "weddinginspiration",
+                "weddingdress"
+            ],
+            "mentions": [
+                "parul_hasija_",
+                "banno_raani__house_of_fashion",
+                "divyanshi_kaushall",
+                "mr_aj20"
+            ],
+            "url": "https://www.instagram.com/p/C4m0JKIx38q/",
+            "commentsCount": 28,
+            "dimensionsHeight": 1333,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.29350-15/434874708_761655022590314_8970400539106452602_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=Bf_r2zPH1AgQ7kNvwEV80px&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNgJXucyEsOsJyHQByfSXx1G-o6Ihsfn7Nt41HdWHHP5A&oe=685CF992&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m82/AQNvCpX8AWZ77FQ1-VcsW8HQL0UrvqICyEAbZ53PyU2XAsPEo3Yu2DIV4anZIFocv2oU6GwFZK6zSXo51RTVCcqYeDrLzUDxdMOznX4.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=937715721189930_3098231591&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9FNDQ3MkZEQjU0QkZDQkNBRjg0MzUzNkNBODYwMUY4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnUzRHhuUTM5WEtzNDBEQUVvTE9jNm5tTnhWYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrDK2IfQ1%2Bk%2FFQIoAkMzLBdANUj1wo9cKRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMt4IvPW8KLdhpitlL8mZq3Yej_bP6K8DxPmarhX4A4YA&oe=6858E040&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 177,
+            "videoViewCount": 2017,
+            "timestamp": "2024-03-17T07:16:44.000Z",
+            "childPosts": [],
+            "locationName": "Chandigarh, India",
+            "locationId": "110684188959162",
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\u2728\ud835\udc69\ud835\udc82\ud835\udc8f\ud835\udc8f\ud835\udc90 \ud835\udc79\ud835\udc82\ud835\udc82\ud835\udc8f\ud835\udc8a - \ud835\udc6f\ud835\udc90\ud835\udc96\ud835\udc94\ud835\udc86 \ud835\udc76\ud835\udc87 \ud835\udc6d\ud835\udc82\ud835\udc94\ud835\udc89\ud835\udc8a\ud835\udc90\ud835\udc8f\u00ae\u2728",
+                    "id": "56425181069",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/312984897_488284533355849_6758518804067293671_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=cbBkaW1bBwsQ7kNvwGO7PjW&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPo7t8tKCToTo2jI2ms2oKuQWMhnAC0hBNxe50uUoQLTQ&oe=685CE3A6&_nc_sid=8b3546",
+                    "username": "banno_raani__house_of_fashion"
+                },
+                {
+                    "full_name": "divya\ud83e\udd8b",
+                    "id": "54431186628",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/485482624_1356403355396705_4496523511577374505_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=NHwu1W4XJfMQ7kNvwHYaZDq&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPTH1z1nReU63FS2F4NhJMaaLB5Ba0ObrTdpw_iHZX4Sw&oe=685CF0B8&_nc_sid=8b3546",
+                    "username": "divyanshi_kaushall"
+                },
+                {
+                    "full_name": "A Jay",
+                    "id": "8094548160",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/480892987_1201572498152408_503597877486552774_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=WY95D9jd_CYQ7kNvwFrSepo&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMOOwrE-BaAieMvsdUaK1MibF8XEB1EMwQk5s0s9wHQIw&oe=685CE33A&_nc_sid=8b3546",
+                    "username": "mr_aj_chd"
+                }
+            ],
+            "isPinned": true,
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3658452702914245507",
+            "type": "Video",
+            "shortCode": "DLFb1mYxXOD",
+            "caption": "\u2764\ufe0f",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DLFb1mYxXOD/",
+            "commentsCount": 13,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/503614982_606030905334041_2988327353896721841_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=cHPkdlQSwCAQ7kNvwEslYNE&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPYGe1U5uK8Db8qOBzcRcUqxSjL3hl6DBnDxL70RUC8Pw&oe=685CFDF4&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNWdZUEXtFWaBlFJleyRnlwzFKVXambkdoX3UNhr-vW52XLfOXEmDggkAqUElOziv8UL5y2CgTNfcgGrxdpa3z8dL2_rai3eOvpw2g.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=719155241042039_3403413438&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNjQ3MTA0MDIzODMzNjg4MTQ2Qzc1MzhCNTM0MThCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRm5rVHg0b1ZEdThkVndFQURLb05Qb01pZjFTYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrSA3rT2krc%2FFQIoAkMzLBdAM0QYk3S8ahgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfPYA1lTWu3EML95DK6crUyBCbgakvcRCzg-_YdbTT9OSA&oe=6858F9E5&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 67,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-19T14:00:12.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Manhar Embroidery Couture",
+                    "id": "71047136367",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/468212310_9244135645599270_1623803757985445407_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=MYrVtuyg1k0Q7kNvwFbLGfs&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPv2yuICEgNCaES1qn4Rjk8PMZb_fxMTNbkmoNYuV_ZIw&oe=685D06B7&_nc_sid=8b3546",
+                    "username": "manharembroiderycouture"
+                },
+                {
+                    "full_name": "Zinnia | Fashion Model | Chandigarh",
+                    "id": "73367955619",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/500528055_17854503267443620_8703942852895594216_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9zIRDOpN_pwQ7kNvwFtwIPW&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOFSrTkjV6vUgGiUJZspnwJtwMCufo_Xul2aPmsZSaAzA&oe=685CDA48&_nc_sid=8b3546",
+                    "username": "lostinzinnia"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Diljit Dosanjh, Shipra Goyal",
+                "song_name": "Mehndi",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "419419591944949"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3655636655729170994",
+            "type": "Video",
+            "shortCode": "DK7biuEoloy",
+            "caption": "Soft shimmery eyes \nSkin like base \nMy fav Glossy lips \u2764\ufe0f\nDm for bookings \ud83d\udce9 \noutfit @manharembroiderycouture \ninframe @lostinzinnia \n#duskyskinmakeup\u2764\ufe0f #duskybeauty #chandigarh #makeup #aanandkaraj",
+            "hashtags": [
+                "duskyskinmakeup\u2764\ufe0f",
+                "duskybeauty",
+                "chandigarh",
+                "makeup",
+                "aanandkaraj"
+            ],
+            "mentions": [
+                "manharembroiderycouture",
+                "lostinzinnia"
+            ],
+            "url": "https://www.instagram.com/p/DK7biuEoloy/",
+            "commentsCount": 22,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/505479470_1393907308665366_8589052410620782456_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=Lv50LT2V_LEQ7kNvwEFfwFY&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfM_VzaLZLicEEvFyG_ndmbeAoMo6DLuNuVzZTlhhaA2dg&oe=685CF931&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQMOl69LqWAWyERSZ0NNc1NVU75-UQphgFykg3ByfF8BSctKRgdqjq4vOU5TNZ_ACZmh-YWHt5LOYytGh7Z6EIFPIOEGHbv4wxKKqPI.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1360676648346623_60380532&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNjQxNDgyN0MzQ0NGMDRBNjgzRUQwRUFEM0EwRTM4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQVVUUng3QVRIbXJGNFVPQUpzYWtORjBMSXMzYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrTGrcbb%2BLY%2FFQIoAkMzLBdAO4PXCj1wpBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfOSnisikhhEbT_2f5j8yuMCR6NKgCV8TY4Y8jvdDuGwCg&oe=68590662&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 64,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-15T17:12:35.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "Zinnia | Fashion Model | Chandigarh",
+                    "id": "73367955619",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/500528055_17854503267443620_8703942852895594216_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=9zIRDOpN_pwQ7kNvwFtwIPW&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOFSrTkjV6vUgGiUJZspnwJtwMCufo_Xul2aPmsZSaAzA&oe=685CDA48&_nc_sid=8b3546",
+                    "username": "lostinzinnia"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Ajay Gogavale, Shreya Ghoshal",
+                "song_name": "Dhadak Title Track",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "2536882019687658"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3651283554837046258",
+            "type": "Video",
+            "shortCode": "DKr9ww8SaPy",
+            "caption": "Hey Do you guys like this look ? Should i create more look like this ?",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKr9ww8SaPy/",
+            "commentsCount": 26,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/503887766_1345481799879686_2892212525852632274_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=KZxgf1H-9Y4Q7kNvwFGF5nM&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfN5xMP35UM-aAQBpCGyp1eUax3PLkwy_uZf9JmrZgkSYQ&oe=685CF028&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOogj5Ret9q4RqvP5QazibQUXZA0hKt42CsZl4MVibxBpuTWkZQz6R8UR2-seNyMSulygagSnqBDtLMQd6sMWyOP5CioGmcHau1B_o.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=4146353032357726_2444858484&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NjQ0RUQ2QzZBODBFMkI4MzlENzk5QTRBMTgxRkRCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ0FQSmg3aHBPTExmT3NFQUIxQXlrY2lNZDhpYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrTrqaKgzbY%2FFQIoAkMzLBdANgRaHKwIMRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfOhsMzmKHizSWqtxtidAWKRf3vobaxs4AB4bjBvj8oWYA&oe=6858EC54&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 272,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-09T17:08:12.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\ud83e\udda6",
+                    "id": "21465162450",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/497798296_18086498290714451_7098147933152577552_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=taPMfGBbnBUQ7kNvwE3VJ4k&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNCjIEUVAuqKIMold2mu2BwaVRhCr8lFEN6ekesLTYrzA&oe=685CDA3D&_nc_sid=8b3546",
+                    "username": "jiyasinglaa"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Seedhe Maut",
+                "song_name": "Raat Ki Rani",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "1169815040944095"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3650284276244992536",
+            "type": "Video",
+            "shortCode": "DKoajWOxtIY",
+            "caption": "Dm for booking \ud83d\udce9\n#chandigarh #makeuptutorial",
+            "hashtags": [
+                "chandigarh",
+                "makeuptutorial"
+            ],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DKoajWOxtIY/",
+            "commentsCount": 23,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/504392192_1100776645194078_3042805948427421318_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=X-RVI6aPlo0Q7kNvwHpRte6&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfP3s-UwlnzsNeAHCNavytlmfmGQZU8-6erjPPS-3tde2Q&oe=685CFBAB&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQMEUT6zal_kUnhdjcdH-YnCvIamYgXEDoMvfW16XbN5od9w3-TibYXN-fIWa2P9Vuc7pY1IAG9Iz-7dCMEkGIUNmQhMj0cJzk7IpEE.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=2797903687064468_2529182417&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NzRENzBGRkJGNDdGQ0UxODkxOUQ4NUE3QjkxN0VBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTlctRGg0LVhSWjJEYUVFQU5JcUlmUVlHaDFUYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrTQ36TlwrY%2FFQIoAkMzLBdANyIMSbpeNRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfMkdzSGilMnxE6GSAJfjjeTmbxOFemrZJ-Sx4whex8gLg&oe=6858EDC1&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 97,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-08T07:36:37.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\ud83e\udda6",
+                    "id": "21465162450",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/497798296_18086498290714451_7098147933152577552_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=taPMfGBbnBUQ7kNvwE3VJ4k&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNCjIEUVAuqKIMold2mu2BwaVRhCr8lFEN6ekesLTYrzA&oe=685CDA3D&_nc_sid=8b3546",
+                    "username": "jiyasinglaa"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Pritam, Brianna Supriyo",
+                "song_name": "Rani' s Intro Theme (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "313766834449705"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3649837267331649066",
+            "type": "Video",
+            "shortCode": "DKm06gvSQ4q",
+            "caption": "Elegant Eyes with Bold liner Flawless Base \nTried Bollywood Look \u2764\ufe0f\nMakeup Hair by your @parul_hasija_ \n.\nInframe @jiyasinglaa",
+            "hashtags": [],
+            "mentions": [
+                "parul_hasija_",
+                "jiyasinglaa"
+            ],
+            "url": "https://www.instagram.com/p/DKm06gvSQ4q/",
+            "commentsCount": 29,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/504248001_1810103486235265_4625959809961326220_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=E-RA4gVCEYIQ7kNvwHPnMFY&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfPEiE1RpASab90fNbiaPpTe2GR8Vs39SD51hPW0ob0H1w&oe=685CE8B9&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOZ0K1t0Tx3Am_oaRYnWS3uzevzqjZFyTNWa3OHx8FirBEMQNJ2jIAL9SkxcjYD7opDqWdqhgkY9qEfacvNZBnae-Bg7kU5FwOj6Ns.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=2640330286174044_674824023&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMTRGNTU4NDhBMDM4MjhCNUE3MThCMkY1NDcxNzJCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzFULXgydUtXam5Nd3NHQUMzVDBpQURRSjQtYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrTSnf7RvrY%2FFQIoAkMzLBdAL0OVgQYk3RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNLcuWUbrEDvFMCAsyGHD_HMoZPHXCW72FKY6VJEXo7eQ&oe=6858F391&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 105,
+            "videoViewCount": 0,
+            "timestamp": "2025-06-07T16:48:22.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\ud83e\udda6",
+                    "id": "21465162450",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/497798296_18086498290714451_7098147933152577552_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=taPMfGBbnBUQ7kNvwE3VJ4k&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfNCjIEUVAuqKIMold2mu2BwaVRhCr8lFEN6ekesLTYrzA&oe=685CDA3D&_nc_sid=8b3546",
+                    "username": "jiyasinglaa"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Chaar Diwaari, Raftaar",
+                "song_name": "Farebi",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "649385224532668"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3640400294028410183",
+            "type": "Video",
+            "shortCode": "DKFTMedyn1H",
+            "caption": "Bride : Khushboo \u2764\ufe0f\n.\nMakeup hair - @parul_hasija_",
+            "hashtags": [],
+            "mentions": [
+                "parul_hasija_"
+            ],
+            "url": "https://www.instagram.com/p/DKFTMedyn1H/",
+            "commentsCount": 2,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/500543205_1207689667234260_2650328139211543585_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=dLmKGTN0t0sQ7kNvwHP-uIt&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfO8yh4DufPZmduV5bfFlUv-kc4FR-1uSEYTomTd0iHrZA&oe=685CED1C&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQP35TwCBW6L5ytVJB_GQ8gQTCir49oI-R9GKKMqf018fCYzhC4KHEnAqxDh2S03IqkR-3Z7pUK-CVCRXLT_ohuTUYDCSGGsxhyRS1M.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=699290029351960_3833814652&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMTQ3Mjk0Qjc3NTkyQjk2RDQxNzYxRkVFMzZBNDRCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS3VtMlIyZ05jRVk3M2NDQUt2cDFiajQ3Z1VJYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrSh6K2e37U%2FFQIoAkMzLBdAKYgxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfNYokX-1zQ0aFT_XhPgCxsBngKCbj1w9Q1ty5e2vouwOA&oe=6858FC76&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 50,
+            "videoViewCount": 0,
+            "timestamp": "2025-05-25T16:14:04.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "taggedUsers": [
+                {
+                    "full_name": "\ud835\udc15\ud835\udc22\ud835\udc1c\ud835\udc24\ud835\udc32 \ud835\udc2c\ud835\udc21\ud835\udc2b\ud835\udc22\ud835\udc2f\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc2f",
+                    "id": "48601167373",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/486748835_2034387090405224_2429371535343131501_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=wLeEhU9keisQ7kNvwHP-vM6&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOEzY64VCZuwXRlxqdARYTaauQeVatzjHtYKMWaJfV_Kw&oe=685CEF9D&_nc_sid=8b3546",
+                    "username": "vicky_shrivastav111"
+                },
+                {
+                    "full_name": "Khushboo",
+                    "id": "7607484233",
+                    "is_verified": false,
+                    "profile_pic_url": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-19/394910003_386185693734149_1950005272808582754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=2x6WAdBuzaQQ7kNvwHzZpaj&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfMR6AkfifS-jz3y137E02c3CQmwySIyINc1VeIGIa9bnA&oe=685CEA43&_nc_sid=8b3546",
+                    "username": "khushboo7010"
+                }
+            ],
+            "musicInfo": {
+                "artist_name": "Sajid Wajid, Rahat Fateh Ali Khan, Sunidhi Chauhan, Suzanne D'Mello",
+                "song_name": "Surili Akhiyon Wale (Duet)",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "270199262128353"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3616904030944529284",
+            "type": "Video",
+            "shortCode": "DIx0w2PIIuE",
+            "caption": "\u2764\ufe0f",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DIx0w2PIIuE/",
+            "commentsCount": 6,
+            "dimensionsHeight": 1136,
+            "dimensionsWidth": 640,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/491459308_1660656328155975_8389742866702436574_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=0lZxTNa7_S4Q7kNvwEo7VUk&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfOYSSut2ontZxgjGvylIB-25bxEuNDHjE3RzaBzs3kq2A&oe=685CD8BB&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://instagram.fgru6-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQP1UZIND-VhWWaUtzYKvtA8EoF8VUy_NV86NFjKiq6E6RJ5RK4pxVJ4ucQG--mHLH4jQ85JI_l0kUjoeg5YdlzC_epXv9Y8KLgCh9c.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=103&vs=1229148841957191_3838831237&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMjRDNkEzQjRGMjczNTg1QkFERkMxREQzQURENjE5Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUHR6U0IwZkxTWGNlVjhDQUNiOUhPaTFBYVJwYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrTL6v2G0bM%2FFQIoAkMzLBdAMIhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfP8ao1z1_OrL5jISgClQ-z41la-vY8vfE6EjitbHHwS1g&oe=6858E980&_nc_sid=8b3546",
+            "alt": null,
+            "likesCount": 60,
+            "videoViewCount": 324,
+            "timestamp": "2025-04-23T06:12:54.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "productType": "clips",
+            "musicInfo": {
+                "artist_name": "Nessa Barrett",
+                "song_name": "LOVE LOOKS PRETTY ON YOU",
+                "uses_original_audio": false,
+                "should_mute_audio": false,
+                "should_mute_audio_reason": "",
+                "audio_id": "854434756640376"
+            },
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3597680811660821639",
+            "type": "Image",
+            "shortCode": "DHth6MKSESH",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DHth6MKSESH/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/486549439_18064573546963329_248378571400607218_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=O3FimQrnDjsQ7kNvwGyZAzh&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5NzY4MDgxMTY2MDgyMTYzOQ%3D%3D.3-ccb7-5&oh=00_AfNpmD7PKi3XjwAkdxGLCFLum13LIvBWR6tcVVvqXdxVGw&oe=685CE2C1&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo by Parul Hasija Makeup Artist Chandigarh on March 27, 2025. May be an image of one or more people and makeup.",
+            "likesCount": 35,
+            "timestamp": "2025-03-27T17:36:35.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "isCommentsDisabled": false
+        },
+        {
+            "id": "3596811186829835920",
+            "type": "Image",
+            "shortCode": "DHqcLe7JL6Q",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/DHqcLe7JL6Q/",
+            "commentsCount": 0,
+            "dimensionsHeight": 1080,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/486059567_18064467934963329_2512238922801631084_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEwHZwi3gcYxl2hYKt4QK2yNkxJcwy1p58QXp6cS31ZJb8OCyIXqCufwe1Eo57GO-q1wrJbkqSRwiNf5oK1OY1G&_nc_ohc=tYH7lXCuWUIQ7kNvwGW_z17&_nc_gid=xi_lhtMgtjEg9jZYLR2gzg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5NjgxMTE4NjgyOTgzNTkyMA%3D%3D.3-ccb7-5&oh=00_AfN9SEaQ_hhKA3NTpnmnVll2ct9a98yCwxxs8HeFF1HXrg&oe=685CDD64&_nc_sid=8b3546",
+            "images": [],
+            "alt": "Photo by Parul Hasija Makeup Artist Chandigarh on March 26, 2025. May be an image of one or more people and makeup.",
+            "likesCount": 32,
+            "timestamp": "2025-03-26T12:48:47.000Z",
+            "childPosts": [],
+            "ownerUsername": "parul_hasija_",
+            "ownerId": "28972283328",
+            "isCommentsDisabled": false
+        }
+    ],
+    "fbid": "17841428899861535"
+}
