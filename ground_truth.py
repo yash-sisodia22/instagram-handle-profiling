@@ -135,16 +135,10 @@ GROUND_TRUTH_BRANDS = {
     "ovrtrn",
     "birdeye.india",
     "hrxbrand",
-    "Chapter2drip",
-    "homedepot",
-    "walmart",
-    "target",
-    "bestbuy",
-    "loweshomeimprovement",
+    "chapter2drip",
+    "bestbuycanada",
     "costco",
     "amazon",
-    "kohls",
-    "tjmaxx"
 }
 
 GROUND_TRUTH_CREATORS = {
@@ -184,7 +178,7 @@ GROUND_TRUTH_CREATORS = {
     "__.shammu_zz",
     "__.soulzy",
     "__.tashaa.__",
-    "___ .ishpreet",
+    "___.ishpreet",
     "____.jagriti.___",
     "______jasmine1_______",
     "_____keppy_____",
