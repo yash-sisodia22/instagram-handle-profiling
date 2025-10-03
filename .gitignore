@@ -6,7 +6,7 @@ ENV/
 .env/
 
 # Data directories
-brands_with_faces/
+collaborators_india/
 
 # Python
 __pycache__/
